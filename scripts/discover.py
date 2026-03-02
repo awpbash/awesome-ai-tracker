@@ -1,11 +1,34 @@
 """Repo discovery: trending scrape, GitHub Search API, tracked orgs."""
 
 import os
+import re
 import time
 from datetime import datetime, timedelta, timezone
 
 import requests
 from bs4 import BeautifulSoup
+
+# Pattern to detect AI/ML relevance; \b at the start prevents mid-word matches.
+# No trailing \b so prefix patterns (e.g. quantiz*) also match derived words.
+_AI_RELEVANCE_PATTERN = re.compile(
+    r"\b(llm|llms|gpt|nlp|ai|ml|neural|transformer|diffusion|generative|"
+    r"rag|embedding|agent|chatbot|inference|multimodal|vlm|langchain|"
+    r"llama|mistral|claude|gemini|deepseek|anthropic|huggingface|"
+    r"fine.?tun|quantiz|language.model|machine.learning|deep.learning|"
+    r"reinforcement|text.to.image|text.to.video|stable.diffusion|"
+    r"vision.language|autonomous|agentic|mcp|copilot|openai)",
+    re.IGNORECASE,
+)
+
+
+def _is_ai_relevant(repo: dict) -> bool:
+    """Return True if the repo appears to be AI/ML related."""
+    text = " ".join([
+        repo.get("full_name", ""),
+        repo.get("description", ""),
+        " ".join(repo.get("topics", [])),
+    ])
+    return bool(_AI_RELEVANCE_PATTERN.search(text))
 
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 HEADERS = {"Accept": "application/vnd.github+json"}
@@ -156,8 +179,8 @@ def discover_repos(config: dict) -> list[dict]:
         if key not in seen or repo["stars"] > seen[key]["stars"]:
             seen[key] = repo
 
-    # filter by min stars and cap
-    results = [r for r in seen.values() if r["stars"] >= min_stars]
+    # filter by min stars and AI relevance, then cap
+    results = [r for r in seen.values() if r["stars"] >= min_stars and _is_ai_relevant(r)]
     results.sort(key=lambda r: r["stars"], reverse=True)
     results = results[:max_repos]
 

@@ -73,7 +73,8 @@ def resummarize_all():
     all_repos = [
         {"full_name": k, "url": f"https://github.com/{k}", "stars": v.get("stars", 0),
          "summary": v.get("summary", ""), "image": v.get("image", ""),
-         "language": "", "created_at": v.get("first_seen", ""), "topics": []}
+         "language": v.get("language", ""), "created_at": v.get("created_at", v.get("first_seen", "")),
+         "topics": v.get("topics", [])}
         for k, v in seen.items()
     ]
     all_repos.sort(key=lambda r: r["stars"], reverse=True)
@@ -123,6 +124,9 @@ def main():
             "stars": r["stars"],
             "summary": r.get("summary", ""),
             "image": r.get("image", ""),
+            "language": r.get("language", ""),
+            "topics": r.get("topics", []),
+            "created_at": r.get("created_at", ""),
         }
     save_seen_repos(seen)
 
