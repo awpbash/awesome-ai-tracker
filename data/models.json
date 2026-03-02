@@ -55,7 +55,7 @@
       "company": "Qwen (Alibaba)",
       "last_modified": "2026-02-27T09:48:22.000Z",
       "downloads": 587006,
-      "likes": 769,
+      "likes": 771,
       "pipeline_tag": "image-text-to-text",
       "tags": [
         "transformers",
