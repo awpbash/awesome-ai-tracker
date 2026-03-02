@@ -1,7 +1,7 @@
 """Generate daily markdown files and the main README in awesome-list style."""
 
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -76,6 +76,30 @@ def _format_stars(stars: int) -> str:
     return str(stars)
 
 
+def _is_new_repo(repo: dict, days: int = 30) -> bool:
+    """Return True if the repo was created within the last *days* days."""
+    created_at = repo.get("created_at", "")
+    if not created_at:
+        return False
+    try:
+        dt = datetime.fromisoformat(created_at.replace("Z", "+00:00"))
+        return (datetime.now(timezone.utc) - dt) <= timedelta(days=days)
+    except (ValueError, TypeError):
+        return False
+
+
+def _format_created(repo: dict) -> str:
+    """Return a short human-readable creation date, or empty string."""
+    created_at = repo.get("created_at", "")
+    if not created_at:
+        return ""
+    try:
+        dt = datetime.fromisoformat(created_at.replace("Z", "+00:00"))
+        return dt.strftime("%Y-%m-%d")
+    except (ValueError, TypeError):
+        return created_at[:10] if len(created_at) >= 10 else ""
+
+
 def _shields_date(date_str: str) -> str:
     """Escape hyphens for shields.io (- becomes --)."""
     return date_str.replace("-", "--")
@@ -109,7 +133,19 @@ def _repo_card(r: dict) -> list[str]:
     summary = r.get("summary", "").replace("\n", " ").strip()
     lang = r.get("language", "")
     image = r.get("image", "")
+    topics = r.get("topics", [])
+
     lang_part = f" `{lang}`" if lang else ""
+    new_badge = " 🆕" if _is_new_repo(r) else ""
+
+    # Metadata line: creation date and topics
+    meta_parts = []
+    date_str = _format_created(r)
+    if date_str:
+        meta_parts.append(f"📅 {date_str}")
+    if topics:
+        meta_parts.append(" ".join(f"`{t}`" for t in topics[:5]))
+    meta_line = " · ".join(meta_parts)
 
     # Use OpenGraph fallback if no image
     if not image:
@@ -120,11 +156,14 @@ def _repo_card(r: dict) -> list[str]:
         f"  <img src=\"{image}\" width=\"400\" alt=\"{name}\" />",
         "</a>",
         "",
-        f"**[{name}]({url})** \u2b50 {stars}{lang_part}",
+        f"**[{name}]({url})** \u2b50 {stars}{new_badge}{lang_part}",
         "",
         f"{summary}",
         "",
     ]
+    if meta_line:
+        lines.insert(-1, f"*{meta_line}*")
+        lines.insert(-1, "")
     return lines
 
 
@@ -136,7 +175,11 @@ def _repo_line(r: dict) -> str:
     summary = r.get("summary", "").replace("\n", " ").strip()
     lang = r.get("language", "")
     image = r.get("image", "")
+
     lang_part = f" `{lang}`" if lang else ""
+    new_badge = " 🆕" if _is_new_repo(r) else ""
+    date_str = _format_created(r)
+    date_part = f" · 📅 {date_str}" if date_str else ""
 
     if not image:
         image = f"https://opengraph.githubassets.com/1/{name}"
@@ -144,7 +187,7 @@ def _repo_line(r: dict) -> str:
     # Compact card with thumbnail
     return (
         f"- <a href=\"{url}\"><img src=\"{image}\" width=\"70\" align=\"left\" alt=\"{name}\" /></a>"
-        f" **[{name}]({url})** \u2b50 {stars}{lang_part}<br/>"
+        f" **[{name}]({url})** \u2b50 {stars}{new_badge}{lang_part}{date_part}<br/>"
         f"{summary}\n"
     )
 
@@ -257,27 +300,44 @@ def generate_daily_file(repos: list[dict], date_str: str | None = None,
         print(f"[markdown] wrote {path}")
         return path
 
-    # Table of contents
-    grouped = _group_and_sort(repos)
+    # Table of contents — one entry per section (new/trending) × category
+    new_repos = [r for r in repos if _is_new_repo(r, days=30)]
+    trending_repos = [r for r in repos if not _is_new_repo(r, days=30)]
+    sections = []
+    if new_repos:
+        sections.append(("\U0001f195 New This Month", "new-this-month", new_repos))
+    if trending_repos:
+        sections.append(("\U0001f4c8 Trending Today", "trending-today", trending_repos))
+    if not sections:
+        sections = [("All Repos", "all-repos", repos)]
+
     lines.append("## Contents")
     lines.append("")
-    for category in grouped:
-        emoji, _ = CATEGORIES[category]
-        anchor = category.lower().replace(" ", "-").replace("&", "").replace("/", "").replace("--", "-")
-        lines.append(f"- [{emoji} {category}](#{anchor})")
+    for section_title, section_anchor, section_repos in sections:
+        lines.append(f"- [{section_title}](#{section_anchor})")
+        grouped = _group_and_sort(section_repos)
+        for category in grouped:
+            emoji, _ = CATEGORIES[category]
+            anchor = (section_anchor + "-" + category.lower()
+                      .replace(" ", "-").replace("&", "").replace("/", "").replace("--", "-"))
+            lines.append(f"  - [{emoji} {category}](#{anchor})")
     lines.append("")
     lines.append("---")
     lines.append("")
 
-    # Entries with full image cards
-    for category, cat_repos in grouped.items():
-        emoji, _ = CATEGORIES[category]
-        lines.append(f"## {emoji} {category}")
+    # Entries with full image cards, split by new vs trending
+    for section_title, section_anchor, section_repos in sections:
+        lines.append(f"## {section_title}")
         lines.append("")
-        for r in cat_repos:
-            lines.extend(_repo_card(r))
-            lines.append("---")
+        grouped = _group_and_sort(section_repos)
+        for category, cat_repos in grouped.items():
+            emoji, _ = CATEGORIES[category]
+            lines.append(f"### {emoji} {category}")
             lines.append("")
+            for r in cat_repos:
+                lines.extend(_repo_card(r))
+                lines.append("---")
+                lines.append("")
 
     lines.append(f"[\u2b05 Back to main page](../README.md)")
     lines.append("")
@@ -296,20 +356,37 @@ def _build_daily_entry(repos: list[dict], date_str: str) -> list[str]:
     lines.append("")
 
     if repos:
-        grouped = _group_and_sort(repos)
-        for category, cat_repos in grouped.items():
-            emoji, _ = CATEGORIES[category]
-            lines.append(f"**{emoji} {category}**")
-            for r in cat_repos:
-                name = r["full_name"]
-                url = r["url"]
-                stars = _format_stars(r["stars"])
-                summary = r.get("summary", "").replace("\n", " ").strip()
-                # Truncate long summaries for conciseness
-                if len(summary) > 120:
-                    summary = summary[:117] + "..."
-                lines.append(f"- **[{name}]({url})** \u2b50 {stars} \u2014 {summary}")
+        # Split by whether the repo itself was recently created vs older but trending
+        new_repos = [r for r in repos if _is_new_repo(r, days=30)]
+        trending_repos = [r for r in repos if not _is_new_repo(r, days=30)]
+
+        sections = []
+        if new_repos:
+            sections.append(("\U0001f195 New This Month", new_repos))
+        if trending_repos:
+            sections.append(("\U0001f4c8 Trending Today", trending_repos))
+        if not sections:
+            sections = [("All Repos", repos)]
+
+        for section_title, section_repos in sections:
+            lines.append(f"**{section_title}**")
             lines.append("")
+            grouped = _group_and_sort(section_repos)
+            for category, cat_repos in grouped.items():
+                emoji, _ = CATEGORIES[category]
+                lines.append(f"**{emoji} {category}**")
+                for r in cat_repos:
+                    name = r["full_name"]
+                    url = r["url"]
+                    stars = _format_stars(r["stars"])
+                    summary = r.get("summary", "").replace("\n", " ").strip()
+                    # Truncate long summaries for conciseness
+                    if len(summary) > 120:
+                        summary = summary[:117] + "..."
+                    date_created = _format_created(r)
+                    date_part = f" · 📅 {date_created}" if date_created else ""
+                    lines.append(f"- **[{name}]({url})** \u2b50 {stars}{date_part} \u2014 {summary}")
+                lines.append("")
     else:
         lines.append("No new repos today.")
         lines.append("")
@@ -389,7 +466,7 @@ def generate_readme(repos: list[dict], date_str: str | None = None,
         "",
         "**How it works:** GitHub Actions runs daily \u2192 discovers trending + new repos \u2192 Claude Haiku writes summaries \u2192 auto-commits",
         "",
-        "Made with \u2764\ufe0f and [Claude](https://claude.ai) | [How to set up your own](/.github/workflows/daily_update.yml)",
+        "Made with \u2764\ufe0f and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)",
         "",
         "</div>",
         "",
