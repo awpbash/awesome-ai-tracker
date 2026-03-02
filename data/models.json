@@ -30,7 +30,7 @@
       "company": "Qwen (Alibaba)",
       "last_modified": "2026-03-02T03:44:50.000Z",
       "downloads": 134356,
-      "likes": 365,
+      "likes": 367,
       "pipeline_tag": "image-text-to-text",
       "tags": [
         "transformers",
@@ -55,7 +55,7 @@
       "company": "Qwen (Alibaba)",
       "last_modified": "2026-02-27T09:48:22.000Z",
       "downloads": 587006,
-      "likes": 771,
+      "likes": 777,
       "pipeline_tag": "image-text-to-text",
       "tags": [
         "transformers",
@@ -108,7 +108,7 @@
       "company": "Qwen (Alibaba)",
       "last_modified": "2026-02-26T03:34:45.000Z",
       "downloads": 235390,
-      "likes": 69,
+      "likes": 71,
       "pipeline_tag": "image-text-to-text",
       "tags": [
         "transformers",
@@ -241,7 +241,7 @@
       "company": "OpenAI",
       "last_modified": "2025-08-26T17:25:03.000Z",
       "downloads": 4080777,
-      "likes": 4534,
+      "likes": 4535,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -698,7 +698,7 @@
       "company": "DeepSeek",
       "last_modified": "2026-02-03T00:33:19.000Z",
       "downloads": 1682693,
-      "likes": 835,
+      "likes": 836,
       "pipeline_tag": "image-text-to-text",
       "tags": [
         "transformers",
@@ -925,7 +925,7 @@
       "company": "Mistral",
       "last_modified": "2026-02-19T00:28:31.000Z",
       "downloads": 321322,
-      "likes": 661,
+      "likes": 663,
       "pipeline_tag": "automatic-speech-recognition",
       "tags": [
         "vllm",

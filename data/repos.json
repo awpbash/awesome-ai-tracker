@@ -1,0 +1,354 @@
+{
+  "Shubhamsaboo/awesome-llm-apps": {
+    "first_seen": "2026-03-02",
+    "stars": 98980,
+    "summary": "Discover a treasure trove of production-ready LLM applications built with RAG, AI agents, and multi-agent teams across OpenAI, Anthropic, Google, and open-source models—perfect for learning how to build intelligent apps that actually solve real problems. Whether you're exploring voice agents, retrieval-augmented generation, or agent collaboration patterns, this curated collection gives you working examples and best practices from the community to accelerate your next project.",
+    "image": "https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date",
+    "language": "Python",
+    "topics": [],
+    "created_at": ""
+  },
+  "datawhalechina/hello-agents": {
+    "first_seen": "2026-03-02",
+    "stars": 24351,
+    "summary": "Hello-Agents is a comprehensive, free learning guide that takes you from AI agent fundamentals to building your own production-ready systems, with hands-on implementations of classic patterns like ReAct and practical frameworks you can use or customize. Whether you're looking to understand the core principles of agents or want to build real applications like intelligent travel assistants, this project bridges the gap between theory and practice with a perfect mix of explanation and code.",
+    "image": "https://raw.githubusercontent.com/datawhalechina/hello-agents/main/./docs/images/hello-agents.png",
+    "language": "Python",
+    "topics": [],
+    "created_at": ""
+  },
+  "moeru-ai/airi": {
+    "first_seen": "2026-03-02",
+    "stars": 20974,
+    "summary": "Project AIRI is an open-source framework for creating and deploying AI-powered virtual characters with personality and soul, inspired by Neuro-sama's groundbreaking approach to blending AI with creative expression. Whether you're building a virtual streamer, an interactive companion, or exploring the frontier of AI character design, AIRI gives you the tools and community to bring your digital creations to life.",
+    "image": "https://repobeats.axiom.co/api/embed/a1d6fe2c13ea2bb53a5154435a71e2431f70c2ee.svg 'Repobeats analytics image'",
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": ""
+  },
+  "ruvnet/ruflo": {
+    "first_seen": "2026-03-02",
+    "stars": 17640,
+    "summary": "Ruflo is an enterprise-grade AI orchestration platform that lets you deploy and coordinate 60+ specialized Claude agents working together as intelligent swarms to tackle complex software engineering challenges. With self-learning capabilities, fault-tolerant consensus, and built-in security, it transforms multi-agent AI from a nice idea into production-ready reality for teams that need reliable, coordinated AI teammates.",
+    "image": "https://raw.githubusercontent.com/ruvnet/ruflo/main/ruflo/assets/ruFlo.png",
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": ""
+  },
+  "NevaMind-AI/memU": {
+    "first_seen": "2026-03-02",
+    "stars": 12288,
+    "summary": "memU is a memory framework that keeps AI agents running 24/7 with proactive intelligence while dramatically reducing LLM token costs by treating memory like an organized file system. It continuously captures user intent and acts on it without prompting, making always-on AI assistants practical and affordable for production use.",
+    "image": "https://raw.githubusercontent.com/NevaMind-AI/memU/main/assets/banner.png",
+    "language": "Python",
+    "topics": [],
+    "created_at": ""
+  },
+  "K-Dense-AI/claude-scientific-skills": {
+    "first_seen": "2026-03-02",
+    "stars": 10646,
+    "summary": "This library gives AI agents like Claude superpowers for scientific research by providing 148+ pre-built skills for bioinformatics, drug discovery, clinical research, and more—so you can turn any AI into a genuinely useful research assistant without reinventing the wheel. Whether you're analyzing genomic data, running molecular simulations, or processing medical imaging, these skills handle the complexity while letting your AI focus on the creative problem-solving.",
+    "image": "https://api.star-history.com/svg?repos=K-Dense-AI/claude-scientific-skills&type=date&legend=top-left",
+    "language": "Python",
+    "topics": [],
+    "created_at": ""
+  },
+  "RightNow-AI/openfang": {
+    "first_seen": "2026-03-02",
+    "stars": 8530,
+    "summary": "OpenFang is a production-grade Agent Operating System built in Rust that lets you deploy truly autonomous agents running 24/7 on schedules—no prompting needed—with a single lightweight binary that handles everything from research and monitoring to lead generation and social media management. It's the antidote to chatbot frameworks: pre-built \"Hands\" (capability packages) with expert system prompts, knowledge graphs, and guardrails that actually get work done, not just answer questions.",
+    "image": "https://raw.githubusercontent.com/RightNow-AI/openfang/main/public/assets/openfang-logo.png",
+    "language": "Rust",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "llm",
+      "mcp",
+      "open-source",
+      "openclaw",
+      "operating-system",
+      "rust"
+    ],
+    "created_at": "2026-02-24T23:12:38Z"
+  },
+  "X-PLUG/MobileAgent": {
+    "first_seen": "2026-03-02",
+    "stars": 7848,
+    "summary": "Mobile-Agent is a powerful GUI automation framework that lets you build AI agents capable of understanding and controlling desktop, mobile, and browser interfaces—perfect for automating complex workflows without writing traditional code. With state-of-the-art vision models like GUI-Owl and easy-to-use APIs, you can create intelligent agents that interact with any graphical interface just like a human would, opening up endless possibilities for task automation and intelligent automation pipelines.",
+    "image": "https://api.star-history.com/svg?repos=X-PLUG/MobileAgent&type=Date",
+    "language": "Python",
+    "topics": [],
+    "created_at": ""
+  },
+  "anthropics/financial-services-plugins": {
+    "first_seen": "2026-03-02",
+    "stars": 5128,
+    "summary": "# financial-services-plugins\n\nClaude becomes your financial services specialist with enterprise-grade plugins for investment banking, equity research, private equity, and wealth management — connecting real data sources to finished deliverables so your team moves from analysis to polished reports without context-switching. Customize these plugins with your firm's models, templates, and workflows to turn Claude into a team member who works exactly like you do.",
+    "image": "https://opengraph.githubassets.com/1/anthropics/financial-services-plugins",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2026-02-23T19:24:50Z"
+  },
+  "alibaba/OpenSandbox": {
+    "first_seen": "2026-03-02",
+    "stars": 3779,
+    "summary": "OpenSandbox is a production-ready sandbox platform that lets you safely execute code and run agents (like Claude Code or coding bots) in isolated, scalable environments with multi-language SDKs and built-in Docker/Kubernetes support. Whether you're building AI agents, evaluating LLM capabilities, or running untrusted code, it handles the heavy lifting of sandbox lifecycle management so you can focus on your application logic.",
+    "image": "https://api.star-history.com/svg?repos=alibaba/OpenSandbox&type=date&legend=top-left",
+    "language": "Python",
+    "topics": [],
+    "created_at": ""
+  },
+  "Panniantong/Agent-Reach": {
+    "first_seen": "2026-03-02",
+    "stars": 3671,
+    "summary": "Agent Reach gives your AI agent internet superpowers in one command—instantly unlocking the ability to browse websites, search Twitter/Reddit, watch YouTube, read RSS feeds, and access dozens of platforms that would otherwise require painful API configurations and workarounds. Stop letting your AI agents hit dead ends when they try to research online; with Agent Reach, they can access the full web like a real person, handling authentication, paywalls, and platform restrictions automatically so you never have to fiddle with API keys or proxy settings again.",
+    "image": "https://opengraph.githubassets.com/1/Panniantong/Agent-Reach",
+    "language": "Python",
+    "topics": [
+      "agent-infrastructure",
+      "ai-agent",
+      "ai-search",
+      "automation",
+      "bilibili",
+      "claude-code",
+      "cli",
+      "cursor",
+      "free-api",
+      "llm-tools",
+      "mcp",
+      "python",
+      "reddit-scraper",
+      "twitter-scraper",
+      "web-scraper",
+      "xiaohongshu",
+      "youtube-transcript"
+    ],
+    "created_at": "2026-02-24T02:10:24Z"
+  },
+  "superset-sh/superset": {
+    "first_seen": "2026-03-02",
+    "stars": 3158,
+    "summary": "Superset is a turbocharged terminal that lets you run multiple CLI coding agents simultaneously with isolated git worktrees, so they never interfere with each other and you can monitor everything from one place. If you're working with AI coding agents like Claude Code, Cursor, or any other CLI-based tool, Superset eliminates context switching overhead and gets changes reviewed and shipped way faster.",
+    "image": "https://raw.githubusercontent.com/superset-sh/superset/main/apps/marketing/public/images/readme-hero.png",
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": ""
+  },
+  "ringhyacinth/Star-Office-UI": {
+    "first_seen": "2026-03-02",
+    "stars": 1069,
+    "summary": "Star Office UI is a delightful real-time dashboard that brings your AI agents to life in a pixel-art office setting, automatically moving them between \"working,\" \"resting,\" and \"debugging\" zones while displaying their daily notes—perfect for teams building multi-agent systems who want to finally see what their assistants are actually up to. It's lightweight, fun to watch, and gives your whole team instant visibility into task progress without the clutter of traditional project management tools.",
+    "image": "https://raw.githubusercontent.com/ringhyacinth/Star-Office-UI/main/docs/screenshots/office-preview-20260301.jpg",
+    "language": "HTML",
+    "topics": [
+      "agent-collaboration",
+      "ai-assistant",
+      "dashboard",
+      "flask",
+      "mobile-friendly",
+      "multi-agent",
+      "openclaw",
+      "phaser",
+      "pixel-art",
+      "status-visiualzation"
+    ],
+    "created_at": "2026-02-26T03:45:35Z"
+  },
+  "mgechev/skills-best-practices": {
+    "first_seen": "2026-03-02",
+    "stars": 953,
+    "summary": "This guide teaches you how to build AI agent skills that actually work—structuring them for clarity, keeping context lean, and writing instructions that LLMs can reliably follow instead of getting lost in prose. If you're building tools for Claude or other AI agents, this repo cuts through the noise with battle-tested best practices that'll make your skills discoverable and trustworthy.",
+    "image": "https://opengraph.githubassets.com/1/mgechev/skills-best-practices",
+    "language": "",
+    "topics": [],
+    "created_at": "2026-02-24T19:47:38Z"
+  },
+  "win4r/memory-lancedb-pro": {
+    "first_seen": "2026-03-02",
+    "stars": 809,
+    "summary": "Memory-lancedb-pro supercharges OpenClaw agents with hybrid retrieval (combining vector search and BM25 full-text search), intelligent reranking, and advanced memory management—making your AI truly remember what matters. If you're building OpenClaw agents that need smarter, faster, and more accurate long-term memory, this plugin is the upgrade you've been waiting for.",
+    "image": "https://storage.ko-fi.com/cdn/kofi2.png?v=3",
+    "language": "TypeScript",
+    "topics": [
+      "lancedb",
+      "memory",
+      "openclaw",
+      "openclaw-agent",
+      "openclaw-plugin",
+      "rag"
+    ],
+    "created_at": "2026-02-24T08:38:15Z"
+  },
+  "kibitzsh/kibitz": {
+    "first_seen": "2026-03-02",
+    "stars": 389,
+    "summary": "Kibitz is a VS Code extension and CLI that bridges multiple AI coding sessions (Claude/Codex) with live commentary and unified prompt dispatch, letting you manage and coordinate conversations from a single composer. It solves the friction of context-switching between different AI tools by giving you a unified command center where you can watch, comment on, and redirect prompts across all your active sessions.",
+    "image": "https://opengraph.githubassets.com/1/kibitzsh/kibitz",
+    "language": "TypeScript",
+    "topics": [
+      "claude",
+      "claudecode",
+      "cli",
+      "codex",
+      "macos",
+      "vscode-extension",
+      "windows"
+    ],
+    "created_at": "2026-02-26T19:56:53Z"
+  },
+  "bcurts/agentchattr": {
+    "first_seen": "2026-03-02",
+    "stars": 304,
+    "summary": "AgentChattr is a local chat server that lets you coordinate with AI coding agents in real-time through a shared chat interface—just @mention an agent and it automatically reads the conversation and responds, eliminating the need for manual terminal juggling. It ships with built-in support for Claude, Codex, and Gemini while staying compatible with any MCP-compatible agent, making multi-agent collaboration seamless and hands-free.",
+    "image": "https://raw.githubusercontent.com/bcurts/agentchattr/main/screenshot.png",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2026-02-26T19:03:35Z"
+  },
+  "anadim/AdderBoard": {
+    "first_seen": "2026-03-02",
+    "stars": 251,
+    "summary": "AdderBoard is a fun competitive challenge to build the smallest possible transformer that can add two 10-digit numbers with 99%+ accuracy, pushing the boundaries of model compression and clever architecture design. Whether you're interested in constructive proofs of what transformers *can* represent or creative training techniques that minimize parameters, this repo showcases brilliant solutions from the community and will inspire you to think differently about neural network efficiency.",
+    "image": "https://raw.githubusercontent.com/anadim/AdderBoard/main/adderboard.png",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2026-02-25T04:04:19Z"
+  },
+  "shareAI-lab/claw0": {
+    "first_seen": "2026-03-02",
+    "stars": 240,
+    "summary": "Claw0 is a hands-on learning guide that takes you from a simple AI agent loop to a production-grade gateway in 10 progressive, runnable Python sections—each introducing exactly one new concept while keeping all prior code intact. If you want to understand real agent architecture by building it piece by piece (with docs in English, Chinese, and Japanese), this is the rare tutorial that actually gets you there.",
+    "image": "https://opengraph.githubassets.com/1/shareAI-lab/claw0",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2026-02-24T10:16:38Z"
+  },
+  "mnemox-ai/idea-reality-mcp": {
+    "first_seen": "2026-03-02",
+    "stars": 232,
+    "summary": "idea-reality-mcp automatically validates your startup idea or code project against 5 real databases (GitHub, npm, PyPI, Hacker News, Product Hunt) before you waste time building it, giving your AI agent instant reality-checks instead of relying on hallucinated advice. Stop asking ChatGPT if something exists and let this MCP tool do the verification work for you — it's free, open-source, and runs right inside your workflow.",
+    "image": "https://opengraph.githubassets.com/1/mnemox-ai/idea-reality-mcp",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "developer-tools",
+      "github",
+      "hackernews",
+      "mcp",
+      "model-context-protocol",
+      "npm",
+      "producthunt",
+      "pypi",
+      "reality-check"
+    ],
+    "created_at": "2026-02-24T11:16:50Z"
+  },
+  "carmahhawwari/ui-design-brain": {
+    "first_seen": "2026-03-02",
+    "stars": 224,
+    "summary": "Stop letting Cursor generate generic, template-like UI—this skill injects real design knowledge into your AI agent, covering 60+ components with best practices, layout patterns, and SaaS-quality conventions so it builds interfaces that actually look designed. Install it once and ask naturally for production-grade UI without ever manually specifying patterns or touching a design system.",
+    "image": "https://opengraph.githubassets.com/1/carmahhawwari/ui-design-brain",
+    "language": "",
+    "topics": [],
+    "created_at": "2026-02-28T07:20:12Z"
+  },
+  "ufira-ai/Vibma": {
+    "first_seen": "2026-03-02",
+    "stars": 185,
+    "summary": "Vibma lets AI agents design directly in Figma through natural conversation—read layouts, create components, modify styles, and build entire design systems without touching the UI yourself. It's a game-changer for designers and developers who want to supercharge their design workflow by letting Claude do the heavy lifting while you focus on the vision.",
+    "image": "https://opengraph.githubassets.com/1/ufira-ai/Vibma",
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2026-02-26T17:29:07Z"
+  },
+  "Eronred/aso-skills": {
+    "first_seen": "2026-03-02",
+    "stars": 182,
+    "summary": "Get expert-level App Store Optimization guidance directly in your IDE with AI agent skills that pull real App Store data and deliver actionable recommendations instead of generic advice. Perfect for indie developers and growth teams who want their AI assistant to handle keyword research, metadata optimization, competitor analysis, and app marketing — no expensive consultants required.",
+    "image": "https://raw.githubusercontent.com/Eronred/aso-skills/main/cover.png",
+    "language": "Shell",
+    "topics": [
+      "aso",
+      "marketing",
+      "mcp",
+      "mobile-app",
+      "skills"
+    ],
+    "created_at": "2026-02-27T23:56:44Z"
+  },
+  "MeisnerDan/mission-control": {
+    "first_seen": "2026-03-02",
+    "stars": 179,
+    "summary": "Mission Control is an open-source task management system built specifically for delegating work to AI agents, giving solo entrepreneurs a command center to prioritize tasks, assign them to multiple AI agents, and supervise their execution through an intuitive dashboard. It runs locally with zero vendor lock-in, featuring an Eisenhower matrix for prioritization, multi-agent collaboration, autonomous task orchestration, and a token-optimized API that lets AI agents work efficiently within your project structure.",
+    "image": "https://raw.githubusercontent.com/MeisnerDan/mission-control/main/mission-control/docs/demo.gif",
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2026-02-24T00:21:15Z"
+  },
+  "glommer/codemogger": {
+    "first_seen": "2026-03-02",
+    "stars": 175,
+    "summary": "Codemogger is a lightweight code indexing library that helps AI agents understand and navigate codebases through semantic and keyword search—all powered by a single SQLite file with zero external dependencies, API keys, or servers. It's the perfect foundation for building composable coding agents that need to quickly find and understand code across unfamiliar projects.",
+    "image": "https://raw.githubusercontent.com/glommer/codemogger/main/codemogger.png",
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2026-02-24T13:30:59Z"
+  },
+  "geekjourneyx/jina-cli": {
+    "first_seen": "2026-03-02",
+    "stars": 174,
+    "summary": "Jina CLI is a lightweight command-line tool that wraps the Jina AI Reader API to convert any URL into LLM-friendly content—perfect for AI agents that need to read web pages, tweets, blogs, and news sites cleanly. It works as a standalone CLI, OpenClaw skill for local AI assistants, or Claude Code skill, making it incredibly flexible for developers building AI-powered applications and automations.",
+    "image": "https://raw.githubusercontent.com/geekjourneyx/awesome-developer-go-sail/main/docs/assets/wechat-reward-code.jpg",
+    "language": "Go",
+    "topics": [
+      "ai-agent",
+      "ai-tools",
+      "claude-code",
+      "cli",
+      "jina-ai-reader",
+      "openclaw",
+      "skills",
+      "url-to-markdown"
+    ],
+    "created_at": "2026-02-28T08:39:26Z"
+  },
+  "Zyora-Dev/zse": {
+    "first_seen": "2026-03-02",
+    "stars": 135,
+    "summary": "ZSE is an ultra memory-efficient LLM inference engine that lets you run 32B models on 24GB GPUs through native INT4 CUDA kernels and fast cold starts, all packaged in a single portable .zse file. Whether you're deploying locally or on cloud platforms, it eliminates network calls and complex setup while delivering impressive speed — perfect if you want production-ready LLM inference without the usual headaches.",
+    "image": "https://zllm.in/_next/image?url=%2Fimages%2Fzllm-logo.png&w=256&q=75",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2026-02-24T09:22:49Z"
+  },
+  "arpitg1304/robotics-agent-skills": {
+    "first_seen": "2026-03-02",
+    "stars": 110,
+    "summary": "This repo gives AI agents battle-tested skills for robotics development, with practical patterns for ROS1/ROS2, perception systems, and safety-critical design—complete with real code examples and documented anti-patterns to avoid common pitfalls. Whether you're building with Claude, LangChain, or custom frameworks, these curated skill files instantly level up your AI agent's ability to write production-ready robotics software.",
+    "image": "https://opengraph.githubassets.com/1/arpitg1304/robotics-agent-skills",
+    "language": "",
+    "topics": [],
+    "created_at": "2026-02-26T14:02:32Z"
+  },
+  "Thinklanceai/agentkeeper": {
+    "first_seen": "2026-03-02",
+    "stars": 106,
+    "summary": "AgentKeeper gives your AI agents persistent memory that survives crashes, restarts, and provider switches — so they never lose critical context when you switch from GPT-4 to Claude to Ollama. If you're building agents that need to remember things across sessions and model changes, this cognitive persistence layer is exactly what you've been missing.",
+    "image": "https://opengraph.githubassets.com/1/Thinklanceai/agentkeeper",
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "llm-memory-python-openai-anthropic-gemini-ollama"
+    ],
+    "created_at": "2026-02-24T21:13:57Z"
+  },
+  "chenhg5/cc-connect": {
+    "first_seen": "2026-03-02",
+    "stars": 102,
+    "summary": "cc-connect bridges your local AI coding assistants (Claude Code, Cursor, Gemini CLI, and more) to messaging platforms like Slack, Discord, Feishu, and DingTalk—so you can chat with your AI agent from anywhere without needing a public IP. It's fully modular and extensible, making it perfect if you want to break free from web-only AI tools and integrate them into your existing team communication channels.",
+    "image": "https://raw.githubusercontent.com/chenhg5/cc-connect/main/docs/images/screenshot/cc-connect-discord.png",
+    "language": "Go",
+    "topics": [],
+    "created_at": "2026-02-28T02:39:39Z"
+  }
+}
