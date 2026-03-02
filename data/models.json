@@ -6,7 +6,7 @@
       "company": "Qwen (Alibaba)",
       "last_modified": "2026-03-02T03:44:50.000Z",
       "downloads": 127141,
-      "likes": 364,
+      "likes": 365,
       "pipeline_tag": "image-text-to-text",
       "tags": [
         "transformers",
@@ -31,7 +31,7 @@
       "company": "Qwen (Alibaba)",
       "last_modified": "2026-02-27T09:48:22.000Z",
       "downloads": 481446,
-      "likes": 761,
+      "likes": 763,
       "pipeline_tag": "image-text-to-text",
       "tags": [
         "transformers",
@@ -84,7 +84,7 @@
       "company": "Qwen (Alibaba)",
       "last_modified": "2026-02-26T03:34:45.000Z",
       "downloads": 157725,
-      "likes": 68,
+      "likes": 69,
       "pipeline_tag": "image-text-to-text",
       "tags": [
         "transformers",
