@@ -9,23 +9,56 @@ tracked_orgs:
   - huggingface
   - anthropics
   - deepseek-ai
+  - browser-use       # browser agents
+  - crewAIInc         # multi-agent
+  - langchain-ai      # LLM tooling
+  - run-llama         # LlamaIndex RAG
 
 search_keywords:
+  # Agents & Skills
+  - "AI agent"
+  - "agent skills"
+  - "MCP server"
+  - "multi-agent"
+  - "agentic workflow"
+  - "coding agent"
+  # Models & LLMs
   - "large language model"
   - "LLM"
-  - "diffusion model"
   - "transformer"
-  - "AI agent"
+  - "fine-tuning LLM"
+  # Vision & Image
+  - "diffusion model"
   - "text-to-image"
-  - "RAG retrieval"
   - "vision language model"
-  - "multimodal AI"
   - "VLM"
+  - "image generation AI"
+  # Audio
+  - "text-to-speech AI"
+  - "speech recognition AI"
+  - "voice AI agent"
+  # RAG
+  - "RAG retrieval"
+  - "vector database AI"
+  # General
+  - "multimodal AI"
   - "generative AI"
+
+search_topics:
+  - llm
+  - ai-agent
+  - mcp
+  - langchain
+  - rag
+  - text-to-image
+  - generative-ai
+  - machine-learning
+  - deep-learning
+  - transformers
 
 min_stars: 50
 max_age_days: 7
-max_repos_per_day: 30
+max_repos_per_day: 50
 
 models_per_company: 5
 

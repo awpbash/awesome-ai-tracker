@@ -13,33 +13,49 @@ MAIN_CAPS = ["Text", "Code", "Vision", "Multilingual"]
 NICHE_CAPS = ["Math", "Audio", "Video", "Image Gen", "Tool Use"]
 
 # Category definitions: name -> (emoji, keyword patterns)
+# Order matters — first match wins, so more specific categories come first.
 CATEGORIES = {
+    "Agent Skills & Plugins": (
+        "\U0001f50c",
+        [r"agent.skill", r"claude.skill", r"\bmcp\b", r"mcp.server",
+         r"\bplugin\b", r"tool.use", r"function.call", r"extension"],
+    ),
+    "Multi-Agent Orchestration": (
+        "\U0001f91d",
+        [r"multi.agent", r"\bcrew\b", r"\bswarm\b", r"orchestrat",
+         r"delegat", r"agentic.workflow", r"agent.framework"],
+    ),
+    "Coding Agents & Dev Tools": (
+        "\U0001f4bb",
+        [r"coding.agent", r"\bcopilot\b", r"code.gen", r"code.complet",
+         r"ide.extension", r"dev.tool", r"code.review", r"code.assist"],
+    ),
+    "Vision & Image": (
+        "\U0001f441\ufe0f",
+        [r"vision", r"diffusion", r"text.to.image", r"image.generat",
+         r"stable.diffusion", r"video.generat", r"\bgan\b", r"inpaint",
+         r"img2img", r"\bvlm\b", r"visual.question", r"\bocr\b",
+         r"image.understand", r"multimodal"],
+    ),
+    "Audio & Speech": (
+        "\U0001f399\ufe0f",
+        [r"\btts\b", r"\bstt\b", r"text.to.speech", r"speech.recogni",
+         r"\baudio\b", r"\bvoice\b", r"\bwhisper\b", r"realtime.voice",
+         r"speech.synthe"],
+    ),
     "LLMs & Language Models": (
         "\U0001f4ac",
         [r"\bllm\b", r"language.model", r"\bgpt\b", r"\btransformer\b",
-         r"text.generation", r"\bchat\b", r"\binstruct\b", r"fine.?tun"],
+         r"text.generation", r"\bchat\b", r"\binstruct\b", r"fine.?tun",
+         r"\bagent\b", r"autonomous", r"reasoning"],
     ),
-    "Agents & Autonomous Systems": (
-        "\U0001f916",
-        [r"\bagent\b", r"autonomous", r"tool.use", r"function.call",
-         r"planning", r"reasoning", r"\bcrew\b", r"agentic"],
-    ),
-    "Image & Video Generation": (
-        "\U0001f3a8",
-        [r"diffusion", r"text.to.image", r"image.generat", r"stable.diffusion",
-         r"video.generat", r"\bgan\b", r"inpaint", r"img2img"],
-    ),
-    "Multimodal & Vision-Language": (
-        "\U0001f441\ufe0f",
-        [r"multimodal", r"vision.language", r"\bvlm\b", r"visual.question",
-         r"image.text", r"ocr", r"document.understand"],
-    ),
-    "RAG & Information Retrieval": (
+    "RAG & Knowledge": (
         "\U0001f50d",
         [r"\brag\b", r"retrieval", r"vector.search", r"embedding",
-         r"knowledge.base", r"semantic.search", r"rerank"],
+         r"knowledge.base", r"semantic.search", r"rerank",
+         r"vector.databas"],
     ),
-    "ML Infrastructure & Tools": (
+    "ML Infrastructure": (
         "\U0001f6e0\ufe0f",
         [r"inference", r"serving", r"deploy", r"quantiz", r"optimi[sz]",
          r"benchmark", r"evaluat", r"training.framework", r"\bvllm\b",
@@ -74,6 +90,24 @@ def _format_stars(stars: int) -> str:
     if stars >= 1000:
         return f"{stars / 1000:.1f}k"
     return str(stars)
+
+
+def _truncate_summary(summary: str, limit: int = 120) -> str:
+    """Truncate a summary at a sentence or word boundary."""
+    if len(summary) <= limit:
+        return summary
+    # Try to break at last sentence ending (". " or " — ") within limit
+    candidate = summary[:limit]
+    for sep in [". ", " \u2014 "]:
+        pos = candidate.rfind(sep)
+        if pos > 20:
+            return candidate[:pos + 1].rstrip()
+    # Fall back to last word boundary (leave room for "...")
+    trunc = summary[:limit - 3]
+    pos = trunc.rfind(" ")
+    if pos > 20:
+        return trunc[:pos].rstrip() + "..."
+    return trunc + "..."
 
 
 def _is_new_repo(repo: dict, days: int = 30) -> bool:
@@ -380,9 +414,7 @@ def _build_daily_entry(repos: list[dict], date_str: str) -> list[str]:
                     url = r["url"]
                     stars = _format_stars(r["stars"])
                     summary = r.get("summary", "").replace("\n", " ").strip()
-                    # Truncate long summaries for conciseness
-                    if len(summary) > 120:
-                        summary = summary[:117] + "..."
+                    summary = _truncate_summary(summary, 120)
                     date_created = _format_created(r)
                     date_part = f" · 📅 {date_created}" if date_created else ""
                     lines.append(f"- **[{name}]({url})** \u2b50 {stars}{date_part} \u2014 {summary}")
@@ -392,6 +424,21 @@ def _build_daily_entry(repos: list[dict], date_str: str) -> list[str]:
         lines.append("")
 
     lines.append(f"> [Full details \u2192](daily/{date_str}.md)")
+    lines.append("")
+    return lines
+
+
+def _render_top_picks(repos: list[dict], date_str: str, count: int = 5) -> list[str]:
+    """Render a 'Today's Top Picks' section with the top repos by stars."""
+    top = sorted(repos, key=lambda r: r.get("stars", 0), reverse=True)[:count]
+    lines = [
+        f"## \U0001f525 Today's Top Picks ({date_str})",
+        "",
+    ]
+    for r in top:
+        lines.append(_repo_line(r))
+    lines.append("")
+    lines.append(f"> **[See all {len(repos)} repos \u2192](daily/{date_str}.md)**")
     lines.append("")
     return lines
 
@@ -422,11 +469,36 @@ def generate_readme(repos: list[dict], date_str: str | None = None,
         "",
         "---",
         "",
+        "### What is this?",
+        "",
+        "This repo automatically discovers the most interesting new and trending AI/ML repositories on GitHub every day at 08:00 UTC.",
+        "An LLM reads each repo and writes a plain-English summary so you can decide what's worth exploring without opening a single link.",
+        "",
+        "### Built With",
+        "",
+        "- **GitHub Actions** \u2014 scheduled daily pipeline for data collection",
+        "- **GitHub REST API** \u2014 discovers trending and new repos by topic, stars, and recency",
+        "- **Claude Haiku** \u2014 generates concise, accurate summaries for every repo",
+        "- **Hugging Face API** \u2014 tracks latest model releases across top AI companies",
+        "",
+        "---",
+        "",
     ]
 
-    # Models section
+    # Top Picks section (top 5 repos by stars)
+    if repos:
+        header.extend(_render_top_picks(repos, date_str))
+        header.append("---")
+        header.append("")
+
+    # Models section (collapsed)
     if models_by_company:
+        header.append("<details>")
+        header.append("<summary><strong>\U0001f3e2 Latest Model Releases</strong> (click to expand)</summary>")
+        header.append("")
         header.extend(_render_models_section(models_by_company))
+        header.append("</details>")
+        header.append("")
         header.append("---")
         header.append("")
 
@@ -447,18 +519,29 @@ def generate_readme(repos: list[dict], date_str: str | None = None,
     # --- Check if today's entry already exists (avoid duplicates on re-runs) ---
     today_heading = f"## \U0001f525 {date_str}"
     if today_heading in existing_changelog:
-        # Replace today's existing entry with updated one
-        # Find the start and end of the existing entry
         start = existing_changelog.find(today_heading)
-        # Find the next ## heading after this one
         next_heading = existing_changelog.find("\n## ", start + 1)
         if next_heading == -1:
-            # Also check for footer marker
-            footer_pos = existing_changelog.find("\n---\n\n<div align=\"center\">", start + 1)
+            footer_pos = existing_changelog.find("\n</details>", start + 1)
+            if footer_pos == -1:
+                footer_pos = existing_changelog.find("\n---\n\n<div align=\"center\">", start + 1)
             next_heading = footer_pos if footer_pos != -1 else len(existing_changelog)
         existing_changelog = existing_changelog[:start] + existing_changelog[next_heading:].lstrip("\n")
 
-    # --- Assemble: header + today's entry + previous entries + footer ---
+    # --- Wrap changelog in collapsible section ---
+    changelog_body = "\n".join(today_entry) + existing_changelog
+
+    changelog_section = [
+        "<details>",
+        "<summary><strong>\U0001f4dc Full Changelog</strong> (click to expand)</summary>",
+        "",
+        changelog_body.rstrip("\n"),
+        "",
+        "</details>",
+        "",
+    ]
+
+    # --- Footer ---
     footer = [
         "---",
         "",
@@ -466,19 +549,13 @@ def generate_readme(repos: list[dict], date_str: str | None = None,
         "",
         "**How it works:** GitHub Actions runs daily \u2192 discovers trending + new repos \u2192 Claude Haiku writes summaries \u2192 auto-commits",
         "",
-        "Made with \u2764\ufe0f and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)",
+        "Made with Github Actions and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)",
         "",
         "</div>",
         "",
     ]
 
-    # Strip any existing footer from changelog
-    footer_marker = "---\n\n<div align=\"center\">"
-    footer_pos = existing_changelog.find(footer_marker)
-    if footer_pos != -1:
-        existing_changelog = existing_changelog[:footer_pos].rstrip("\n") + "\n\n"
-
-    full = "\n".join(header) + "\n".join(today_entry) + existing_changelog + "\n".join(footer)
+    full = "\n".join(header) + "\n".join(changelog_section) + "\n".join(footer)
 
     README_PATH.write_text(full, encoding="utf-8")
     print(f"[markdown] wrote {README_PATH}")
