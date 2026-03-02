@@ -1,0 +1,14 @@
+llm:
+  model: "claude-haiku-4-5-20251001"
+  max_readme_chars: 4000
+  max_tokens: 256
+
+github:
+  api_base: "https://api.github.com"
+  trending_url: "https://github.com/trending"
+  requests_per_minute: 30
+
+output:
+  daily_dir: "daily"
+  data_file: "data/repos.json"
+  readme_file: "README.md"

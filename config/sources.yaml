@@ -1,0 +1,46 @@
+tracked_orgs:
+  - openai
+  - meta-llama
+  - google-deepmind
+  - google-research
+  - facebookresearch
+  - stabilityai
+  - mistralai
+  - huggingface
+  - anthropics
+  - deepseek-ai
+
+search_keywords:
+  - "large language model"
+  - "LLM"
+  - "diffusion model"
+  - "transformer"
+  - "AI agent"
+  - "text-to-image"
+  - "RAG retrieval"
+  - "vision language model"
+  - "multimodal AI"
+  - "VLM"
+  - "generative AI"
+
+min_stars: 50
+max_age_days: 7
+max_repos_per_day: 30
+
+models_per_company: 5
+
+model_companies:
+  Qwen (Alibaba):
+    hf_orgs: [Qwen]
+  OpenAI:
+    hf_orgs: [openai]
+  Google (Gemini):
+    hf_orgs: [google]
+  ByteDance:
+    hf_orgs: [bytedance-research]
+  Meta:
+    hf_orgs: [meta-llama]
+  DeepSeek:
+    hf_orgs: [deepseek-ai]
+  Mistral:
+    hf_orgs: [mistralai]

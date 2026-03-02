@@ -1,0 +1,996 @@
+{
+  "Qwen (Alibaba)": [
+    {
+      "model_id": "Qwen/Qwen3.5-122B-A10B",
+      "author": "Qwen",
+      "company": "Qwen (Alibaba)",
+      "last_modified": "2026-03-02T03:44:50.000Z",
+      "downloads": 127141,
+      "likes": 364,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5_moe",
+        "image-text-to-text",
+        "conversational",
+        "license:apache-2.0",
+        "eval-results",
+        "endpoints_compatible",
+        "deploy:azure",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision"
+      ]
+    },
+    {
+      "model_id": "Qwen/Qwen3.5-35B-A3B",
+      "author": "Qwen",
+      "company": "Qwen (Alibaba)",
+      "last_modified": "2026-02-27T09:48:22.000Z",
+      "downloads": 481446,
+      "likes": 761,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5_moe",
+        "image-text-to-text",
+        "conversational",
+        "base_model:Qwen/Qwen3.5-35B-A3B-Base",
+        "base_model:finetune:Qwen/Qwen3.5-35B-A3B-Base",
+        "license:apache-2.0",
+        "eval-results",
+        "endpoints_compatible",
+        "deploy:azure",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision"
+      ]
+    },
+    {
+      "model_id": "Qwen/Qwen3.5-397B-A17B-FP8",
+      "author": "Qwen",
+      "company": "Qwen (Alibaba)",
+      "last_modified": "2026-02-26T03:37:31.000Z",
+      "downloads": 203636,
+      "likes": 117,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5_moe",
+        "image-text-to-text",
+        "conversational",
+        "base_model:Qwen/Qwen3.5-397B-A17B",
+        "base_model:quantized:Qwen/Qwen3.5-397B-A17B",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "fp8",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision"
+      ]
+    },
+    {
+      "model_id": "Qwen/Qwen3.5-35B-A3B-FP8",
+      "author": "Qwen",
+      "company": "Qwen (Alibaba)",
+      "last_modified": "2026-02-26T03:34:45.000Z",
+      "downloads": 157725,
+      "likes": 68,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5_moe",
+        "image-text-to-text",
+        "conversational",
+        "base_model:Qwen/Qwen3.5-35B-A3B",
+        "base_model:quantized:Qwen/Qwen3.5-35B-A3B",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "fp8",
+        "region:us",
+        "deploy:azure"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision"
+      ]
+    },
+    {
+      "model_id": "Qwen/Qwen3.5-122B-A10B-FP8",
+      "author": "Qwen",
+      "company": "Qwen (Alibaba)",
+      "last_modified": "2026-02-26T03:26:52.000Z",
+      "downloads": 24062,
+      "likes": 42,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5_moe",
+        "image-text-to-text",
+        "conversational",
+        "base_model:Qwen/Qwen3.5-122B-A10B",
+        "base_model:quantized:Qwen/Qwen3.5-122B-A10B",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "fp8",
+        "region:us",
+        "deploy:azure"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision"
+      ]
+    }
+  ],
+  "OpenAI": [
+    {
+      "model_id": "openai/gpt-oss-safeguard-20b",
+      "author": "openai",
+      "company": "OpenAI",
+      "last_modified": "2026-01-14T18:38:05.000Z",
+      "downloads": 53051,
+      "likes": 196,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gpt_oss",
+        "text-generation",
+        "vllm",
+        "conversational",
+        "arxiv:2508.10925",
+        "base_model:openai/gpt-oss-20b",
+        "base_model:finetune:openai/gpt-oss-20b",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "mxfp4",
+        "deploy:azure",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "openai/circuit-sparsity",
+      "author": "openai",
+      "company": "OpenAI",
+      "last_modified": "2025-12-12T07:36:26.000Z",
+      "downloads": 645,
+      "likes": 202,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "circuitgpt",
+        "text-generation",
+        "custom_code",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Code"
+      ]
+    },
+    {
+      "model_id": "openai/gpt-oss-safeguard-120b",
+      "author": "openai",
+      "company": "OpenAI",
+      "last_modified": "2025-10-29T11:13:59.000Z",
+      "downloads": 53601,
+      "likes": 90,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gpt_oss",
+        "text-generation",
+        "vllm",
+        "conversational",
+        "arxiv:2508.10925",
+        "base_model:openai/gpt-oss-120b",
+        "base_model:finetune:openai/gpt-oss-120b",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "mxfp4",
+        "deploy:azure",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "openai/gpt-oss-20b",
+      "author": "openai",
+      "company": "OpenAI",
+      "last_modified": "2025-08-26T17:25:47.000Z",
+      "downloads": 6397200,
+      "likes": 4410,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gpt_oss",
+        "text-generation",
+        "vllm",
+        "conversational",
+        "arxiv:2508.10925",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "mxfp4",
+        "deploy:azure",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "openai/gpt-oss-120b",
+      "author": "openai",
+      "company": "OpenAI",
+      "last_modified": "2025-08-26T17:25:03.000Z",
+      "downloads": 4046589,
+      "likes": 4534,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gpt_oss",
+        "text-generation",
+        "vllm",
+        "conversational",
+        "arxiv:2508.10925",
+        "license:apache-2.0",
+        "eval-results",
+        "endpoints_compatible",
+        "8-bit",
+        "mxfp4",
+        "deploy:azure",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    }
+  ],
+  "Google (Gemini)": [
+    {
+      "model_id": "google/timesfm-2.5-200m-transformers",
+      "author": "google",
+      "company": "Google (Gemini)",
+      "last_modified": "2026-02-20T15:55:54.000Z",
+      "downloads": 1432,
+      "likes": 20,
+      "pipeline_tag": "time-series-forecasting",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "timesfm_2p5",
+        "timesfm",
+        "time-series-forecasting",
+        "arxiv:2310.10688",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "region:us"
+      ],
+      "capabilities": []
+    },
+    {
+      "model_id": "google/translategemma-4b-it",
+      "author": "google",
+      "company": "Google (Gemini)",
+      "last_modified": "2026-01-28T17:28:43.000Z",
+      "downloads": 132959,
+      "likes": 659,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gemma3",
+        "image-text-to-text",
+        "conversational",
+        "arxiv:2601.09012",
+        "arxiv:2503.19786",
+        "license:gemma",
+        "text-generation-inference",
+        "endpoints_compatible",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision",
+        "Multilingual"
+      ]
+    },
+    {
+      "model_id": "google/translategemma-12b-it",
+      "author": "google",
+      "company": "Google (Gemini)",
+      "last_modified": "2026-01-28T17:27:49.000Z",
+      "downloads": 551172,
+      "likes": 264,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gemma3",
+        "image-text-to-text",
+        "conversational",
+        "arxiv:2601.09012",
+        "arxiv:2503.19786",
+        "license:gemma",
+        "text-generation-inference",
+        "endpoints_compatible",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision",
+        "Multilingual"
+      ]
+    },
+    {
+      "model_id": "google/translategemma-27b-it",
+      "author": "google",
+      "company": "Google (Gemini)",
+      "last_modified": "2026-01-28T17:26:56.000Z",
+      "downloads": 11770,
+      "likes": 324,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gemma3",
+        "image-text-to-text",
+        "conversational",
+        "arxiv:2601.09012",
+        "arxiv:2503.19786",
+        "license:gemma",
+        "text-generation-inference",
+        "endpoints_compatible",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision",
+        "Multilingual"
+      ]
+    },
+    {
+      "model_id": "google/alphagenome-fold-3",
+      "author": "google",
+      "company": "Google (Gemini)",
+      "last_modified": "2026-01-27T21:15:39.000Z",
+      "downloads": 0,
+      "likes": 17,
+      "pipeline_tag": "",
+      "tags": [
+        "biology",
+        "en",
+        "license:other",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    }
+  ],
+  "ByteDance": [
+    {
+      "model_id": "bytedance-research/Vidi1.5-9B",
+      "author": "bytedance-research",
+      "company": "ByteDance",
+      "last_modified": "2026-01-22T00:55:27.000Z",
+      "downloads": 107,
+      "likes": 9,
+      "pipeline_tag": "",
+      "tags": [
+        "safetensors",
+        "dattn_gemma2",
+        "video",
+        "audio",
+        "multimodal",
+        "arxiv:2504.15681",
+        "arxiv:2511.19529",
+        "base_model:google/gemma-2-9b-it",
+        "base_model:finetune:google/gemma-2-9b-it",
+        "license:cc-by-nc-4.0",
+        "region:us"
+      ],
+      "capabilities": [
+        "Audio",
+        "Video"
+      ]
+    },
+    {
+      "model_id": "bytedance-research/OneReward",
+      "author": "bytedance-research",
+      "company": "ByteDance",
+      "last_modified": "2025-12-31T02:47:13.000Z",
+      "downloads": 18,
+      "likes": 58,
+      "pipeline_tag": "image-to-image",
+      "tags": [
+        "diffusers",
+        "safetensors",
+        "image-to-image",
+        "en",
+        "arxiv:2508.21066",
+        "base_model:black-forest-labs/FLUX.1-Fill-dev",
+        "base_model:finetune:black-forest-labs/FLUX.1-Fill-dev",
+        "license:cc-by-nc-4.0",
+        "region:us"
+      ],
+      "capabilities": [
+        "Image Gen"
+      ]
+    },
+    {
+      "model_id": "bytedance-research/MammothModa2-Dev",
+      "author": "bytedance-research",
+      "company": "ByteDance",
+      "last_modified": "2025-12-30T11:31:25.000Z",
+      "downloads": 11,
+      "likes": 3,
+      "pipeline_tag": "",
+      "tags": [
+        "safetensors",
+        "mammothmoda2",
+        "arxiv:2511.18262",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "bytedance-research/ChatTS-8B",
+      "author": "bytedance-research",
+      "company": "ByteDance",
+      "last_modified": "2025-12-29T09:00:25.000Z",
+      "downloads": 1163,
+      "likes": 8,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "pytorch",
+        "qwen3ts",
+        "feature-extraction",
+        "text-generation",
+        "conversational",
+        "custom_code",
+        "eng",
+        "zh",
+        "dataset:ChatTSRepo/ChatTS-Training-Dataset",
+        "arxiv:2412.03104",
+        "base_model:Qwen/Qwen3-8B",
+        "base_model:finetune:Qwen/Qwen3-8B",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Code"
+      ]
+    },
+    {
+      "model_id": "bytedance-research/Vidi-7B",
+      "author": "bytedance-research",
+      "company": "ByteDance",
+      "last_modified": "2025-12-15T23:29:09.000Z",
+      "downloads": 121,
+      "likes": 15,
+      "pipeline_tag": "",
+      "tags": [
+        "safetensors",
+        "dattn_mistral",
+        "video",
+        "audio",
+        "multimodal",
+        "arxiv:2504.15681",
+        "arxiv:2511.19529",
+        "base_model:mistralai/Mistral-7B-Instruct-v0.3",
+        "base_model:finetune:mistralai/Mistral-7B-Instruct-v0.3",
+        "license:cc-by-nc-4.0",
+        "region:us"
+      ],
+      "capabilities": [
+        "Audio",
+        "Video"
+      ]
+    }
+  ],
+  "Meta": [
+    {
+      "model_id": "meta-llama/Prompt-Guard-86M",
+      "author": "meta-llama",
+      "company": "Meta",
+      "last_modified": "2025-11-12T21:27:00.000Z",
+      "downloads": 27076,
+      "likes": 312,
+      "pipeline_tag": "text-classification",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deberta-v2",
+        "text-classification",
+        "facebook",
+        "meta",
+        "pytorch",
+        "llama",
+        "llama-3",
+        "en",
+        "license:llama3.1",
+        "text-embeddings-inference",
+        "endpoints_compatible",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "author": "meta-llama",
+      "company": "Meta",
+      "last_modified": "2025-06-18T23:49:51.000Z",
+      "downloads": 1344582,
+      "likes": 4388,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta",
+        "pytorch",
+        "llama-3",
+        "conversational",
+        "en",
+        "license:llama3",
+        "text-generation-inference",
+        "endpoints_compatible",
+        "deploy:azure",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "meta-llama/Meta-Llama-3-70B-Instruct",
+      "author": "meta-llama",
+      "company": "Meta",
+      "last_modified": "2025-06-18T23:49:26.000Z",
+      "downloads": 64519,
+      "likes": 1506,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta",
+        "pytorch",
+        "llama-3",
+        "conversational",
+        "en",
+        "base_model:meta-llama/Meta-Llama-3-70B",
+        "base_model:finetune:meta-llama/Meta-Llama-3-70B",
+        "license:llama3",
+        "text-generation-inference",
+        "endpoints_compatible",
+        "deploy:azure",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "meta-llama/Llama-4-Maverick-17B-128E-Instruct",
+      "author": "meta-llama",
+      "company": "Meta",
+      "last_modified": "2025-05-22T23:46:12.000Z",
+      "downloads": 6546,
+      "likes": 466,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama4",
+        "image-text-to-text",
+        "facebook",
+        "meta",
+        "pytorch",
+        "llama",
+        "conversational",
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "id",
+        "it",
+        "pt",
+        "th",
+        "tl",
+        "vi",
+        "arxiv:2204.05149",
+        "base_model:meta-llama/Llama-4-Maverick-17B-128E",
+        "base_model:finetune:meta-llama/Llama-4-Maverick-17B-128E",
+        "license:other",
+        "eval-results",
+        "text-generation-inference",
+        "endpoints_compatible",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision",
+        "Multilingual"
+      ]
+    },
+    {
+      "model_id": "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8",
+      "author": "meta-llama",
+      "company": "Meta",
+      "last_modified": "2025-05-22T23:46:03.000Z",
+      "downloads": 73311,
+      "likes": 155,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama4",
+        "image-text-to-text",
+        "facebook",
+        "meta",
+        "pytorch",
+        "llama",
+        "conversational",
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "id",
+        "it",
+        "pt",
+        "th",
+        "tl",
+        "vi",
+        "arxiv:2204.05149",
+        "base_model:meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "base_model:quantized:meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "license:other",
+        "text-generation-inference",
+        "endpoints_compatible",
+        "compressed-tensors",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision",
+        "Multilingual"
+      ]
+    }
+  ],
+  "DeepSeek": [
+    {
+      "model_id": "deepseek-ai/DeepSeek-OCR-2",
+      "author": "deepseek-ai",
+      "company": "DeepSeek",
+      "last_modified": "2026-02-03T00:33:19.000Z",
+      "downloads": 1674642,
+      "likes": 834,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_vl_v2",
+        "feature-extraction",
+        "deepseek",
+        "vision-language",
+        "ocr",
+        "custom_code",
+        "image-text-to-text",
+        "multilingual",
+        "arxiv:2601.20552",
+        "arxiv:2510.18234",
+        "license:apache-2.0",
+        "eval-results",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Code",
+        "Vision",
+        "Multilingual"
+      ]
+    },
+    {
+      "model_id": "deepseek-ai/DeepSeek-V3.2-Speciale",
+      "author": "deepseek-ai",
+      "company": "DeepSeek",
+      "last_modified": "2025-12-01T11:06:03.000Z",
+      "downloads": 174629,
+      "likes": 679,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_v32",
+        "text-generation",
+        "base_model:deepseek-ai/DeepSeek-V3.2-Exp-Base",
+        "base_model:finetune:deepseek-ai/DeepSeek-V3.2-Exp-Base",
+        "license:mit",
+        "endpoints_compatible",
+        "fp8",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "deepseek-ai/DeepSeek-V3.2",
+      "author": "deepseek-ai",
+      "company": "DeepSeek",
+      "last_modified": "2025-12-01T11:04:59.000Z",
+      "downloads": 327336,
+      "likes": 1273,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_v32",
+        "text-generation",
+        "conversational",
+        "base_model:deepseek-ai/DeepSeek-V3.2-Exp-Base",
+        "base_model:finetune:deepseek-ai/DeepSeek-V3.2-Exp-Base",
+        "license:mit",
+        "eval-results",
+        "endpoints_compatible",
+        "fp8",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "deepseek-ai/DeepSeek-Math-V2",
+      "author": "deepseek-ai",
+      "company": "DeepSeek",
+      "last_modified": "2025-11-27T10:35:52.000Z",
+      "downloads": 6974,
+      "likes": 684,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_v32",
+        "text-generation",
+        "conversational",
+        "base_model:deepseek-ai/DeepSeek-Math-V2",
+        "base_model:quantized:deepseek-ai/DeepSeek-Math-V2",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "fp8",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Math"
+      ]
+    },
+    {
+      "model_id": "deepseek-ai/DeepSeek-V3.2-Exp",
+      "author": "deepseek-ai",
+      "company": "DeepSeek",
+      "last_modified": "2025-11-18T02:39:54.000Z",
+      "downloads": 50852,
+      "likes": 965,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_v32",
+        "text-generation",
+        "conversational",
+        "base_model:deepseek-ai/DeepSeek-V3.2-Exp-Base",
+        "base_model:finetune:deepseek-ai/DeepSeek-V3.2-Exp-Base",
+        "license:mit",
+        "endpoints_compatible",
+        "fp8",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    }
+  ],
+  "Mistral": [
+    {
+      "model_id": "mistralai/Devstral-Small-2-24B-Instruct-2512",
+      "author": "mistralai",
+      "company": "Mistral",
+      "last_modified": "2026-02-25T08:50:48.000Z",
+      "downloads": 460111,
+      "likes": 539,
+      "pipeline_tag": "",
+      "tags": [
+        "vllm",
+        "safetensors",
+        "mistral3",
+        "mistral-common",
+        "arxiv:2501.19399",
+        "base_model:mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "base_model:quantized:mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "license:apache-2.0",
+        "fp8",
+        "region:us"
+      ],
+      "capabilities": [
+        "Code"
+      ]
+    },
+    {
+      "model_id": "mistralai/Devstral-2-123B-Instruct-2512",
+      "author": "mistralai",
+      "company": "Mistral",
+      "last_modified": "2026-02-25T08:50:20.000Z",
+      "downloads": 17111,
+      "likes": 293,
+      "pipeline_tag": "",
+      "tags": [
+        "vllm",
+        "safetensors",
+        "ministral3",
+        "mistral-common",
+        "license:other",
+        "fp8",
+        "region:us"
+      ],
+      "capabilities": [
+        "Code"
+      ]
+    },
+    {
+      "model_id": "mistralai/Magistral-Small-2509",
+      "author": "mistralai",
+      "company": "Mistral",
+      "last_modified": "2026-02-23T18:04:17.000Z",
+      "downloads": 11466,
+      "likes": 285,
+      "pipeline_tag": "",
+      "tags": [
+        "vllm",
+        "safetensors",
+        "mistral3",
+        "mistral-common",
+        "en",
+        "fr",
+        "de",
+        "es",
+        "pt",
+        "it",
+        "ja",
+        "ko",
+        "ru",
+        "zh",
+        "ar",
+        "fa",
+        "id",
+        "ms",
+        "ne",
+        "pl",
+        "ro",
+        "sr",
+        "sv",
+        "tr",
+        "uk",
+        "vi",
+        "hi",
+        "bn",
+        "arxiv:2506.10910",
+        "base_model:mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+        "base_model:finetune:mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "capabilities": [
+        "Multilingual"
+      ]
+    },
+    {
+      "model_id": "mistralai/Voxtral-Mini-4B-Realtime-2602",
+      "author": "mistralai",
+      "company": "Mistral",
+      "last_modified": "2026-02-19T00:28:31.000Z",
+      "downloads": 308811,
+      "likes": 661,
+      "pipeline_tag": "automatic-speech-recognition",
+      "tags": [
+        "vllm",
+        "safetensors",
+        "voxtral_realtime",
+        "mistral-common",
+        "automatic-speech-recognition",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "ru",
+        "zh",
+        "ja",
+        "it",
+        "pt",
+        "nl",
+        "ar",
+        "hi",
+        "ko",
+        "arxiv:2602.11298",
+        "base_model:mistralai/Ministral-3-3B-Base-2512",
+        "base_model:finetune:mistralai/Ministral-3-3B-Base-2512",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "capabilities": [
+        "Multilingual",
+        "Audio"
+      ]
+    },
+    {
+      "model_id": "mistralai/Mistral-Large-3-675B-Instruct-2512-NVFP4",
+      "author": "mistralai",
+      "company": "Mistral",
+      "last_modified": "2026-01-29T10:32:14.000Z",
+      "downloads": 4307,
+      "likes": 49,
+      "pipeline_tag": "",
+      "tags": [
+        "vllm",
+        "mistral-common",
+        "compressed-tensors",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "pt",
+        "nl",
+        "zh",
+        "ja",
+        "ko",
+        "ar",
+        "base_model:mistralai/Mistral-Large-3-675B-Base-2512",
+        "base_model:finetune:mistralai/Mistral-Large-3-675B-Base-2512",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "capabilities": [
+        "Multilingual"
+      ]
+    }
+  ]
+}

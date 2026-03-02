@@ -1,0 +1,31 @@
+name: Daily AI Repo Update
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # Run daily at 8am UTC
+  workflow_dispatch:        # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run discovery pipeline
+        run: python scripts/main.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "daily update: ${{ github.event.schedule && 'auto' || 'manual' }} $(date -u +%Y-%m-%d)"
+          file_pattern: "data/ daily/ README.md"
