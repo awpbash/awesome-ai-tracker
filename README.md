@@ -4,7 +4,7 @@
 
 **A daily-updated, auto-curated awesome list of the hottest AI/ML repos on GitHub.**
 
-![Last Update](https://img.shields.io/badge/last_update-2026--03--02-brightgreen?style=flat-square)
+![Last Update](https://img.shields.io/badge/last_update-2026--03--03-brightgreen?style=flat-square)
 ![AI Powered](https://img.shields.io/badge/summaries-Claude_Haiku-blueviolet?style=flat-square)
 ![Automation](https://img.shields.io/badge/updates-daily_via_Actions-orange?style=flat-square)
 
@@ -17,7 +17,7 @@
 ### What is this?
 
 This repo automatically discovers the most interesting new and trending AI/ML repositories on GitHub every day at 08:00 UTC.
-Claude reads each repo and writes a plain-English summary so you can decide what's worth exploring without opening a single link.
+An LLM reads each repo and writes a plain-English summary so you can decide what's worth exploring without opening a single link.
 
 ### Built With
 
@@ -28,20 +28,20 @@ Claude reads each repo and writes a plain-English summary so you can decide what
 
 ---
 
-## 🔥 Today's Top Picks (2026-03-02)
+## 🔥 Today's Top Picks (2026-03-03)
 
-- <a href="https://github.com/tensorflow/tensorflow"><img src="https://www.tensorflow.org/images/tf_logo_horizontal.png" width="70" align="left" alt="tensorflow/tensorflow" /></a> **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** ⭐ 194.0k `C++` · 📅 2015-11-07<br/>TensorFlow is an end-to-end open source platform that makes it incredibly easy to build, train, and deploy machine learning models at any scale, from research experiments to production applications. With comprehensive tools, stable APIs, GPU support, and a massive community behind it, TensorFlow empowers both researchers and developers to turn ML ideas into reality without reinventing the wheel.
+- <a href="https://github.com/PaddlePaddle/PaddleOCR"><img src="https://raw.githubusercontent.com/PaddlePaddle/PaddleOCR/main/./docs/images/Banner.png" width="70" align="left" alt="PaddlePaddle/PaddleOCR" /></a> **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** ⭐ 71.5k `Python` · 📅 2020-05-08<br/>PaddleOCR is a powerful, easy-to-use open-source library that extracts text from images with impressive accuracy across 80+ languages and multiple document types. Whether you're building document scanning apps, automating data entry, or processing receipts and forms, this battle-tested tool (trusted by 6,000+ projects) gives you production-ready OCR in just a few lines of Python code.
 
-- <a href="https://github.com/n8n-io/n8n"><img src="https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png" width="70" align="left" alt="n8n-io/n8n" /></a> **[n8n-io/n8n](https://github.com/n8n-io/n8n)** ⭐ 177.1k `TypeScript` · 📅 2019-06-22<br/>n8n is a workflow automation platform that empowers technical teams to build powerful integrations and AI-driven automations with 400+ pre-built connectors, code flexibility, and complete data ownership—all while keeping everything self-hostable and under your control. Whether you need visual no-code simplicity or the power to write custom JavaScript and Python, n8n gives you the tools to automate anything without vendor lock-in.
+- <a href="https://github.com/zhayujie/chatgpt-on-wechat"><img src="https://contrib.rocks/image?repo=zhayujie/chatgpt-on-wechat&max=1000" width="70" align="left" alt="zhayujie/chatgpt-on-wechat" /></a> **[zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)** ⭐ 41.8k `Python` · 📅 2022-08-07<br/>Turn your WeChat into a supercharged AI assistant with this comprehensive agent framework that brings ChatGPT directly to your messaging apps, complete with task planning, long-term memory, and multi-model support. Whether you're running it locally or on a server, it seamlessly integrates with WeChat, Feishu, DingTalk, and more while supporting OpenAI, Claude, Gemini, and dozens of other leading AI models.
 
-- <a href="https://github.com/huggingface/transformers"><img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers/transformers_as_a_model_definition.png" width="70" align="left" alt="huggingface/transformers" /></a> **[huggingface/transformers](https://github.com/huggingface/transformers)** ⭐ 157.3k `Python` · 📅 2018-10-29<br/>The Transformers library gives you instant access to thousands of pre-trained models for NLP, computer vision, and audio tasks—just a few lines of code to solve problems like text classification, translation, question answering, and more. Whether you're building production systems or experimenting with cutting-edge AI, this is the go-to toolkit that handles the heavy lifting so you can focus on your application.
+- <a href="https://github.com/photoprism/photoprism"><img src="https://dl.photoprism.app/img/ui/2025/desktop-search.jpg" width="70" align="left" alt="photoprism/photoprism" /></a> **[photoprism/photoprism](https://github.com/photoprism/photoprism)** ⭐ 39.4k `Go` · 📅 2018-01-27<br/>PhotoPrism is a privacy-first, AI-powered photo management app that you can self-host at home or on your own server, giving you complete control over your picture library without relying on cloud giants. It automatically organizes, tags, and searches your photos with smart features like facial recognition, location mapping, and powerful filters—all while keeping your memories completely private and secure.
 
-- <a href="https://github.com/langflow-ai/langflow"><img src="https://github.com/user-attachments/assets/03168b17-a11d-4b2a-b0f7-c1cce69e5a2c" width="70" align="left" alt="langflow-ai/langflow" /></a> **[langflow-ai/langflow](https://github.com/langflow-ai/langflow)** ⭐ 145.2k `Python` · 📅 2023-02-08<br/>Langflow is a visual platform that makes building and deploying AI workflows effortless—drag-and-drop components to create agents and workflows, then instantly turn them into APIs or MCP servers without leaving the interface. Whether you're prototyping quickly or deploying enterprise applications, Langflow handles the complexity while giving you full access to customize everything with Python.
+- <a href="https://github.com/roboflow/supervision"><img src="https://media.roboflow.com/open-source/supervision/rf-supervision-banner.png?updatedAt=1678995927529" width="70" align="left" alt="roboflow/supervision" /></a> **[roboflow/supervision](https://github.com/roboflow/supervision)** ⭐ 36.6k `Python` · 📅 2022-11-28<br/>Supervision is a Python library that provides battle-tested, reusable computer vision tools for working with detection, segmentation, and classification models from any framework. It handles the tedious stuff—loading datasets, visualizing detections on images and videos, filtering objects in zones—so you can focus on building awesome vision applications faster.
 
-- <a href="https://github.com/langgenius/dify"><img src="https://raw.githubusercontent.com/langgenius/dify/main/./images/GitHub_README_if.png" width="70" align="left" alt="langgenius/dify" /></a> **[langgenius/dify](https://github.com/langgenius/dify)** ⭐ 130.9k `TypeScript` · 📅 2023-04-12<br/>Dify is an open-source LLM app development platform that makes it easy to build, test, and deploy AI-powered applications without needing deep machine learning expertise. Whether you're creating chatbots, RAG systems, or complex AI workflows, Dify provides an intuitive visual builder, built-in tools for data management, and seamless integration with popular LLM providers—all available for free with self-hosting options.
+- <a href="https://github.com/servo/servo"><img src="https://opengraph.githubassets.com/1/servo/servo" width="70" align="left" alt="servo/servo" /></a> **[servo/servo](https://github.com/servo/servo)** ⭐ 35.8k `Rust` · 📅 2012-02-08<br/>Servo is a blazingly fast, parallel web browser engine written in Rust that's pushing the boundaries of what's possible in browser technology through fearless concurrency and memory safety. If you're passionate about web standards, performance, or want to contribute to a cutting-edge open-source project that's reshaping how browsers work, Servo is your chance to make a real impact on the future of the web.
 
 
-> **[See all 50 repos →](daily/2026-03-02.md)**
+> **[See all 7 repos →](daily/2026-03-03.md)**
 
 ---
 
@@ -53,36 +53,36 @@ Claude reads each repo and writes a plain-English summary so you can decide what
 > Tracked daily from Hugging Face · 5 latest models per company
 
 ### Qwen (Alibaba)
-> Latest: **Qwen3.5** series
+> Latest: **Qwen3.5-0.8B**, **Qwen3.5**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Qwen3.5-35B-A3B-Base](https://huggingface.co/Qwen/Qwen3.5-35B-A3B-Base) | 5,230 | 102 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [Qwen3.5-122B-A10B](https://huggingface.co/Qwen/Qwen3.5-122B-A10B) | 134,356 | 367 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [Qwen3.5-35B-A3B](https://huggingface.co/Qwen/Qwen3.5-35B-A3B) | 587,006 | 782 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [Qwen3.5-397B-A17B-FP8](https://huggingface.co/Qwen/Qwen3.5-397B-A17B-FP8) | 205,552 | 119 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [Qwen3.5-35B-A3B-FP8](https://huggingface.co/Qwen/Qwen3.5-35B-A3B-FP8) | 235,390 | 71 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [Qwen3.5-0.8B](https://huggingface.co/Qwen/Qwen3.5-0.8B) | 21,743 | 144 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [Qwen3.5-2B](https://huggingface.co/Qwen/Qwen3.5-2B) | 12,782 | 93 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [Qwen3.5-35B-A3B-Base](https://huggingface.co/Qwen/Qwen3.5-35B-A3B-Base) | 5,905 | 107 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [Qwen3.5-9B-Base](https://huggingface.co/Qwen/Qwen3.5-9B-Base) | 1,498 | 32 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [Qwen3.5-4B-Base](https://huggingface.co/Qwen/Qwen3.5-4B-Base) | 1,672 | 36 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
 
 ### OpenAI
 > Latest: **gpt-oss-safeguard**, **circuit-sparsity**, **gpt-oss**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [gpt-oss-safeguard-20b](https://huggingface.co/openai/gpt-oss-safeguard-20b) | 51,356 | 196 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [circuit-sparsity](https://huggingface.co/openai/circuit-sparsity) | 643 | 202 | ✅ Text ✅ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-safeguard-120b](https://huggingface.co/openai/gpt-oss-safeguard-120b) | 53,959 | 90 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) | 6.5M | 4410 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-120b](https://huggingface.co/openai/gpt-oss-120b) | 4.1M | 4535 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-safeguard-20b](https://huggingface.co/openai/gpt-oss-safeguard-20b) | 49,017 | 196 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [circuit-sparsity](https://huggingface.co/openai/circuit-sparsity) | 652 | 203 | ✅ Text ✅ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-safeguard-120b](https://huggingface.co/openai/gpt-oss-safeguard-120b) | 54,176 | 90 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) | 6.8M | 4420 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-120b](https://huggingface.co/openai/gpt-oss-120b) | 4.1M | 4539 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### Google (Gemini)
 > Latest: **timesfm-2.5**, **translategemma**, **alphagenome-fold-3**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [timesfm-2.5-200m-transformers](https://huggingface.co/google/timesfm-2.5-200m-transformers) | 1,563 | 20 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [translategemma-4b-it](https://huggingface.co/google/translategemma-4b-it) | 136,364 | 659 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
-| [translategemma-12b-it](https://huggingface.co/google/translategemma-12b-it) | 554,830 | 264 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
-| [translategemma-27b-it](https://huggingface.co/google/translategemma-27b-it) | 11,783 | 324 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
+| [timesfm-2.5-200m-transformers](https://huggingface.co/google/timesfm-2.5-200m-transformers) | 1,641 | 22 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [translategemma-4b-it](https://huggingface.co/google/translategemma-4b-it) | 139,547 | 662 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
+| [translategemma-12b-it](https://huggingface.co/google/translategemma-12b-it) | 558,242 | 265 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
+| [translategemma-27b-it](https://huggingface.co/google/translategemma-27b-it) | 12,660 | 324 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
 | [alphagenome-fold-3](https://huggingface.co/google/alphagenome-fold-3) | 0 | 17 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### ByteDance
@@ -90,50 +90,75 @@ Claude reads each repo and writes a plain-English summary so you can decide what
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Vidi1.5-9B](https://huggingface.co/bytedance-research/Vidi1.5-9B) | 106 | 9 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Audio · Video |
+| [Vidi1.5-9B](https://huggingface.co/bytedance-research/Vidi1.5-9B) | 109 | 9 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Audio · Video |
 | [OneReward](https://huggingface.co/bytedance-research/OneReward) | 18 | 58 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Image Gen |
-| [MammothModa2-Dev](https://huggingface.co/bytedance-research/MammothModa2-Dev) | 12 | 3 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [ChatTS-8B](https://huggingface.co/bytedance-research/ChatTS-8B) | 1,180 | 8 | ✅ Text ✅ Code ➖ Vision ➖ Multilingual |
-| [Vidi-7B](https://huggingface.co/bytedance-research/Vidi-7B) | 120 | 15 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Audio · Video |
+| [MammothModa2-Dev](https://huggingface.co/bytedance-research/MammothModa2-Dev) | 11 | 3 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [ChatTS-8B](https://huggingface.co/bytedance-research/ChatTS-8B) | 1,200 | 8 | ✅ Text ✅ Code ➖ Vision ➖ Multilingual |
+| [Vidi-7B](https://huggingface.co/bytedance-research/Vidi-7B) | 123 | 15 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Audio · Video |
 
 ### Meta
 > Latest: **Prompt-Guard**, **Meta-Llama-3**, **Llama-4-Maverick**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M) | 26,822 | 312 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | 1.3M | 4388 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) | 64,588 | 1506 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Llama-4-Maverick-17B-128E-Instruct](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) | 6,525 | 466 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
-| [Llama-4-Maverick-17B-128E-Instruct-FP8](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) | 73,709 | 155 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
+| [Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M) | 27,183 | 312 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | 1.3M | 4390 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) | 64,902 | 1506 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Llama-4-Maverick-17B-128E-Instruct](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) | 6,652 | 466 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
+| [Llama-4-Maverick-17B-128E-Instruct-FP8](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) | 72,468 | 156 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
 
 ### DeepSeek
 > Latest: **DeepSeek-OCR-2**, **DeepSeek-V3.2-Speciale**, **DeepSeek-V3.2**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [DeepSeek-OCR-2](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2) | 1.7M | 836 | ✅ Text ✅ Code ✅ Vision ✅ Multilingual |
-| [DeepSeek-V3.2-Speciale](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Speciale) | 176,077 | 679 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [DeepSeek-V3.2](https://huggingface.co/deepseek-ai/DeepSeek-V3.2) | 342,944 | 1273 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [DeepSeek-Math-V2](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2) | 6,915 | 684 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual · Math |
-| [DeepSeek-V3.2-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp) | 51,452 | 965 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-OCR-2](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2) | 1.7M | 840 | ✅ Text ✅ Code ✅ Vision ✅ Multilingual |
+| [DeepSeek-V3.2-Speciale](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Speciale) | 176,531 | 679 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-V3.2](https://huggingface.co/deepseek-ai/DeepSeek-V3.2) | 361,701 | 1276 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-Math-V2](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2) | 6,937 | 684 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual · Math |
+| [DeepSeek-V3.2-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp) | 51,155 | 965 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### Mistral
-> Latest: **Devstral-Small-2**, **Devstral-2**, **Magistral-Small-2509**
+> Latest: **Voxtral-Mini**, **Devstral-Small-2**, **Devstral-2**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512) | 463,043 | 539 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
-| [Devstral-2-123B-Instruct-2512](https://huggingface.co/mistralai/Devstral-2-123B-Instruct-2512) | 20,987 | 293 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
-| [Magistral-Small-2509](https://huggingface.co/mistralai/Magistral-Small-2509) | 12,077 | 285 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
-| [Voxtral-Mini-4B-Realtime-2602](https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602) | 321,322 | 663 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual · Audio |
-| [Mistral-Large-3-675B-Instruct-2512-NVFP4](https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512-NVFP4) | 4,269 | 49 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
+| [Voxtral-Mini-4B-Realtime-2602](https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602) | 339,206 | 668 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual · Audio |
+| [Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512) | 460,496 | 542 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
+| [Devstral-2-123B-Instruct-2512](https://huggingface.co/mistralai/Devstral-2-123B-Instruct-2512) | 22,143 | 293 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
+| [Magistral-Small-2509](https://huggingface.co/mistralai/Magistral-Small-2509) | 12,781 | 286 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
+| [Mistral-Large-3-675B-Instruct-2512-NVFP4](https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512-NVFP4) | 4,333 | 49 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
 
 </details>
 
 ---
 
 <!-- CHANGELOG -->
+<details>
+<summary><strong>📜 Full Changelog</strong> (click to expand)</summary>
+
+## 🔥 2026-03-03 — 7 new repos
+
+**📈 Trending Today**
+
+**🔌 Agent Skills & Plugins**
+- **[zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)** ⭐ 41.8k · 📅 2022-08-07 — Turn your WeChat into a supercharged AI assistant with this comprehensive agent framework that brings ChatGPT...
+
+**👁️ Vision & Image**
+- **[roboflow/supervision](https://github.com/roboflow/supervision)** ⭐ 36.6k · 📅 2022-11-28 — Supervision is a Python library that provides battle-tested, reusable computer vision tools for working with...
+- **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** ⭐ 71.5k · 📅 2020-05-08 — PaddleOCR is a powerful, easy-to-use open-source library that extracts text from images with impressive accuracy...
+
+**💬 LLMs & Language Models**
+- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** ⭐ 33.6k · 📅 2025-05-03 — This repository aggregates leaked and publicly available system prompts from major AI models like Claude, providing...
+
+**🔍 RAG & Knowledge**
+- **[servo/servo](https://github.com/servo/servo)** ⭐ 35.8k · 📅 2012-02-08 — Servo is a blazingly fast, parallel web browser engine written in Rust that's pushing the boundaries of what's...
+
+**✨ Other AI/ML**
+- **[anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)** ⭐ 31.9k · 📅 2024-04-02 — Learn prompt engineering through hands-on practice with Anthropic's interactive tutorial, covering everything from...
+- **[photoprism/photoprism](https://github.com/photoprism/photoprism)** ⭐ 39.4k · 📅 2018-01-27 — PhotoPrism is a privacy-first, AI-powered photo management app that you can self-host at home or on your own server,...
+
+> [Full details →](daily/2026-03-03.md)
 <details>
 <summary><strong>📜 Full Changelog</strong> (click to expand)</summary>
 
@@ -215,6 +240,17 @@ Claude reads each repo and writes a plain-English summary so you can decide what
 **How it works:** GitHub Actions runs daily → discovers trending + new repos → Claude Haiku writes summaries → auto-commits
 
 Made with ❤️ and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)
+
+</div>
+
+</details>
+---
+
+<div align="center">
+
+**How it works:** GitHub Actions runs daily → discovers trending + new repos → Claude Haiku writes summaries → auto-commits
+
+Made with Github Actions and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)
 
 </div>
 
