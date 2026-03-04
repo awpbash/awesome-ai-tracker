@@ -1233,5 +1233,150 @@
     "language": "Jupyter Notebook",
     "topics": [],
     "created_at": "2024-04-02T15:52:00Z"
+  },
+  "netdata/netdata": {
+    "first_seen": "2026-03-04",
+    "stars": 77958,
+    "summary": "Netdata gives you real-time, granular visibility into every metric across your entire infrastructure with a beautiful interactive dashboard that updates every second. It's lightweight, open-source, and so addictive that once you start using it, you'll never want to monitor systems any other way again.",
+    "image": "https://www.netdata.cloud/img/readme-images/netdata_readme_logo_light.png",
+    "language": "C",
+    "topics": [
+      "ai",
+      "alerting",
+      "cncf",
+      "data-visualization",
+      "database",
+      "devops",
+      "docker",
+      "grafana",
+      "influxdb",
+      "kubernetes",
+      "linux",
+      "machine-learning",
+      "mcp",
+      "mongodb",
+      "monitoring",
+      "mysql",
+      "netdata",
+      "observability",
+      "postgresql",
+      "prometheus"
+    ],
+    "created_at": "2013-06-17T18:39:10Z"
+  },
+  "janhq/jan": {
+    "first_seen": "2026-03-04",
+    "stars": 40811,
+    "summary": "Jan is a desktop app that lets you run powerful open-source AI models locally on your machine with complete privacy and control—no subscriptions, no data sent to the cloud. Whether you want to use local models like Llama and Gemma or connect to cloud providers, Jan gives you a sleek, easy-to-use interface to chat, create custom assistants, and even run an OpenAI-compatible API server.",
+    "image": "https://github.com/user-attachments/assets/f3f87889-c133-433b-b250-236218150d3f",
+    "language": "TypeScript",
+    "topics": [
+      "chatgpt",
+      "gpt",
+      "llamacpp",
+      "llm",
+      "localai",
+      "open-source",
+      "self-hosted",
+      "tauri"
+    ],
+    "created_at": "2023-08-17T02:17:10Z"
+  },
+  "HKUDS/LightRAG": {
+    "first_seen": "2026-03-04",
+    "stars": 28939,
+    "summary": "LightRAG is a lightweight, production-ready framework that makes Retrieval-Augmented Generation (RAG) fast and simple, letting you build intelligent systems that pull from your own data without the complexity of traditional approaches. With built-in support for knowledge graphs, multiple LLMs, and evaluation tools like RAGAS and Langfuse, it's perfect for developers who want RAG to just work without the overhead.",
+    "image": "https://learnopencv.com/wp-content/uploads/2024/11/LightRAG-VectorDB-Json-KV-Store-Indexing-Flowchart-scaled.jpg",
+    "language": "Python",
+    "topics": [
+      "genai",
+      "gpt",
+      "gpt-4",
+      "graphrag",
+      "knowledge-graph",
+      "large-language-models",
+      "llm",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "created_at": "2024-10-02T11:57:54Z"
+  },
+  "bytedance/UI-TARS-desktop": {
+    "first_seen": "2026-03-04",
+    "stars": 28513,
+    "summary": "UI-TARS Desktop is a powerful multimodal AI agent application that lets you automate desktop and browser tasks by seeing and interacting with your screen just like a human would. With support for local and remote operators powered by the cutting-edge UI-TARS model, you can finally hand off tedious UI workflows to an intelligent agent that actually understands what it's clicking.",
+    "image": "https://raw.githubusercontent.com/bytedance/UI-TARS-desktop/main/./images/tars.png",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agent-tars",
+      "browser-use",
+      "computer-use",
+      "cowork",
+      "gui-agent",
+      "gui-operator",
+      "mcp",
+      "mcp-server",
+      "multimodal",
+      "tars",
+      "ui-tars",
+      "vision",
+      "vlm"
+    ],
+    "created_at": "2025-01-19T09:04:43Z"
+  },
+  "microsoft/playwright-mcp": {
+    "first_seen": "2026-03-04",
+    "stars": 28114,
+    "summary": "An MCP server that supercharges LLMs with browser automation by using Playwright's accessibility tree instead of screenshots—letting AI agents interact with web pages intelligently and deterministically without needing vision models. Perfect for building autonomous workflows, self-healing tests, and exploratory automation that require persistent browser context and deep page understanding.",
+    "image": "https://opengraph.githubassets.com/1/microsoft/playwright-mcp",
+    "language": "TypeScript",
+    "topics": [
+      "mcp",
+      "playwright"
+    ],
+    "created_at": "2025-03-21T17:48:36Z"
+  },
+  "Budibase/budibase": {
+    "first_seen": "2026-03-04",
+    "stars": 27703,
+    "summary": "Budibase is an open-source low-code platform that lets you build beautiful, performant business apps (forms, portals, approval workflows) in a fraction of the time, with support for multiple data sources and extensibility for developers. Skip the tedious UI boilerplate and focus on what matters—Budibase handles the heavy lifting with pre-built components, automation, and integrations so you can ship real applications without the headache.",
+    "image": "https://res.cloudinary.com/daog6scxm/image/upload/v1680181644/ui/homepage-design-ui_sizp7b.png",
+    "language": "TypeScript",
+    "topics": [
+      "ai-app-builder",
+      "ai-applications",
+      "crud-app",
+      "crud-application",
+      "data-application",
+      "data-apps",
+      "internal-tools",
+      "it-workflows",
+      "low-code",
+      "low-code-no-code",
+      "low-code-platform",
+      "no-code",
+      "no-code-platform",
+      "open-source",
+      "rest-api-framework",
+      "sql-gui",
+      "workflow-apps",
+      "workflow-automation",
+      "workflow-engine"
+    ],
+    "created_at": "2019-06-07T11:03:41Z"
+  },
+  "github/github-mcp-server": {
+    "first_seen": "2026-03-04",
+    "stars": 27459,
+    "summary": "GitHub MCP Server empowers AI assistants and agents to deeply interact with GitHub—reading code, managing issues and PRs, analyzing commits, and automating workflows—all through natural language, turning your AI tools into intelligent GitHub collaborators. Whether you're triaging bugs, reviewing code changes, or orchestrating complex CI/CD workflows, this integration lets you leverage AI to streamline your entire development pipeline without leaving your editor.",
+    "image": "https://opengraph.githubassets.com/1/github/github-mcp-server",
+    "language": "Go",
+    "topics": [
+      "github",
+      "mcp",
+      "mcp-server"
+    ],
+    "created_at": "2025-03-04T16:42:04Z"
   }
 }

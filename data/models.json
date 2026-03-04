@@ -1,12 +1,116 @@
 {
   "Qwen (Alibaba)": [
     {
+      "model_id": "Qwen/Qwen3.5-35B-A3B-GPTQ-Int4",
+      "author": "Qwen",
+      "company": "Qwen (Alibaba)",
+      "last_modified": "2026-03-03T14:28:03.000Z",
+      "downloads": 2122,
+      "likes": 15,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5_moe",
+        "image-text-to-text",
+        "conversational",
+        "base_model:Qwen/Qwen3.5-35B-A3B",
+        "base_model:quantized:Qwen/Qwen3.5-35B-A3B",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "4-bit",
+        "gptq",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision"
+      ]
+    },
+    {
+      "model_id": "Qwen/Qwen3.5-27B-GPTQ-Int4",
+      "author": "Qwen",
+      "company": "Qwen (Alibaba)",
+      "last_modified": "2026-03-03T14:25:51.000Z",
+      "downloads": 3394,
+      "likes": 8,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5",
+        "image-text-to-text",
+        "conversational",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "4-bit",
+        "gptq",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision"
+      ]
+    },
+    {
+      "model_id": "Qwen/Qwen3.5-122B-A10B-GPTQ-Int4",
+      "author": "Qwen",
+      "company": "Qwen (Alibaba)",
+      "last_modified": "2026-03-03T14:22:08.000Z",
+      "downloads": 1327,
+      "likes": 9,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5_moe",
+        "image-text-to-text",
+        "conversational",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "4-bit",
+        "gptq",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision"
+      ]
+    },
+    {
+      "model_id": "Qwen/Qwen3.5-397B-A17B-GPTQ-Int4",
+      "author": "Qwen",
+      "company": "Qwen (Alibaba)",
+      "last_modified": "2026-03-03T14:20:53.000Z",
+      "downloads": 928,
+      "likes": 11,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5_moe",
+        "image-text-to-text",
+        "conversational",
+        "base_model:Qwen/Qwen3.5-397B-A17B",
+        "base_model:quantized:Qwen/Qwen3.5-397B-A17B",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "4-bit",
+        "gptq",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision"
+      ]
+    },
+    {
       "model_id": "Qwen/Qwen3.5-0.8B",
       "author": "Qwen",
       "company": "Qwen (Alibaba)",
       "last_modified": "2026-03-02T11:26:58.000Z",
-      "downloads": 21743,
-      "likes": 144,
+      "downloads": 93448,
+      "likes": 207,
       "pipeline_tag": "image-text-to-text",
       "tags": [
         "transformers",
@@ -25,102 +129,6 @@
         "Text",
         "Vision"
       ]
-    },
-    {
-      "model_id": "Qwen/Qwen3.5-2B",
-      "author": "Qwen",
-      "company": "Qwen (Alibaba)",
-      "last_modified": "2026-03-02T11:26:29.000Z",
-      "downloads": 12782,
-      "likes": 93,
-      "pipeline_tag": "image-text-to-text",
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_5",
-        "image-text-to-text",
-        "conversational",
-        "base_model:Qwen/Qwen3.5-2B-Base",
-        "base_model:finetune:Qwen/Qwen3.5-2B-Base",
-        "license:apache-2.0",
-        "eval-results",
-        "endpoints_compatible",
-        "region:us"
-      ],
-      "capabilities": [
-        "Text",
-        "Vision"
-      ]
-    },
-    {
-      "model_id": "Qwen/Qwen3.5-35B-A3B-Base",
-      "author": "Qwen",
-      "company": "Qwen (Alibaba)",
-      "last_modified": "2026-03-02T08:18:46.000Z",
-      "downloads": 5905,
-      "likes": 107,
-      "pipeline_tag": "image-text-to-text",
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_5_moe",
-        "image-text-to-text",
-        "conversational",
-        "license:apache-2.0",
-        "endpoints_compatible",
-        "deploy:azure",
-        "region:us"
-      ],
-      "capabilities": [
-        "Text",
-        "Vision"
-      ]
-    },
-    {
-      "model_id": "Qwen/Qwen3.5-9B-Base",
-      "author": "Qwen",
-      "company": "Qwen (Alibaba)",
-      "last_modified": "2026-03-02T08:18:33.000Z",
-      "downloads": 1498,
-      "likes": 32,
-      "pipeline_tag": "image-text-to-text",
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_5",
-        "image-text-to-text",
-        "conversational",
-        "license:apache-2.0",
-        "endpoints_compatible",
-        "region:us"
-      ],
-      "capabilities": [
-        "Text",
-        "Vision"
-      ]
-    },
-    {
-      "model_id": "Qwen/Qwen3.5-4B-Base",
-      "author": "Qwen",
-      "company": "Qwen (Alibaba)",
-      "last_modified": "2026-03-02T08:18:13.000Z",
-      "downloads": 1672,
-      "likes": 36,
-      "pipeline_tag": "image-text-to-text",
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_5",
-        "image-text-to-text",
-        "conversational",
-        "license:apache-2.0",
-        "endpoints_compatible",
-        "region:us"
-      ],
-      "capabilities": [
-        "Text",
-        "Vision"
-      ]
     }
   ],
   "OpenAI": [
@@ -129,7 +137,7 @@
       "author": "openai",
       "company": "OpenAI",
       "last_modified": "2026-01-14T18:38:05.000Z",
-      "downloads": 49017,
+      "downloads": 48018,
       "likes": 196,
       "pipeline_tag": "text-generation",
       "tags": [
@@ -157,7 +165,7 @@
       "author": "openai",
       "company": "OpenAI",
       "last_modified": "2025-12-12T07:36:26.000Z",
-      "downloads": 652,
+      "downloads": 661,
       "likes": 203,
       "pipeline_tag": "text-generation",
       "tags": [
@@ -179,7 +187,7 @@
       "author": "openai",
       "company": "OpenAI",
       "last_modified": "2025-10-29T11:13:59.000Z",
-      "downloads": 54176,
+      "downloads": 54381,
       "likes": 90,
       "pipeline_tag": "text-generation",
       "tags": [
@@ -207,8 +215,8 @@
       "author": "openai",
       "company": "OpenAI",
       "last_modified": "2025-08-26T17:25:47.000Z",
-      "downloads": 6810310,
-      "likes": 4420,
+      "downloads": 7049150,
+      "likes": 4421,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -235,8 +243,8 @@
       "author": "openai",
       "company": "OpenAI",
       "last_modified": "2025-08-26T17:25:03.000Z",
-      "downloads": 4118252,
-      "likes": 4539,
+      "downloads": 4194966,
+      "likes": 4542,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -265,7 +273,7 @@
       "author": "google",
       "company": "Google (Gemini)",
       "last_modified": "2026-02-20T15:55:54.000Z",
-      "downloads": 1641,
+      "downloads": 1686,
       "likes": 22,
       "pipeline_tag": "time-series-forecasting",
       "tags": [
@@ -286,7 +294,7 @@
       "author": "google",
       "company": "Google (Gemini)",
       "last_modified": "2026-01-28T17:28:43.000Z",
-      "downloads": 139547,
+      "downloads": 142094,
       "likes": 662,
       "pipeline_tag": "image-text-to-text",
       "tags": [
@@ -313,7 +321,7 @@
       "author": "google",
       "company": "Google (Gemini)",
       "last_modified": "2026-01-28T17:27:49.000Z",
-      "downloads": 558242,
+      "downloads": 560100,
       "likes": 265,
       "pipeline_tag": "image-text-to-text",
       "tags": [
@@ -340,7 +348,7 @@
       "author": "google",
       "company": "Google (Gemini)",
       "last_modified": "2026-01-28T17:26:56.000Z",
-      "downloads": 12660,
+      "downloads": 12594,
       "likes": 324,
       "pipeline_tag": "image-text-to-text",
       "tags": [
@@ -387,7 +395,7 @@
       "author": "bytedance-research",
       "company": "ByteDance",
       "last_modified": "2026-01-22T00:55:27.000Z",
-      "downloads": 109,
+      "downloads": 110,
       "likes": 9,
       "pipeline_tag": "",
       "tags": [
@@ -454,7 +462,7 @@
       "author": "bytedance-research",
       "company": "ByteDance",
       "last_modified": "2025-12-29T09:00:25.000Z",
-      "downloads": 1200,
+      "downloads": 1209,
       "likes": 8,
       "pipeline_tag": "text-generation",
       "tags": [
@@ -512,8 +520,8 @@
       "author": "meta-llama",
       "company": "Meta",
       "last_modified": "2025-11-12T21:27:00.000Z",
-      "downloads": 27183,
-      "likes": 312,
+      "downloads": 27036,
+      "likes": 313,
       "pipeline_tag": "text-classification",
       "tags": [
         "transformers",
@@ -540,8 +548,8 @@
       "author": "meta-llama",
       "company": "Meta",
       "last_modified": "2025-06-18T23:49:51.000Z",
-      "downloads": 1343560,
-      "likes": 4390,
+      "downloads": 1353966,
+      "likes": 4391,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -569,7 +577,7 @@
       "author": "meta-llama",
       "company": "Meta",
       "last_modified": "2025-06-18T23:49:26.000Z",
-      "downloads": 64902,
+      "downloads": 61023,
       "likes": 1506,
       "pipeline_tag": "text-generation",
       "tags": [
@@ -600,7 +608,7 @@
       "author": "meta-llama",
       "company": "Meta",
       "last_modified": "2025-05-22T23:46:12.000Z",
-      "downloads": 6652,
+      "downloads": 6341,
       "likes": 466,
       "pipeline_tag": "image-text-to-text",
       "tags": [
@@ -645,7 +653,7 @@
       "author": "meta-llama",
       "company": "Meta",
       "last_modified": "2025-05-22T23:46:03.000Z",
-      "downloads": 72468,
+      "downloads": 71068,
       "likes": 156,
       "pipeline_tag": "image-text-to-text",
       "tags": [
@@ -692,8 +700,8 @@
       "author": "deepseek-ai",
       "company": "DeepSeek",
       "last_modified": "2026-02-03T00:33:19.000Z",
-      "downloads": 1698026,
-      "likes": 840,
+      "downloads": 1672258,
+      "likes": 842,
       "pipeline_tag": "image-text-to-text",
       "tags": [
         "transformers",
@@ -724,8 +732,8 @@
       "author": "deepseek-ai",
       "company": "DeepSeek",
       "last_modified": "2025-12-01T11:06:03.000Z",
-      "downloads": 176531,
-      "likes": 679,
+      "downloads": 176484,
+      "likes": 680,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -748,8 +756,8 @@
       "author": "deepseek-ai",
       "company": "DeepSeek",
       "last_modified": "2025-12-01T11:04:59.000Z",
-      "downloads": 361701,
-      "likes": 1276,
+      "downloads": 362520,
+      "likes": 1280,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -774,7 +782,7 @@
       "author": "deepseek-ai",
       "company": "DeepSeek",
       "last_modified": "2025-11-27T10:35:52.000Z",
-      "downloads": 6937,
+      "downloads": 7471,
       "likes": 684,
       "pipeline_tag": "text-generation",
       "tags": [
@@ -800,8 +808,8 @@
       "author": "deepseek-ai",
       "company": "DeepSeek",
       "last_modified": "2025-11-18T02:39:54.000Z",
-      "downloads": 51155,
-      "likes": 965,
+      "downloads": 51099,
+      "likes": 967,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -827,8 +835,8 @@
       "author": "mistralai",
       "company": "Mistral",
       "last_modified": "2026-03-02T15:12:35.000Z",
-      "downloads": 339206,
-      "likes": 668,
+      "downloads": 366743,
+      "likes": 674,
       "pipeline_tag": "automatic-speech-recognition",
       "tags": [
         "vllm",
@@ -865,8 +873,8 @@
       "author": "mistralai",
       "company": "Mistral",
       "last_modified": "2026-02-25T08:50:48.000Z",
-      "downloads": 460496,
-      "likes": 542,
+      "downloads": 457633,
+      "likes": 543,
       "pipeline_tag": "",
       "tags": [
         "vllm",
@@ -889,7 +897,7 @@
       "author": "mistralai",
       "company": "Mistral",
       "last_modified": "2026-02-25T08:50:20.000Z",
-      "downloads": 22143,
+      "downloads": 17103,
       "likes": 293,
       "pipeline_tag": "",
       "tags": [
@@ -910,7 +918,7 @@
       "author": "mistralai",
       "company": "Mistral",
       "last_modified": "2026-02-23T18:04:17.000Z",
-      "downloads": 12781,
+      "downloads": 13984,
       "likes": 286,
       "pipeline_tag": "",
       "tags": [
@@ -957,7 +965,7 @@
       "author": "mistralai",
       "company": "Mistral",
       "last_modified": "2026-01-29T10:32:14.000Z",
-      "downloads": 4333,
+      "downloads": 4392,
       "likes": 49,
       "pipeline_tag": "",
       "tags": [
