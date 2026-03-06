@@ -1526,5 +1526,76 @@
       "typescript"
     ],
     "created_at": "2023-06-19T04:08:31Z"
+  },
+  "JuliaLang/julia": {
+    "first_seen": "2026-03-06",
+    "stars": 48532,
+    "summary": "Julia is a high-level, high-performance dynamic language purpose-built for technical computing that combines the ease of Python with the speed of C, making it perfect for numerical analysis, data science, and scientific computing. With a growing ecosystem of packages and an active community, Julia lets you write fast, expressive code without sacrificing performance or readability.",
+    "image": "https://opengraph.githubassets.com/1/JuliaLang/julia",
+    "language": "Julia",
+    "topics": [
+      "hacktoberfest",
+      "hpc",
+      "julia",
+      "julia-language",
+      "julialang",
+      "machine-learning",
+      "numerical",
+      "programming-language",
+      "science",
+      "scientific"
+    ],
+    "created_at": "2011-04-21T07:01:50Z"
+  },
+  "oobabooga/text-generation-webui": {
+    "first_seen": "2026-03-06",
+    "stars": 46152,
+    "summary": "Text Generation Web UI is a user-friendly Gradio interface that lets you run powerful open-source language models completely locally and privately—with support for multiple backends, image generation, vision models, and web search all in one place. Whether you want to chat with custom characters, generate images, or build an OpenAI-compatible API, this project makes advanced AI accessible without any setup hassle or privacy concerns.",
+    "image": "https://github.com/oobabooga/screenshots/raw/main/INSTRUCT-3.5.png",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2022-12-21T04:17:37Z"
+  },
+  "paperless-ngx/paperless-ngx": {
+    "first_seen": "2026-03-06",
+    "stars": 37160,
+    "summary": "Paperless-ngx is a powerful document management system that scans and digitizes your physical papers into a fully searchable, organized online archive—letting you finally go paperless. It's open-source, actively maintained by a community team, and includes OCR, tagging, filtering, and a beautiful web interface to help you find any document in seconds.",
+    "image": "https://github.com/paperless-ngx/paperless-ngx/raw/main/resources/logo/web/png/Black%20logo%20-%20no%20background.png",
+    "language": "Python",
+    "topics": [
+      "angular",
+      "archiving",
+      "django",
+      "dms",
+      "document-management",
+      "document-management-system",
+      "hacktoberfest",
+      "machine-learning",
+      "ocr",
+      "optical-character-recognition",
+      "pdf"
+    ],
+    "created_at": "2022-02-12T21:56:52Z"
+  },
+  "moeru-ai/airi": {
+    "first_seen": "2026-03-06",
+    "stars": 28455,
+    "summary": "Project AIRI is an open-source framework for creating AI-powered virtual characters and waifus with personality, voice, and interactive capabilities inspired by Neuro-sama. If you're interested in building conversational AI companions, virtual streamers, or exploring the intersection of AI and character design, this project gives you the tools and community to bring digital souls to life.",
+    "image": "https://repobeats.axiom.co/api/embed/a1d6fe2c13ea2bb53a5154435a71e2431f70c2ee.svg 'Repobeats analytics image'",
+    "language": "TypeScript",
+    "topics": [
+      "ai-companion",
+      "ai-vtuber",
+      "clawdbot",
+      "digital-life",
+      "grok-companion",
+      "live2d",
+      "moltbot",
+      "neuro-sama",
+      "neurosama",
+      "vrm",
+      "vtuber"
+    ],
+    "created_at": "2024-12-01T16:33:36Z"
   }
 }
