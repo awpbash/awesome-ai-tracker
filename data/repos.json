@@ -1597,5 +1597,76 @@
       "vtuber"
     ],
     "created_at": "2024-12-01T16:33:36Z"
+  },
+  "keras-team/keras": {
+    "first_seen": "2026-03-07",
+    "stars": 63913,
+    "summary": "Keras 3 is a multi-backend deep learning framework that lets you write code once and run it seamlessly across JAX, TensorFlow, PyTorch, and more—giving you the freedom to pick the fastest backend for your specific model and unlock 20-350% performance gains. Join millions of developers building computer vision, NLP, and other AI solutions faster with Keras' legendary simplicity and power.",
+    "image": "https://opengraph.githubassets.com/1/keras-team/keras",
+    "language": "Python",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "jax",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "tensorflow"
+    ],
+    "created_at": "2015-03-28T00:35:42Z"
+  },
+  "microsoft/ai-agents-for-beginners": {
+    "first_seen": "2026-03-07",
+    "stars": 53230,
+    "summary": "Learn everything you need to build AI agents from the ground up with this comprehensive Microsoft course designed for beginners, complete with hands-on lessons and multi-language support. Whether you're curious about agent architecture, tool integration, or practical implementation, this resource walks you through real-world examples that'll have you building intelligent agents in no time.",
+    "image": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/./images/repo-thumbnailv2.png",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-rag",
+      "ai-agents",
+      "ai-agents-framework",
+      "autogen",
+      "generative-ai",
+      "semantic-kernel"
+    ],
+    "created_at": "2024-11-28T10:42:52Z"
+  },
+  "virattt/ai-hedge-fund": {
+    "first_seen": "2026-03-07",
+    "stars": 46414,
+    "summary": "This educational project brings legendary investing philosophies to life by orchestrating multiple AI agents—each mimicking icons like Warren Buffett, Charlie Munger, and Cathie Wood—to collaboratively analyze stocks and generate trading insights. It's a fascinating way to explore how different investment strategies can work together through AI, perfect for learning about both machine learning and investment principles without any real money at stake.",
+    "image": "https://github.com/user-attachments/assets/cbae3dcf-b571-490d-b0ad-3f0f035ac0d4",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2024-11-29T16:30:01Z"
+  },
+  "lutzroeder/netron": {
+    "first_seen": "2026-03-07",
+    "stars": 32534,
+    "summary": "Netron is a powerful, easy-to-use viewer that lets you visualize and understand neural network architectures across virtually every popular ML framework—ONNX, PyTorch, TensorFlow, Core ML, and many more. Whether you're debugging a model, learning how networks are structured, or collaborating with teammates, Netron makes it instantly clear what's happening inside your models with beautiful interactive diagrams.",
+    "image": "https://github.com/lutzroeder/netron/raw/main/.github/logo-light.svg#gh-light-mode-only",
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "coreml",
+      "deep-learning",
+      "deeplearning",
+      "keras",
+      "machine-learning",
+      "machinelearning",
+      "ml",
+      "neural-network",
+      "numpy",
+      "onnx",
+      "pytorch",
+      "safetensors",
+      "tensorflow",
+      "tensorflow-lite",
+      "visualizer"
+    ],
+    "created_at": "2010-12-26T12:53:43Z"
   }
 }
