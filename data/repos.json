@@ -1691,5 +1691,46 @@
       "zero"
     ],
     "created_at": "2020-01-23T18:35:18Z"
+  },
+  "openclaw/openclaw": {
+    "first_seen": "2026-03-09",
+    "stars": 285620,
+    "summary": "OpenClaw is a personal AI assistant that runs locally on your devices and integrates seamlessly with all your favorite messaging platforms—WhatsApp, Telegram, Slack, Discord, and many more—so your AI meets you where you already are. It prioritizes privacy, speed, and that \"always-on\" feeling of having a genuinely personal assistant that works exactly how you want it to.",
+    "image": "https://api.star-history.com/svg?repos=openclaw/openclaw&type=date&legend=top-left",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "assistant",
+      "crustacean",
+      "molty",
+      "openclaw",
+      "own-your-data",
+      "personal"
+    ],
+    "created_at": "2025-11-24T10:16:47Z"
+  },
+  "mem0ai/mem0": {
+    "first_seen": "2026-03-09",
+    "stars": 49129,
+    "summary": "Mem0 is an intelligent memory layer that gives AI assistants persistent, personalized memory to remember user preferences and adapt over time—making chatbots, customer support systems, and AI agents dramatically smarter and more contextual. It delivers 26% better accuracy than competitors while being 91% faster and using 90% fewer tokens, so you get better AI interactions without breaking the bank.",
+    "image": "https://raw.githubusercontent.com/mem0ai/mem0/main/docs/images/banner-sm.png",
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "application",
+      "chatbots",
+      "chatgpt",
+      "genai",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "memory-management",
+      "python",
+      "rag",
+      "state-management"
+    ],
+    "created_at": "2023-06-20T08:58:36Z"
   }
 }
