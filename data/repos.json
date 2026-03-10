@@ -1732,5 +1732,77 @@
       "state-management"
     ],
     "created_at": "2023-06-20T08:58:36Z"
+  },
+  "mindsdb/mindsdb": {
+    "first_seen": "2026-03-10",
+    "stars": 38660,
+    "summary": "MindsDB is an open-source query engine that lets you build AI agents that answer questions directly from your databases and data sources—no ETL needed—by connecting to 200+ live data integrations and unifying structured and unstructured data. It's perfect if you want to create conversational analytics or semantic search agents without the complexity of traditional data pipelines.",
+    "image": "https://raw.githubusercontent.com/mindsdb/mindsdb/main/assets/mindsdb-header-github.png",
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "analytics",
+      "artificial-inteligence",
+      "bigquery",
+      "business-intelligence",
+      "databases",
+      "hacktoberfest",
+      "llms",
+      "mcp",
+      "mssql",
+      "mysql",
+      "postgresql",
+      "rag"
+    ],
+    "created_at": "2018-08-02T17:56:45Z"
+  },
+  "microsoft/qlib": {
+    "first_seen": "2026-03-10",
+    "stars": 38557,
+    "summary": "Qlib is a powerful quantitative investment platform by Microsoft that provides end-to-end tools for factor mining, model development, and backtesting in algorithmic trading. Whether you're building predictive models for stock markets or exploring AI-driven investment strategies, Qlib streamlines the entire workflow with production-ready components and now supports LLM-based autonomous agents for automated research and optimization.",
+    "image": "https://github.com/user-attachments/assets/3198bc10-47ba-4ee0-8a8e-46d5ce44f45d",
+    "language": "Python",
+    "topics": [
+      "algorithmic-trading",
+      "auto-quant",
+      "deep-learning",
+      "finance",
+      "fintech",
+      "investment",
+      "machine-learning",
+      "paper",
+      "platform",
+      "python",
+      "quant",
+      "quant-dataset",
+      "quant-models",
+      "quantitative-finance",
+      "quantitative-trading",
+      "research",
+      "research-paper",
+      "stock-data"
+    ],
+    "created_at": "2020-08-14T06:46:00Z"
+  },
+  "666ghj/BettaFish": {
+    "first_seen": "2026-03-10",
+    "stars": 37699,
+    "summary": "BettaFish is an AI-powered multi-agent public opinion analysis system that monitors 30+ mainstream social media platforms in real-time to help you break through information bubbles and make data-driven decisions by simply chatting with the system about your analysis needs. With its advanced ensemble of specialized agents, multimodal capabilities, and seamless data integration, it delivers deep insights and predictive intelligence far beyond traditional dashboards—making it an extensible foundation for any data analysis scenario from finance to brand reputation management.",
+    "image": "https://contrib.rocks/image?repo=666ghj/BettaFish",
+    "language": "Python",
+    "topics": [
+      "agent-framework",
+      "data-analysis",
+      "deep-research",
+      "deep-search",
+      "llms",
+      "multi-agent-system",
+      "nlp",
+      "public-opinion-analysis",
+      "python3",
+      "sentiment-analysis"
+    ],
+    "created_at": "2024-07-01T13:11:38Z"
   }
 }
