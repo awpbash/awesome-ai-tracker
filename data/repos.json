@@ -1804,5 +1804,59 @@
       "sentiment-analysis"
     ],
     "created_at": "2024-07-01T13:11:38Z"
+  },
+  "obra/superpowers": {
+    "first_seen": "2026-03-11",
+    "stars": 77176,
+    "summary": "Superpowers transforms AI coding agents into autonomous developers by giving them a structured workflow that plans before coding, breaks work into manageable tasks, and orchestrates multi-hour development sprints with minimal human intervention. It's the difference between an AI that jumps straight to writing code and one that thinks through the problem, gets your sign-off on the design, and then executes with the discipline of a junior engineer following a detailed spec.",
+    "image": "https://opengraph.githubassets.com/1/obra/superpowers",
+    "language": "Shell",
+    "topics": [],
+    "created_at": "2025-10-09T19:45:18Z"
+  },
+  "OpenHands/OpenHands": {
+    "first_seen": "2026-03-11",
+    "stars": 68914,
+    "summary": "OpenHands is an open-source AI development agent that automates coding tasks—think of it as having an AI pair programmer that can write code, run tests, and solve problems for you. Whether you want a CLI tool, local GUI, cloud platform, or Python SDK, OpenHands gives you flexible ways to harness AI for software development, from personal projects to enterprise deployments.",
+    "image": "https://raw.githubusercontent.com/OpenHands/docs/main/openhands/static/img/logo.png",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "artificial-intelligence",
+      "chatgpt",
+      "claude-ai",
+      "cli",
+      "developer-tools",
+      "gpt",
+      "llm",
+      "openai"
+    ],
+    "created_at": "2024-03-13T03:33:31Z"
+  },
+  "code-yeongyu/oh-my-openagent": {
+    "first_seen": "2026-03-11",
+    "stars": 38970,
+    "summary": "Oh My OpenCode is a multi-model AI agent framework that breaks free from vendor lock-in by orchestrating Claude, GPT, Kimi, and other LLMs together for autonomous coding tasks. Built as a powerful alternative to closed ecosystems, it gives you the flexibility to leverage the best strengths of each model rather than being trapped with a single provider's limitations.",
+    "image": "https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/main/./.github/assets/sisyphuslabs.png?v=2",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "amp",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "cursor",
+      "gemini",
+      "ide",
+      "openai",
+      "opencode",
+      "orchestration",
+      "tui",
+      "typescript"
+    ],
+    "created_at": "2025-12-03T01:40:05Z"
   }
 }
