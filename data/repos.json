@@ -1858,5 +1858,50 @@
       "typescript"
     ],
     "created_at": "2025-12-03T01:40:05Z"
+  },
+  "opencv/opencv": {
+    "first_seen": "2026-03-12",
+    "stars": 86555,
+    "summary": "OpenCV is the gold-standard, open-source library for computer vision that brings image processing, video analysis, and real-time object detection to your fingertips with industrial-grade reliability. Whether you're building face recognition systems, autonomous vehicles, or creative visual effects, OpenCV's massive ecosystem and 86k+ stars prove it's the go-to tool trusted by developers worldwide.",
+    "image": "https://opengraph.githubassets.com/1/opencv/opencv",
+    "language": "C++",
+    "topics": [
+      "c-plus-plus",
+      "computer-vision",
+      "deep-learning",
+      "image-processing",
+      "opencv"
+    ],
+    "created_at": "2012-07-19T09:40:17Z"
+  },
+  "unslothai/unsloth": {
+    "first_seen": "2026-03-12",
+    "stars": 53811,
+    "summary": "Unsloth makes fine-tuning large language models dramatically faster and cheaper — train models 2x faster while using 70% less VRAM, all with beginner-friendly Google Colab notebooks that let you get started instantly for free. Whether you're working with Llama, Qwen, Gemma, or other popular models, Unsloth removes the resource barriers that make LLM customization inaccessible to most developers.",
+    "image": "https://i.ibb.co/sJ7RhGG/image-41.png",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "deepseek",
+      "deepseek-r1",
+      "fine-tuning",
+      "gemma",
+      "gemma3",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "llms",
+      "mistral",
+      "openai",
+      "qwen",
+      "qwen3",
+      "reinforcement-learning",
+      "text-to-speech",
+      "tts",
+      "unsloth",
+      "voice-cloning"
+    ],
+    "created_at": "2023-11-29T16:50:09Z"
   }
 }
