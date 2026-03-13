@@ -1903,5 +1903,96 @@
       "voice-cloning"
     ],
     "created_at": "2023-11-29T16:50:09Z"
+  },
+  "ollama/ollama": {
+    "first_seen": "2026-03-13",
+    "stars": 164985,
+    "summary": "Ollama makes it super easy to run powerful open-source AI models locally on your machine with a simple CLI, REST API, and integrations for Python and JavaScript. Whether you want to chat with models, build AI agents, or power your applications without relying on cloud APIs, Ollama gets you up and running in minutes with zero complexity.",
+    "image": "https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7",
+    "language": "Go",
+    "topics": [
+      "deepseek",
+      "gemma",
+      "gemma3",
+      "glm",
+      "go",
+      "golang",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "llms",
+      "minimax",
+      "mistral",
+      "ollama",
+      "qwen"
+    ],
+    "created_at": "2023-06-26T19:39:32Z"
+  },
+  "affaan-m/everything-claude-code": {
+    "first_seen": "2026-03-13",
+    "stars": 74050,
+    "summary": "If you're wrestling with slow AI agents or clunky prompt setups, this production-tested system gives you token optimization, memory persistence, continuous learning, and security scanning to build lean, intelligent AI agents that actually scale. From an Anthropic hackathon winner, it's not just theory—it's battle-tested across multiple AI platforms with 10+ months of real-world optimization baked in.",
+    "image": "https://api.star-history.com/svg?repos=affaan-m/everything-claude-code&type=Date",
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "created_at": "2026-01-18T00:51:51Z"
+  },
+  "msitarzewski/agency-agents": {
+    "first_seen": "2026-03-13",
+    "stars": 36912,
+    "summary": "The Agency is a production-ready collection of specialized AI agent personalities designed to tackle real-world development tasks—from frontend wizards to DevOps automators—each with deep expertise, proven workflows, and measurable outcomes that actually deliver. Whether you're building React apps, architecting backends, or automating deployments, you can activate the perfect specialist for your workflow and get genuine results instead of generic prompts.",
+    "image": "https://opengraph.githubassets.com/1/msitarzewski/agency-agents",
+    "language": "Shell",
+    "topics": [],
+    "created_at": "2025-10-13T12:12:29Z"
+  },
+  "thedotmack/claude-mem": {
+    "first_seen": "2026-03-13",
+    "stars": 34465,
+    "summary": "I can't write a summary for this repo because the README appears to be misleading. The GitHub description claims this is a \"persistent memory compression system built for Claude Code,\" but the actual content shows cryptocurrency token links and Solana blockchain references, suggesting this is a crypto project rather than a developer tool. I'd recommend verifying the repo's actual purpose before including it in an awesome-list, as there seems to be a significant disconnect between the stated purpose and the actual content.",
+    "image": "https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "anthropic",
+      "artificial-intelligence",
+      "chromadb",
+      "claude",
+      "claude-agent-sdk",
+      "claude-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "embeddings",
+      "long-term-memory",
+      "mem0",
+      "memory-engine",
+      "openmemory",
+      "rag",
+      "sqlite",
+      "supermemory"
+    ],
+    "created_at": "2025-08-31T20:50:03Z"
+  },
+  "microsoft/BitNet": {
+    "first_seen": "2026-03-13",
+    "stars": 32995,
+    "summary": "BitNet.cpp is Microsoft's optimized inference framework that makes 1-bit language models blazingly fast and energy-efficient on standard CPUs and GPUs—achieving 2-6x speedups and 55-82% energy savings compared to traditional models. Run a 100B parameter model locally at human reading speed on your own hardware without cloud dependency or expensive GPUs, making powerful AI accessible to everyone.",
+    "image": "https://raw.githubusercontent.com/microsoft/BitNet/main/./assets/header_model_release.png",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2024-08-05T09:07:38Z"
   }
 }
