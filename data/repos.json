@@ -2073,5 +2073,80 @@
       "webui"
     ],
     "created_at": "2023-02-12T01:06:52Z"
+  },
+  "farion1231/cc-switch": {
+    "first_seen": "2026-03-15",
+    "stars": 28263,
+    "summary": "CC Switch is a unified desktop manager that lets you seamlessly switch between multiple AI coding assistants like Claude Code, Codex, and Gemini CLI all in one place, eliminating the hassle of juggling separate tools and accounts. Built with Tauri for cross-platform reliability, it's the go-to solution for developers who want to harness the power of different AI models without the friction of context-switching between applications.",
+    "image": "https://raw.githubusercontent.com/farion1231/cc-switch/main/assets/partners/banners/minimax-en.jpeg",
+    "language": "Rust",
+    "topics": [
+      "ai-tools",
+      "claude-code",
+      "codex",
+      "desktop-app",
+      "mcp",
+      "minimax",
+      "omo",
+      "open-source",
+      "openclaw",
+      "openclaw-ui",
+      "opencode",
+      "provider-management",
+      "rust",
+      "skills",
+      "skills-management",
+      "tauri",
+      "typescript",
+      "wsl-support"
+    ],
+    "created_at": "2025-08-04T14:16:16Z"
+  },
+  "ComposioHQ/composio": {
+    "first_seen": "2026-03-15",
+    "stars": 27380,
+    "summary": "Composio is a universal SDK that supercharges your AI agents with instant access to hundreds of tools and APIs, handling all the integration complexity so you can focus on building intelligent workflows. Whether you're using Python or TypeScript, it seamlessly connects your favorite AI frameworks to real-world actions—from APIs to web services—making it incredibly easy to turn agent ideas into production-ready systems.",
+    "image": "https://raw.githubusercontent.com/ComposioHQ/composio/next/public/cover.png",
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "aiagents",
+      "developer-tools",
+      "function-calling",
+      "gpt-4",
+      "javascript",
+      "js",
+      "llm",
+      "llmops",
+      "mcp",
+      "python",
+      "remote-mcp-server",
+      "sse",
+      "typescript"
+    ],
+    "created_at": "2024-02-23T13:58:27Z"
+  },
+  "labring/FastGPT": {
+    "first_seen": "2026-03-15",
+    "stars": 27380,
+    "summary": "FastGPT is an open-source AI Agent platform that lets you build sophisticated LLM applications with visual workflow orchestration, knowledge base management, and built-in tools for data processing—no coding required. Deploy it locally with Docker, use the cloud version, or integrate it into your existing systems via OpenAPI to create production-ready AI solutions for complex use cases.",
+    "image": "https://raw.githubusercontent.com/labring/FastGPT/main/./.github/imgs/intro1.png",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "claude",
+      "deepseek",
+      "llm",
+      "mcp",
+      "nextjs",
+      "openai",
+      "qwen",
+      "rag",
+      "workflow"
+    ],
+    "created_at": "2023-02-23T16:53:25Z"
   }
 }
