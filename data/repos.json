@@ -2148,5 +2148,34 @@
       "workflow"
     ],
     "created_at": "2023-02-23T16:53:25Z"
+  },
+  "bytedance/deer-flow": {
+    "first_seen": "2026-03-16",
+    "stars": 31011,
+    "summary": "DeerFlow is a powerful open-source agent framework that orchestrates multiple AI sub-agents, memory systems, and sandboxed environments to tackle complex tasks through extensible skills and tools. Whether you're building autonomous research systems or sophisticated multi-agent applications, DeerFlow gives you the infrastructure to create agents that can explore, reason, and act at scale.",
+    "image": "https://api.star-history.com/svg?repos=bytedance/deer-flow&type=Date",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "bytedance",
+      "deep-research",
+      "harness",
+      "langchain",
+      "langgraph",
+      "langmanus",
+      "llm",
+      "multi-agent",
+      "nodejs",
+      "podcast",
+      "python",
+      "superagent",
+      "typescript"
+    ],
+    "created_at": "2025-05-07T02:50:19Z"
   }
 }
