@@ -2177,5 +2177,64 @@
       "typescript"
     ],
     "created_at": "2025-05-07T02:50:19Z"
+  },
+  "microsoft/ML-For-Beginners": {
+    "first_seen": "2026-03-17",
+    "stars": 84505,
+    "summary": "A comprehensive 12-week curriculum from Microsoft that teaches machine learning fundamentals through hands-on lessons, quizzes, and real-world projects—perfect for beginners who want to build a solid foundation without getting overwhelmed by theory. With support for 50+ languages and friendly, practical lessons, you'll go from zero to confident ML practitioner at your own pace.",
+    "image": "https://raw.githubusercontent.com/microsoft/ML-For-Beginners/main/images/3.png",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "data-science",
+      "education",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "machinelearning",
+      "machinelearning-python",
+      "microsoft-for-beginners",
+      "ml",
+      "python",
+      "r",
+      "scikit-learn",
+      "scikit-learn-python"
+    ],
+    "created_at": "2021-03-03T01:34:05Z"
+  },
+  "666ghj/MiroFish": {
+    "first_seen": "2026-03-17",
+    "stars": 31220,
+    "summary": "MiroFish is a groundbreaking multi-agent AI prediction engine that creates high-fidelity digital worlds from real-world seed data to let you simulate future scenarios and test decisions risk-free. Whether you're predicting policy outcomes, exploring financial trends, or even resolving fictional plot twists, MiroFish transforms \"what-if\" questions into concrete insights through interactive swarm intelligence.",
+    "image": "https://raw.githubusercontent.com/666ghj/MiroFish/main/./static/image/MiroFish_logo_compressed.jpeg",
+    "language": "Python",
+    "topics": [
+      "agent-memory",
+      "financial-forecasting",
+      "future-prediction",
+      "knowledge-graph",
+      "llms",
+      "multi-agent-simulation",
+      "public-opinion-analysis",
+      "python3",
+      "social-prediction",
+      "swarm-intelligence"
+    ],
+    "created_at": "2025-11-26T04:23:02Z"
+  },
+  "Lightning-AI/pytorch-lightning": {
+    "first_seen": "2026-03-17",
+    "stars": 30930,
+    "summary": "PyTorch Lightning eliminates boilerplate engineering code by automating distributed training, mixed precision, and multi-GPU scaling while letting you focus purely on model logic—think of it as the React for PyTorch that handles all the infrastructure complexity. Whether you're prototyping on CPU or scaling to multi-node clusters, you write the science and Lightning handles the engineering without sacrificing expert-level control.",
+    "image": "https://raw.githubusercontent.com/Lightning-AI/pytorch-lightning/main/docs/source-pytorch/_static/images/general/pl_quick_start_full_compressed.gif",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "pytorch"
+    ],
+    "created_at": "2019-03-31T00:45:57Z"
   }
 }
