@@ -2236,5 +2236,81 @@
       "pytorch"
     ],
     "created_at": "2019-03-31T00:45:57Z"
+  },
+  "f/prompts.chat": {
+    "first_seen": "2026-03-18",
+    "stars": 153128,
+    "summary": "prompts.chat is the world's largest open-source library of AI prompts, offering thousands of tested examples that work with ChatGPT, Claude, Gemini, and any modern AI model to help you get better results instantly. Whether you're new to prompt engineering or looking to level up your AI skills, this community-driven resource has you covered with real examples, an interactive learning guide, and tools to find or share prompts that actually work.",
+    "image": "https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/clemta.webp",
+    "language": "HTML",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "awesome-list",
+      "chatgpt",
+      "chatgpt-prompts",
+      "claude",
+      "gemini",
+      "gpt",
+      "gpt-4",
+      "llm",
+      "machine-learning",
+      "nextjs",
+      "open-source",
+      "openai",
+      "prompt-engineering",
+      "prompts",
+      "prompts-chat",
+      "typescript"
+    ],
+    "created_at": "2022-12-05T13:54:13Z"
+  },
+  "ChromeDevTools/chrome-devtools-mcp": {
+    "first_seen": "2026-03-18",
+    "stars": 29946,
+    "summary": "This MCP server bridges AI coding assistants like Claude and Gemini directly to Chrome DevTools, giving your AI agent superpowers for browser automation, debugging, network inspection, and performance analysis. It's the missing link between your AI assistant and real browser control—perfect for building reliable automation workflows, diagnosing tricky frontend bugs, and getting actionable performance insights without leaving your IDE.",
+    "image": "https://opengraph.githubassets.com/1/ChromeDevTools/chrome-devtools-mcp",
+    "language": "TypeScript",
+    "topics": [
+      "browser",
+      "chrome",
+      "chrome-devtools",
+      "debugging",
+      "devtools",
+      "mcp",
+      "mcp-server",
+      "puppeteer"
+    ],
+    "created_at": "2025-09-11T10:39:55Z"
+  },
+  "qdrant/qdrant": {
+    "first_seen": "2026-03-18",
+    "stars": 29617,
+    "summary": "Qdrant is a blazingly-fast vector database engine written in Rust that makes it easy to build AI applications with semantic search, recommendations, and neural-network matching. Whether you're prototyping locally or scaling to production, it handles embeddings efficiently with powerful filtering capabilities and comes with client libraries for every major language.",
+    "image": "https://qdrant.tech/content/images/text_search.png",
+    "language": "Rust",
+    "topics": [
+      "ai-search",
+      "ai-search-engine",
+      "embeddings-similarity",
+      "hnsw",
+      "hybrid-search",
+      "image-search",
+      "knn-algorithm",
+      "machine-learning",
+      "mlops",
+      "nearest-neighbor-search",
+      "neural-network",
+      "neural-search",
+      "recommender-system",
+      "search",
+      "search-engine",
+      "search-engines",
+      "similarity-search",
+      "vector-database",
+      "vector-search",
+      "vector-search-engine"
+    ],
+    "created_at": "2020-05-30T21:37:01Z"
   }
 }
