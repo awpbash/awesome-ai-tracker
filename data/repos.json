@@ -2312,5 +2312,66 @@
       "vector-search-engine"
     ],
     "created_at": "2020-05-30T21:37:01Z"
+  },
+  "gsd-build/get-shit-done": {
+    "first_seen": "2026-03-20",
+    "stars": 36606,
+    "summary": "GET SHIT DONE is a lightweight meta-prompting system that keeps your AI coding assistant sharp by preventing context degradation as the conversation window fills up—perfect for developers who want Claude Code to actually deliver reliable, scalable results instead of degrading garbage. Trusted by engineers at major tech companies, it strips away enterprise complexity and gives your AI the context engineering it needs to understand your project deeply and execute consistently.",
+    "image": "https://api.star-history.com/svg?repos=glittercowboy/get-shit-done&type=Date",
+    "language": "JavaScript",
+    "topics": [
+      "claude-code",
+      "context-engineering",
+      "meta-prompting",
+      "spec-driven-development"
+    ],
+    "created_at": "2025-12-14T14:17:12Z"
+  },
+  "shareAI-lab/learn-claude-code": {
+    "first_seen": "2026-03-20",
+    "stars": 34225,
+    "summary": "Learn Claude Code teaches you to build real AI agents by leveraging Claude's capabilities as a trained model—not by chaining prompts or building workflow scaffolding—grounded in the proven history of how neural networks actually learn to perceive, reason, and act. This is your guide to understanding what agents truly are and how to harness them for meaningful engineering work.",
+    "image": "https://github.com/user-attachments/assets/fe8b852b-97da-4061-a467-9694906b5edf",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agent-development",
+      "ai-agent",
+      "claude",
+      "claude-code",
+      "educational",
+      "llm",
+      "python",
+      "teaching",
+      "tutorial"
+    ],
+    "created_at": "2025-06-29T15:34:15Z"
+  },
+  "explosion/spaCy": {
+    "first_seen": "2026-03-20",
+    "stars": 33354,
+    "summary": "spaCy is an industrial-strength NLP library that brings cutting-edge neural networks and pretrained models to Python, making it easy to build production-ready applications for tasks like named entity recognition, text classification, and dependency parsing across 70+ languages. If you need to process text at scale with state-of-the-art accuracy and speed, spaCy is the battle-tested tool that gets the job done right.",
+    "image": "https://github.com/explosion/spaCy/assets/13643239/36d2a42e-98c0-4599-90e1-788ef75181be",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "cython",
+      "data-science",
+      "deep-learning",
+      "entity-linking",
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "neural-network",
+      "neural-networks",
+      "nlp",
+      "nlp-library",
+      "python",
+      "spacy",
+      "text-classification",
+      "tokenization"
+    ],
+    "created_at": "2014-07-03T15:15:40Z"
   }
 }
