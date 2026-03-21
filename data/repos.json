@@ -2373,5 +2373,20 @@
       "tokenization"
     ],
     "created_at": "2014-07-03T15:15:40Z"
+  },
+  "TauricResearch/TradingAgents": {
+    "first_seen": "2026-03-21",
+    "stars": 34573,
+    "summary": "TradingAgents is a powerful multi-agent LLM framework that brings real-world trading firm dynamics to life, deploying specialized AI agents (fundamental analysts, sentiment experts, technical analysts, traders, and risk managers) that collaborate to make smarter trading decisions. Whether you're researching AI in finance or building automated trading systems, this framework gives you a production-ready foundation to experiment with how different trading perspectives can work together through intelligent agent collaboration.",
+    "image": "https://raw.githubusercontent.com/TauricResearch/TradingAgents/main/assets/TauricResearch.png",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
+    ],
+    "created_at": "2024-12-28T03:31:08Z"
   }
 }
