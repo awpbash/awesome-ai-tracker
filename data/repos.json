@@ -2388,5 +2388,22 @@
       "trading"
     ],
     "created_at": "2024-12-28T03:31:08Z"
+  },
+  "fishaudio/fish-speech": {
+    "first_seen": "2026-03-22",
+    "stars": 28620,
+    "summary": "Fish Speech is a cutting-edge text-to-speech and voice cloning system trained on over 10 million hours of multilingual audio that delivers stunningly expressive, natural-sounding voices across 80+ languages. Whether you're building an app, integrating with an LLM agent, or just experimenting with AI audio, Fish Speech makes it dead simple with command-line tools, a web UI, and Docker support—no complicated setup required.",
+    "image": "https://count.getloli.com/get/@fish-speech?theme=asoul",
+    "language": "Python",
+    "topics": [
+      "llama",
+      "transformer",
+      "tts",
+      "valle",
+      "vits",
+      "vqgan",
+      "vqvae"
+    ],
+    "created_at": "2023-10-10T03:16:51Z"
   }
 }
