@@ -2405,5 +2405,22 @@
       "vqvae"
     ],
     "created_at": "2023-10-10T03:16:51Z"
+  },
+  "harry0703/MoneyPrinterTurbo": {
+    "first_seen": "2026-03-23",
+    "stars": 51480,
+    "summary": "MoneyPrinterTurbo automates short video creation by generating scripts, sourcing footage, adding subtitles, and composing music—just provide a topic or keyword and get a polished HD video. It supports multiple AI models, customizable subtitles and music, batch generation, and both Web and API interfaces, making viral content creation accessible to everyone.",
+    "image": "https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/docs/webui.jpg",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "automation",
+      "chatgpt",
+      "moviepy",
+      "python",
+      "shortvideo",
+      "tiktok"
+    ],
+    "created_at": "2024-03-11T02:57:34Z"
   }
 }
