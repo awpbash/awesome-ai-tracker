@@ -2520,5 +2520,33 @@
       "python"
     ],
     "created_at": "2023-03-16T09:21:07Z"
+  },
+  "hacksider/Deep-Live-Cam": {
+    "first_seen": "2026-03-28",
+    "stars": 83510,
+    "summary": "Deep-Live-Cam makes it incredibly easy to create real-time face swaps and deepfakes with just a single image and three clicks—perfect for artists, content creators, and streamers who want to animate characters or add creative flair to live performances. The software runs smoothly on consumer hardware (CPU, GPU, or Mac Silicon) and includes built-in safeguards to ensure responsible use, making it an accessible tool for anyone looking to explore AI-generated media ethically.",
+    "image": "https://github.com/user-attachments/assets/af825228-852c-411b-b787-ffd9aac72fc6",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-deep-fake",
+      "ai-face",
+      "ai-webcam",
+      "artificial-intelligence",
+      "deep-fake",
+      "deepfake",
+      "deepfake-webcam",
+      "faceswap",
+      "fake-webcam",
+      "gan",
+      "real-time-deepfake",
+      "realtime",
+      "realtime-deepfake",
+      "realtime-face-changer",
+      "video-deepfake",
+      "webcam",
+      "webcamera"
+    ],
+    "created_at": "2023-09-24T13:19:31Z"
   }
 }
