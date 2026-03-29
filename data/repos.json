@@ -2548,5 +2548,83 @@
       "webcamera"
     ],
     "created_at": "2023-09-24T13:19:31Z"
+  },
+  "continuedev/continue": {
+    "first_seen": "2026-03-29",
+    "stars": 32128,
+    "summary": "Continue is an open-source AI agent platform that turns markdown-based checks into enforceable code reviews on every pull request, catching security issues, best practices, and custom requirements before they land in your codebase. It's perfect for teams wanting to scale code quality standards with AI-powered CI/CD integration that's transparent, auditable, and completely customizable.",
+    "image": "https://raw.githubusercontent.com/continuedev/continue/main/media/github-readme.png",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "cli",
+      "developer-tools",
+      "jetbrains-plugin",
+      "llm",
+      "open-source",
+      "vs-code-extenstion"
+    ],
+    "created_at": "2023-05-24T03:39:39Z"
+  },
+  "sickn33/antigravity-awesome-skills": {
+    "first_seen": "2026-03-29",
+    "stars": 28216,
+    "summary": "Antigravity Awesome Skills is a searchable, installable library of 1,331+ reusable AI coding skills designed for Claude Code, Cursor, Copilot, and other AI assistants—giving you battle-tested prompts and workflows for planning, coding, debugging, testing, security, and infrastructure work instead of hunting through scattered documentation. Install it in one minute and instantly level up your AI coding assistant with curated skills that actually solve real development problems.",
+    "image": "https://api.star-history.com/image?repos=sickn33/antigravity-awesome-skills&style=landscape1",
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "agentic-skills",
+      "ai-agent-skills",
+      "ai-agents",
+      "ai-coding",
+      "ai-workflows",
+      "antigravity",
+      "antigravity-skills",
+      "claude-code",
+      "claude-code-skills",
+      "codex-cli",
+      "codex-skills",
+      "cursor",
+      "cursor-skills",
+      "developer-tools",
+      "gemini-cli",
+      "gemini-skills",
+      "kiro",
+      "mcp",
+      "skill-library"
+    ],
+    "created_at": "2026-01-14T17:48:09Z"
+  },
+  "ruvnet/ruflo": {
+    "first_seen": "2026-03-29",
+    "stars": 28072,
+    "summary": "RuFlo is an enterprise-grade AI orchestration platform that lets you deploy and coordinate 100+ specialized agents working together seamlessly, powered by Claude and built on battle-tested Rust foundations. If you're building complex multi-agent systems and need fault tolerance, self-learning capabilities, and production-ready infrastructure, RuFlo handles the heavy lifting so you can focus on what makes your application unique.",
+    "image": "https://raw.githubusercontent.com/ruvnet/ruflo/main/ruflo/assets/ruflo-small.jpeg",
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "agentic-engineering",
+      "agentic-framework",
+      "agentic-rag",
+      "agentic-workflow",
+      "agents",
+      "ai-assistant",
+      "ai-tools",
+      "anthropic-claude",
+      "autonomous-agents",
+      "claude-code",
+      "claude-code-skills",
+      "codex",
+      "huggingface",
+      "mcp-server",
+      "model-context-protocol",
+      "multi-agent",
+      "multi-agent-systems",
+      "swarm",
+      "swarm-intelligence"
+    ],
+    "created_at": "2025-06-02T21:24:20Z"
   }
 }
