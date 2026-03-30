@@ -2626,5 +2626,51 @@
       "swarm-intelligence"
     ],
     "created_at": "2025-06-02T21:24:20Z"
+  },
+  "Snailclimb/JavaGuide": {
+    "first_seen": "2026-03-30",
+    "stars": 154533,
+    "summary": "JavaGuide is the ultimate comprehensive resource for Java developers preparing for technical interviews, offering systematically organized knowledge covering fundamentals, collections, concurrency, frameworks, and system design all in one place. With 150k+ stars, it's trusted by thousands of developers to master Java backend concepts through detailed explanations, source code analysis, and interview-focused summaries.",
+    "image": "https://oss.javaguide.cn/github/javaguide/csdn/1c00413c65d1995993bf2b0daf7b4f03.png",
+    "language": "Java",
+    "topics": [
+      "agent",
+      "context-engineering",
+      "interview",
+      "java",
+      "jvm",
+      "mcp",
+      "mysql",
+      "redis",
+      "redisson",
+      "skills",
+      "spring",
+      "system",
+      "system-design"
+    ],
+    "created_at": "2018-05-07T13:27:00Z"
+  },
+  "OpenBB-finance/OpenBB": {
+    "first_seen": "2026-03-30",
+    "stars": 64217,
+    "summary": "OpenBB is an open-source financial data integration platform that connects multiple data sources and exposes them across Python, Excel, APIs, and AI agents—making it easy to build data pipelines for quants, analysts, and AI applications. Whether you're building research dashboards, training AI copilots, or analyzing markets, OpenBB eliminates the friction of wrangling disparate financial data sources with a unified \"connect once, consume everywhere\" architecture.",
+    "image": "https://github.com/user-attachments/assets/75cffb4a-5e95-470a-b9d0-6ffd4067e069",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "crypto",
+      "derivatives",
+      "economics",
+      "equity",
+      "finance",
+      "fixed-income",
+      "machine-learning",
+      "openbb",
+      "options",
+      "python",
+      "quantitative-finance",
+      "stocks"
+    ],
+    "created_at": "2020-12-20T10:46:38Z"
   }
 }
