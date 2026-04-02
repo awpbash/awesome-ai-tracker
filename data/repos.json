@@ -2696,5 +2696,14 @@
     "language": "Python",
     "topics": [],
     "created_at": "2025-08-25T13:24:01Z"
+  },
+  "openai/codex": {
+    "first_seen": "2026-04-02",
+    "stars": 72238,
+    "summary": "Codex CLI is OpenAI's locally-running coding agent that brings AI-powered development assistance right to your terminal, VS Code, or desktop. Whether you're looking to supercharge your coding workflow with intelligent suggestions and completions, Codex integrates seamlessly with your existing tools and ChatGPT account to help you write better code faster.",
+    "image": "https://github.com/openai/codex/blob/main/.github/codex-cli-splash.png",
+    "language": "Rust",
+    "topics": [],
+    "created_at": "2025-04-13T05:37:54Z"
   }
 }
