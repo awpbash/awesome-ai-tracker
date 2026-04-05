@@ -2705,5 +2705,42 @@
     "language": "Rust",
     "topics": [],
     "created_at": "2025-04-13T05:37:54Z"
+  },
+  "langchain-ai/langgraph": {
+    "first_seen": "2026-04-05",
+    "stars": 28444,
+    "summary": "LangGraph is a low-level orchestration framework that makes building stateful, long-running agents straightforward with durable execution, human-in-the-loop capabilities, and comprehensive memory management. If you're tired of agents that crash, lose context, or are hard to debug in production, LangGraph gives you the infrastructure to build reliable, observable agent systems that actually work at scale.",
+    "image": "https://opengraph.githubassets.com/1/langchain-ai/langgraph",
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai",
+      "langchain",
+      "langgraph",
+      "llm",
+      "multiagent",
+      "open-source",
+      "openai",
+      "pydantic",
+      "python",
+      "rag"
+    ],
+    "created_at": "2023-08-09T18:33:12Z"
+  },
+  "QwenLM/Qwen3": {
+    "first_seen": "2026-04-05",
+    "stars": 27043,
+    "summary": "Qwen3 is a cutting-edge open-weight large language model family that delivers state-of-the-art performance across reasoning, coding, math, and long-context understanding, with variants ranging from 4B to 235B parameters to fit any use case. Whether you need a compact model for edge deployment or a powerhouse for complex reasoning tasks, Qwen3 offers production-ready solutions with comprehensive tooling for inference, deployment, quantization, and fine-tuning—all backed by excellent documentation and an active community.",
+    "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/logo_qwen3.png",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2024-02-05T05:45:08Z"
   }
 }
