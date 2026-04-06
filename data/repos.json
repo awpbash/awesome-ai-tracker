@@ -2742,5 +2742,14 @@
     "language": "Python",
     "topics": [],
     "created_at": "2024-02-05T05:45:08Z"
+  },
+  "badlogic/pi-mono": {
+    "first_seen": "2026-04-06",
+    "stars": 32108,
+    "summary": "Pi is a comprehensive monorepo for building AI agents and managing LLM deployments, featuring a unified multi-provider API, an interactive coding agent CLI, and essential tools like agent runtimes and web UI components. Whether you're deploying language models or building sophisticated AI agents, Pi gives you production-ready packages to get started quickly without reinventing the wheel.",
+    "image": "https://raw.githubusercontent.com/badlogic/pi-mono/main/packages/coding-agent/docs/images/exy.png",
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-08-09T14:03:50Z"
   }
 }
