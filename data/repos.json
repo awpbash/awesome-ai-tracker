@@ -2751,5 +2751,30 @@
     "language": "TypeScript",
     "topics": [],
     "created_at": "2025-08-09T14:03:50Z"
+  },
+  "ggml-org/llama.cpp": {
+    "first_seen": "2026-04-07",
+    "stars": 102229,
+    "summary": "Run powerful large language models efficiently on your own hardware with minimal setup—llama.cpp brings state-of-the-art LLM inference to C/C++ with optimized support for everything from Apple silicon to NVIDIA GPUs, plus flexible quantization options to fit any device. Whether you want a lightning-fast local chatbot, an OpenAI-compatible API server, or cutting-edge performance on consumer hardware, this battle-tested project makes it surprisingly simple and fun to experiment with AI models.",
+    "image": "https://user-images.githubusercontent.com/1991296/230134379-7181e485-c521-4d23-a0d6-f7b3b61ba524.png",
+    "language": "C++",
+    "topics": [
+      "ggml"
+    ],
+    "created_at": "2023-03-10T18:58:00Z"
+  },
+  "aaif-goose/goose": {
+    "first_seen": "2026-04-07",
+    "stars": 38511,
+    "summary": "Goose is a native, open-source AI agent that runs locally on your desktop, CLI, or API—built in Rust and compatible with 15+ LLM providers and 70+ extensions via the Model Context Protocol. Whether you're coding, researching, writing, or automating workflows, goose gives you a powerful, flexible AI assistant that works exactly how you need it to.",
+    "image": "https://opengraph.githubassets.com/1/aaif-goose/goose",
+    "language": "Rust",
+    "topics": [
+      "acp",
+      "ai",
+      "ai-agents",
+      "mcp"
+    ],
+    "created_at": "2024-08-23T19:03:36Z"
   }
 }
