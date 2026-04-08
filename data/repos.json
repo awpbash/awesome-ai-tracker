@@ -2776,5 +2776,31 @@
       "mcp"
     ],
     "created_at": "2024-08-23T19:03:36Z"
+  },
+  "NousResearch/hermes-agent": {
+    "first_seen": "2026-04-08",
+    "stars": 34412,
+    "summary": "Hermes Agent is a self-improving AI assistant that learns from your interactions, creates and refines its own skills over time, and runs anywhere from a cheap VPS to serverless infrastructure without locking you into a specific model or platform. With native support for Telegram, Discord, Slack, and more, plus a built-in learning loop that builds a persistent understanding of you across sessions, it's like having a genuinely adaptive collaborator that gets smarter the more you use it.",
+    "image": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/assets/banner.png",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
+    ],
+    "created_at": "2025-07-22T22:22:28Z"
   }
 }
