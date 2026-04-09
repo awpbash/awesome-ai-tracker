@@ -2802,5 +2802,27 @@
       "openclaw"
     ],
     "created_at": "2025-07-22T22:22:28Z"
+  },
+  "hpcaitech/ColossalAI": {
+    "first_seen": "2026-04-09",
+    "stars": 41369,
+    "summary": "Colossal-AI is a powerful framework that democratizes large-scale AI model training by making it dramatically cheaper, faster, and more accessible through advanced distributed computing techniques. Whether you're training massive language models or fine-tuning existing ones, it handles the complexity of parallelization and optimization so you can focus on your AI innovation.",
+    "image": "https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/colossal-ai_logo_vertical.png",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "big-model",
+      "data-parallelism",
+      "deep-learning",
+      "distributed-computing",
+      "foundation-models",
+      "heterogeneous-training",
+      "hpc",
+      "inference",
+      "large-scale",
+      "model-parallelism",
+      "pipeline-parallelism"
+    ],
+    "created_at": "2021-10-28T16:19:44Z"
   }
 }
