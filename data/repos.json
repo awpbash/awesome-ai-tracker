@@ -2824,5 +2824,30 @@
       "pipeline-parallelism"
     ],
     "created_at": "2021-10-28T16:19:44Z"
+  },
+  "HKUDS/nanobot": {
+    "first_seen": "2026-04-10",
+    "stars": 38889,
+    "summary": "Nanobot is an ultra-lightweight personal AI agent that delivers full agent functionality with 99% fewer lines of code than alternatives, making it perfect for developers who want powerful automation without bloat. It supports multiple LLM providers, messaging platforms, and tools while staying production-ready and easy to customize.",
+    "image": "https://raw.githubusercontent.com/HKUDS/nanobot/main/nanobot_logo.png",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2026-02-01T07:16:15Z"
+  },
+  "milla-jovovich/mempalace": {
+    "first_seen": "2026-04-10",
+    "stars": 38104,
+    "summary": "MemPalace is an open-source AI memory system that stores your entire conversation history verbatim in a searchable, organized structure — achieving a record-breaking 96.6% on LongMemEval benchmarks with zero API calls or subscriptions. Instead of letting AI decide what to remember, you keep everything and navigate it like an ancient memory palace, so nothing gets lost and context never disappears between sessions.",
+    "image": "https://raw.githubusercontent.com/milla-jovovich/mempalace/main/assets/mempalace_logo.png",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "chromadb",
+      "llm",
+      "mcp",
+      "memory",
+      "python"
+    ],
+    "created_at": "2026-04-05T01:12:07Z"
   }
 }
