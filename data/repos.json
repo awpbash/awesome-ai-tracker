@@ -2872,5 +2872,21 @@
       "vibe-coding"
     ],
     "created_at": "2025-10-31T14:15:28Z"
+  },
+  "MemPalace/mempalace": {
+    "first_seen": "2026-04-12",
+    "stars": 42244,
+    "summary": "MemPalace is a free, open-source AI memory system that stores your complete conversation history locally and makes it searchable through a Palace-inspired structure (wings, halls, rooms) rather than letting AI decide what to forget. It achieved a record-breaking 96.6% score on LongMemEval benchmarks by keeping raw verbatim conversations instead of summarizing them, so you never lose context from months of work.",
+    "image": "https://raw.githubusercontent.com/MemPalace/mempalace/main/assets/mempalace_logo.png",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "chromadb",
+      "llm",
+      "mcp",
+      "memory",
+      "python"
+    ],
+    "created_at": "2026-04-05T01:12:07Z"
   }
 }
