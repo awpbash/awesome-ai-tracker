@@ -2888,5 +2888,44 @@
       "python"
     ],
     "created_at": "2026-04-05T01:12:07Z"
+  },
+  "zhayujie/CowAgent": {
+    "first_seen": "2026-04-14",
+    "stars": 43138,
+    "summary": "CowAgent is a powerful open-source AI agent framework that combines autonomous task planning, long-term memory, knowledge bases, and a flexible skill system to create a truly intelligent assistant that can think, learn, and grow over time. It supports multiple LLMs, multimodal inputs (text, voice, images, files), and seamless integration with popular platforms like WeChat, Slack, and more—all running 24/7 on your computer or server with the flexibility to customize for your specific needs.",
+    "image": "https://contrib.rocks/image?repo=zhayujie/CowAgent&max=1000",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "chatgpt-on-wechat",
+      "claude",
+      "deepseek",
+      "dingtalk",
+      "feishu-bot",
+      "gemini",
+      "kimi",
+      "linkai",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "openai",
+      "openclaw",
+      "python3",
+      "qwen",
+      "skills",
+      "wechat",
+      "weixin"
+    ],
+    "created_at": "2022-08-07T08:33:41Z"
+  },
+  "anthropics/claude-cookbooks": {
+    "first_seen": "2026-04-14",
+    "stars": 39821,
+    "summary": "A collection of ready-to-use code examples and practical guides that teach you how to build powerful AI applications with Claude's API, from classification and RAG to tool integration and multimodal vision tasks. Jump straight into copy-paste recipes for real-world problems like customer service agents, semantic search, and image analysis—no fluff, just working code you can adapt immediately.",
+    "image": "https://opengraph.githubassets.com/1/anthropics/claude-cookbooks",
+    "language": "Jupyter Notebook",
+    "topics": [],
+    "created_at": "2023-08-15T20:23:51Z"
   }
 }
