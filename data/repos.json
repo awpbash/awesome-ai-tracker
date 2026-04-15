@@ -2927,5 +2927,14 @@
     "language": "Jupyter Notebook",
     "topics": [],
     "created_at": "2023-08-15T20:23:51Z"
+  },
+  "forrestchang/andrej-karpathy-skills": {
+    "first_seen": "2026-04-15",
+    "stars": 37766,
+    "summary": "This repo provides a single `CLAUDE.md` file distilling Andrej Karpathy's observations into four coding principles—Think Before Coding, Simplicity First, Surgical Changes, and Goal-Driven Execution—to dramatically improve how Claude generates code by eliminating assumptions, overengineering, and careless edits. If you're frustrated by AI-generated code that's bloated, breaks things it shouldn't touch, or makes silent wrong guesses, these guidelines transform Claude into a more thoughtful, precise coding partner.",
+    "image": "https://opengraph.githubassets.com/1/forrestchang/andrej-karpathy-skills",
+    "language": "",
+    "topics": [],
+    "created_at": "2026-01-27T03:53:13Z"
   }
 }
