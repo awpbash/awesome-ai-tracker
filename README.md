@@ -4,7 +4,7 @@
 
 **A daily-updated, auto-curated awesome list of the hottest AI/ML repos on GitHub.**
 
-![Last Update](https://img.shields.io/badge/last_update-2026--04--17-brightgreen?style=flat-square)
+![Last Update](https://img.shields.io/badge/last_update-2026--04--18-brightgreen?style=flat-square)
 ![AI Powered](https://img.shields.io/badge/summaries-Claude_Haiku-blueviolet?style=flat-square)
 ![Automation](https://img.shields.io/badge/updates-daily_via_Actions-orange?style=flat-square)
 
@@ -28,6 +28,15 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 ---
 
+## 🔥 Today's Top Picks (2026-04-18)
+
+- <a href="https://github.com/google-ai-edge/mediapipe"><img src="https://developers.google.com/static/mediapipe/images/home/hero_01_1920.png" width="70" align="left" alt="google-ai-edge/mediapipe" /></a> **[google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)** ⭐ 34.8k `C++` · 📅 2019-06-13<br/>MediaPipe is Google's powerful framework that makes it effortless to build and deploy on-device machine learning features for vision, text, and audio across mobile, web, desktop, and edge devices. It comes with pre-trained models, easy-to-use APIs, and tools to customize everything to your needs—so you can add intelligent features to your app without the usual ML complexity.
+
+
+> **[See all 1 repos →](daily/2026-04-18.md)**
+
+---
+
 <details>
 <summary><strong>🏢 Latest Model Releases</strong> (click to expand)</summary>
 
@@ -40,42 +49,42 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Qwen3-Reranker-8B](https://huggingface.co/Qwen/Qwen3-Reranker-8B) | 96,491 | 221 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Qwen3-Reranker-4B](https://huggingface.co/Qwen/Qwen3-Reranker-4B) | 746,852 | 127 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Qwen3-Reranker-0.6B](https://huggingface.co/Qwen/Qwen3-Reranker-0.6B) | 1.4M | 332 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Qwen3-VL-Reranker-8B](https://huggingface.co/Qwen/Qwen3-VL-Reranker-8B) | 154,922 | 138 | ➖ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [Qwen3-VL-Reranker-2B](https://huggingface.co/Qwen/Qwen3-VL-Reranker-2B) | 187,991 | 184 | ➖ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [Qwen3-Reranker-8B](https://huggingface.co/Qwen/Qwen3-Reranker-8B) | 83,132 | 222 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Qwen3-Reranker-4B](https://huggingface.co/Qwen/Qwen3-Reranker-4B) | 758,244 | 127 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Qwen3-Reranker-0.6B](https://huggingface.co/Qwen/Qwen3-Reranker-0.6B) | 1.4M | 333 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Qwen3-VL-Reranker-8B](https://huggingface.co/Qwen/Qwen3-VL-Reranker-8B) | 173,745 | 140 | ➖ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [Qwen3-VL-Reranker-2B](https://huggingface.co/Qwen/Qwen3-VL-Reranker-2B) | 214,001 | 185 | ➖ Text ➖ Code ✅ Vision ➖ Multilingual |
 
 ### OpenAI
 > Latest: **gpt-oss-safeguard**, **circuit-sparsity**, **gpt-oss**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [gpt-oss-safeguard-20b](https://huggingface.co/openai/gpt-oss-safeguard-20b) | 58,093 | 210 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [circuit-sparsity](https://huggingface.co/openai/circuit-sparsity) | 920 | 204 | ✅ Text ✅ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-safeguard-120b](https://huggingface.co/openai/gpt-oss-safeguard-120b) | 9,900 | 92 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) | 6.3M | 4549 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-120b](https://huggingface.co/openai/gpt-oss-120b) | 3.5M | 4707 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-safeguard-20b](https://huggingface.co/openai/gpt-oss-safeguard-20b) | 57,372 | 212 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [circuit-sparsity](https://huggingface.co/openai/circuit-sparsity) | 933 | 204 | ✅ Text ✅ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-safeguard-120b](https://huggingface.co/openai/gpt-oss-safeguard-120b) | 9,300 | 92 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) | 6.4M | 4549 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-120b](https://huggingface.co/openai/gpt-oss-120b) | 3.5M | 4709 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### Google (Gemini)
 > Latest: **tipsv2-g14-dpt**, **tipsv2-so400m14-dpt**, **tipsv2-l14-dpt**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [tipsv2-g14-dpt](https://huggingface.co/google/tipsv2-g14-dpt) | 153 | 4 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
-| [tipsv2-so400m14-dpt](https://huggingface.co/google/tipsv2-so400m14-dpt) | 119 | 2 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
-| [tipsv2-l14-dpt](https://huggingface.co/google/tipsv2-l14-dpt) | 1,619 | 2 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
-| [tipsv2-b14-dpt](https://huggingface.co/google/tipsv2-b14-dpt) | 289 | 8 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
-| [tipsv2-g14](https://huggingface.co/google/tipsv2-g14) | 945 | 6 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
+| [tipsv2-g14-dpt](https://huggingface.co/google/tipsv2-g14-dpt) | 186 | 4 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
+| [tipsv2-so400m14-dpt](https://huggingface.co/google/tipsv2-so400m14-dpt) | 135 | 2 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
+| [tipsv2-l14-dpt](https://huggingface.co/google/tipsv2-l14-dpt) | 1,871 | 2 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
+| [tipsv2-b14-dpt](https://huggingface.co/google/tipsv2-b14-dpt) | 349 | 8 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
+| [tipsv2-g14](https://huggingface.co/google/tipsv2-g14) | 1,113 | 6 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
 
 ### ByteDance
 > Latest: **GRN**, **Timer-S1**, **Vidi1.5**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [GRN](https://huggingface.co/bytedance-research/GRN) | 0 | 2 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Timer-S1](https://huggingface.co/bytedance-research/Timer-S1) | 653 | 16 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
-| [Vidi1.5-9B](https://huggingface.co/bytedance-research/Vidi1.5-9B) | 21 | 9 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Audio · Video |
+| [GRN](https://huggingface.co/bytedance-research/GRN) | 0 | 3 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Timer-S1](https://huggingface.co/bytedance-research/Timer-S1) | 1,105 | 18 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
+| [Vidi1.5-9B](https://huggingface.co/bytedance-research/Vidi1.5-9B) | 25 | 9 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Audio · Video |
 | [OneReward](https://huggingface.co/bytedance-research/OneReward) | 11 | 61 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Image Gen |
 | [MammothModa2-Dev](https://huggingface.co/bytedance-research/MammothModa2-Dev) | 8 | 3 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
@@ -84,11 +93,11 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M) | 7,628 | 319 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | 1.3M | 4474 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) | 46,155 | 1508 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Llama-4-Maverick-17B-128E-Instruct](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) | 29,575 | 478 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
-| [Llama-4-Maverick-17B-128E-Instruct-FP8](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) | 80,952 | 163 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
+| [Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M) | 7,449 | 319 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | 1.3M | 4475 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) | 45,278 | 1509 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Llama-4-Maverick-17B-128E-Instruct](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) | 29,967 | 478 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
+| [Llama-4-Maverick-17B-128E-Instruct-FP8](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) | 80,513 | 163 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
 
 ### DeepSeek
 > Latest: **DeepSeek-OCR-2**, **DeepSeek-V3.2-Speciale**, **DeepSeek-V3.2**
@@ -96,27 +105,38 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
 | [DeepSeek-OCR-2](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2) | 1.3M | 911 | ✅ Text ✅ Code ✅ Vision ✅ Multilingual |
-| [DeepSeek-V3.2-Speciale](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Speciale) | 19,609 | 694 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [DeepSeek-V3.2](https://huggingface.co/deepseek-ai/DeepSeek-V3.2) | 10.1M | 1391 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [DeepSeek-Math-V2](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2) | 2,757 | 687 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual · Math |
-| [DeepSeek-V3.2-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp) | 190,485 | 983 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-V3.2-Speciale](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Speciale) | 18,877 | 700 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-V3.2](https://huggingface.co/deepseek-ai/DeepSeek-V3.2) | 10.2M | 1411 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-Math-V2](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2) | 2,755 | 687 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual · Math |
+| [DeepSeek-V3.2-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp) | 188,749 | 985 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### Mistral
 > Latest: **Mistral-Small-4**, **Voxtral**, **Leanstral-2603**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Mistral-Small-4-119B-2603-eagle](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603-eagle) | 303 | 46 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
-| [Voxtral-4B-TTS-2603](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603) | 7,694 | 743 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual · Audio |
-| [Mistral-Small-4-119B-2603](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603) | 81,717 | 354 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
-| [Mistral-Small-4-119B-2603-NVFP4](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603-NVFP4) | 3,025 | 81 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
-| [Leanstral-2603](https://huggingface.co/mistralai/Leanstral-2603) | 179 | 147 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Mistral-Small-4-119B-2603-eagle](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603-eagle) | 288 | 46 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
+| [Voxtral-4B-TTS-2603](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603) | 7,928 | 744 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual · Audio |
+| [Mistral-Small-4-119B-2603](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603) | 81,454 | 356 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
+| [Mistral-Small-4-119B-2603-NVFP4](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603-NVFP4) | 2,929 | 81 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
+| [Leanstral-2603](https://huggingface.co/mistralai/Leanstral-2603) | 178 | 147 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 </details>
 
 ---
 
 <!-- CHANGELOG -->
+<details>
+<summary><strong>📜 Full Changelog</strong> (click to expand)</summary>
+
+## 🔥 2026-04-18 — 1 new repos
+
+**📈 Trending Today**
+
+**👁️ Vision & Image**
+- **[google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)** ⭐ 34.8k · 📅 2019-06-13 — MediaPipe is Google's powerful framework that makes it effortless to build and deploy on-device machine learning...
+
+> [Full details →](daily/2026-04-18.md)
 <details>
 <summary><strong>📜 Full Changelog</strong> (click to expand)</summary>
 
@@ -805,6 +825,17 @@ No new repos today.
 **How it works:** GitHub Actions runs daily → discovers trending + new repos → Claude Haiku writes summaries → auto-commits
 
 Made with ❤️ and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)
+
+</div>
+
+</details>
+---
+
+<div align="center">
+
+**How it works:** GitHub Actions runs daily → discovers trending + new repos → Claude Haiku writes summaries → auto-commits
+
+Made with Github Actions and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)
 
 </div>
 

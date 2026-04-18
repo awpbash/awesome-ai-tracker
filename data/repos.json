@@ -2936,5 +2936,32 @@
     "language": "",
     "topics": [],
     "created_at": "2026-01-27T03:53:13Z"
+  },
+  "google-ai-edge/mediapipe": {
+    "first_seen": "2026-04-18",
+    "stars": 34791,
+    "summary": "MediaPipe is Google's powerful framework that makes it effortless to build and deploy on-device machine learning features for vision, text, and audio across mobile, web, desktop, and edge devices. It comes with pre-trained models, easy-to-use APIs, and tools to customize everything to your needs—so you can add intelligent features to your app without the usual ML complexity.",
+    "image": "https://developers.google.com/static/mediapipe/images/home/hero_01_1920.png",
+    "language": "C++",
+    "topics": [
+      "android",
+      "audio-processing",
+      "c-plus-plus",
+      "calculator",
+      "computer-vision",
+      "deep-learning",
+      "framework",
+      "graph-based",
+      "graph-framework",
+      "inference",
+      "machine-learning",
+      "mediapipe",
+      "mobile-development",
+      "perception",
+      "pipeline-framework",
+      "stream-processing",
+      "video-processing"
+    ],
+    "created_at": "2019-06-13T19:16:41Z"
   }
 }
