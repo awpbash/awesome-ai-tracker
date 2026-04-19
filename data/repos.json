@@ -2963,5 +2963,54 @@
       "video-processing"
     ],
     "created_at": "2019-06-13T19:16:41Z"
+  },
+  "datawhalechina/hello-agents": {
+    "first_seen": "2026-04-19",
+    "stars": 38341,
+    "summary": "Hello-Agents is a comprehensive, hands-on guide that takes you from zero to building real AI-native agents, covering everything from core principles and classic paradigms to implementing your own agent framework and multi-agent applications. Whether you're looking to understand agent systems deeply or become a builder rather than just a user of LLMs, this free Datawhale resource combines theory with practical code to help you master the agent revolution of 2025.",
+    "image": "https://raw.githubusercontent.com/datawhalechina/hello-agents/main/./docs/images/hello-agents.png",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "llm",
+      "rag",
+      "tutorial"
+    ],
+    "created_at": "2025-09-07T09:50:24Z"
+  },
+  "Lordog/dive-into-llms": {
+    "first_seen": "2026-04-19",
+    "stars": 32216,
+    "summary": "Dive into LLMs is a hands-on programming tutorial series from Shanghai Jiao Tong University that covers essential LLM skills like fine-tuning, prompt engineering, knowledge editing, and model security—all free and practical with code examples you can run immediately. Whether you're looking to deploy custom models, master advanced prompting techniques, or understand LLM vulnerabilities, this comprehensive guide takes you from beginner to practitioner with clear explanations and working code.",
+    "image": "https://api.star-history.com/svg?repos=Lordog/dive-into-llms&type=Date",
+    "language": "Jupyter Notebook",
+    "topics": [],
+    "created_at": "2024-04-08T13:11:40Z"
+  },
+  "AstrBotDevs/AstrBot": {
+    "first_seen": "2026-04-19",
+    "stars": 30228,
+    "summary": "AstrBot is an open-source, all-in-one Agent chatbot platform that seamlessly integrates with your favorite messaging apps to deliver reliable conversational AI. Whether you're building intelligent bots for Discord, Telegram, or other platforms, AstrBot gives you a scalable foundation with an extensive plugin marketplace to customize exactly what you need.",
+    "image": "https://github.com/user-attachments/assets/36fb04e4-cc75-4454-bd8b-049d11aa86f9",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "chatbot",
+      "chatgpt",
+      "discord",
+      "docker",
+      "gemini",
+      "gpt",
+      "llama",
+      "llm",
+      "mcp",
+      "openai",
+      "python",
+      "qq",
+      "qqbot",
+      "telegram"
+    ],
+    "created_at": "2022-12-08T13:27:46Z"
   }
 }
