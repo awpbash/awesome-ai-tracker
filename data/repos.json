@@ -3012,5 +3012,24 @@
       "telegram"
     ],
     "created_at": "2022-12-08T13:27:46Z"
+  },
+  "koala73/worldmonitor": {
+    "first_seen": "2026-04-21",
+    "stars": 50634,
+    "summary": "World Monitor is an AI-powered situational awareness platform that aggregates global news, geopolitical signals, and infrastructure data into actionable intelligence through an interactive dashboard with dual map engines and real-time risk scoring. Whether you're tracking global markets, monitoring geopolitical developments, or building crisis intelligence tools, this project gives you the infrastructure to process and visualize complex world events at scale.",
+    "image": "https://raw.githubusercontent.com/koala73/worldmonitor/main/docs/images/worldmonitor-7-mar-2026.jpg",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "dashboard",
+      "geopolitics",
+      "monitoring",
+      "news",
+      "opensource",
+      "osint",
+      "palantir",
+      "situation"
+    ],
+    "created_at": "2026-01-08T17:26:06Z"
   }
 }
