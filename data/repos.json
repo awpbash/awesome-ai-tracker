@@ -3031,5 +3031,31 @@
       "situation"
     ],
     "created_at": "2026-01-08T17:26:06Z"
+  },
+  "sansan0/TrendRadar": {
+    "first_seen": "2026-04-22",
+    "stars": 54083,
+    "summary": "TrendRadar is a lightweight trend-monitoring assistant that deploys in just 30 seconds and intelligently filters news and information so you only see what actually matters instead of endless noise. With support for multiple notification channels (WeChat, Telegram, Slack, email, and more), AI-powered content analysis, and easy deployment options like Docker and GitHub Actions, it's the perfect tool for staying informed without the information overload.",
+    "image": "https://raw.githubusercontent.com/sansan0/TrendRadar/main/_image/github-pages.png",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "bark",
+      "data-analysis",
+      "docker",
+      "hot-news",
+      "llm",
+      "mail",
+      "mcp",
+      "mcp-server",
+      "news",
+      "ntfy",
+      "python",
+      "rss",
+      "trending-topics",
+      "wechat",
+      "wework"
+    ],
+    "created_at": "2025-04-28T11:42:16Z"
   }
 }
