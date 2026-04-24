@@ -3057,5 +3057,14 @@
       "wework"
     ],
     "created_at": "2025-04-28T11:42:16Z"
+  },
+  "cline/cline": {
+    "first_seen": "2026-04-24",
+    "stars": 60938,
+    "summary": "Cline is an AI assistant VS Code extension that acts as your autonomous coding partner, capable of handling complex development tasks by reading your codebase, editing files, running terminal commands, and even testing web apps in a browser—all with your approval at every step. It's the perfect way to tackle everything from building features and fixing bugs to refactoring large projects, powered by Claude's agentic capabilities and a safe human-in-the-loop interface.",
+    "image": "https://github.com/user-attachments/assets/3cf21e04-7ce9-4d22-a7b9-ba2c595e88a4",
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2024-07-06T07:28:10Z"
   }
 }
