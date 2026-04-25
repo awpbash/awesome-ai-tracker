@@ -3066,5 +3066,53 @@
     "language": "TypeScript",
     "topics": [],
     "created_at": "2024-07-06T07:28:10Z"
+  },
+  "rtk-ai/rtk": {
+    "first_seen": "2026-04-25",
+    "stars": 34959,
+    "summary": "RTK is a lightning-fast CLI proxy that intelligently filters and compresses command outputs before they hit your LLM context, slashing token consumption by 60-90% while adding less than 10ms overhead. If you're tired of burning through expensive API calls with bloated shell command outputs, this single Rust binary with 100+ supported commands is your answer to smarter, cheaper AI-assisted development.",
+    "image": "https://avatars.githubusercontent.com/u/258253854?v=4",
+    "language": "Rust",
+    "topics": [
+      "agentic-coding",
+      "ai-coding",
+      "anthropic",
+      "claude-code",
+      "cli",
+      "command-line-tool",
+      "cost-reduction",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "productivity",
+      "rust",
+      "token-optimization"
+    ],
+    "created_at": "2026-01-22T16:54:16Z"
+  },
+  "PostHog/posthog": {
+    "first_seen": "2026-04-25",
+    "stars": 33244,
+    "summary": "PostHog is an open-source, all-in-one platform that combines product analytics, session replays, feature flags, experiments, error tracking, surveys, and more—giving you everything needed to understand user behavior and build better products without vendor lock-in. With a generous free tier and the flexibility to self-host, it's the perfect alternative to juggling multiple expensive tools while keeping full control of your data.",
+    "image": "https://user-images.githubusercontent.com/65415371/205059737-c8a4f836-4889-4654-902e-f302b187b6a0.png",
+    "language": "Python",
+    "topics": [
+      "ab-testing",
+      "ai-analytics",
+      "analytics",
+      "cdp",
+      "data-warehouse",
+      "experiments",
+      "feature-flags",
+      "javascript",
+      "product-analytics",
+      "python",
+      "react",
+      "session-replay",
+      "surveys",
+      "typescript",
+      "web-analytics"
+    ],
+    "created_at": "2020-01-23T22:46:58Z"
   }
 }
