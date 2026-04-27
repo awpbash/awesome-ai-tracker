@@ -3114,5 +3114,35 @@
       "web-analytics"
     ],
     "created_at": "2020-01-23T22:46:58Z"
+  },
+  "curl/curl": {
+    "first_seen": "2026-04-27",
+    "stars": 41675,
+    "summary": "curl is the legendary, battle-tested command-line tool and library for transferring data across virtually every protocol imaginable—from HTTP and FTP to MQTT and WebSockets—making it the go-to solution for developers who need reliable, no-nonsense data transfer. With decades of real-world usage powering everything from scripts to enterprise applications, curl's combination of simplicity, performance, and broad protocol support makes it an essential tool you'll want in your toolkit.",
+    "image": "https://opengraph.githubassets.com/1/curl/curl",
+    "language": "C",
+    "topics": [
+      "c",
+      "client",
+      "curl",
+      "ftp",
+      "gopher",
+      "hacktoberfest",
+      "http",
+      "https",
+      "imaps",
+      "ldap",
+      "libcurl",
+      "library",
+      "mqtt",
+      "pop3",
+      "scp",
+      "sftp",
+      "transfer-data",
+      "transferring-data",
+      "user-agent",
+      "websocket"
+    ],
+    "created_at": "2010-03-18T22:32:22Z"
   }
 }
