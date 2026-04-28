@@ -3144,5 +3144,14 @@
       "websocket"
     ],
     "created_at": "2010-03-18T22:32:22Z"
+  },
+  "deepseek-ai/DeepSeek-V3": {
+    "first_seen": "2026-04-28",
+    "stars": 103244,
+    "summary": "DeepSeek-V3 is a powerful 671B parameter mixture-of-experts language model that delivers cutting-edge performance comparable to leading closed-source models while requiring remarkably efficient training (only 2.788M GPU hours). It features innovative architectural improvements like auxiliary-loss-free load balancing and multi-token prediction training, making it a game-changer for developers seeking high-performance open-source AI without astronomical compute costs.",
+    "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2024-12-26T09:52:40Z"
   }
 }
