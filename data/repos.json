@@ -3153,5 +3153,23 @@
     "language": "Python",
     "topics": [],
     "created_at": "2024-12-26T09:52:40Z"
+  },
+  "mattpocock/skills": {
+    "first_seen": "2026-04-29",
+    "stars": 40760,
+    "summary": "This repository provides battle-tested agent skills designed to eliminate common failure modes in AI-assisted coding, like miscommunication and verbose outputs. These composable, easy-to-adapt skills work with any AI model and help you achieve real engineering results by establishing clear alignment with your coding agent before diving into implementation.",
+    "image": "https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png",
+    "language": "Shell",
+    "topics": [],
+    "created_at": "2026-02-03T11:15:53Z"
+  },
+  "abhigyanpatwari/GitNexus": {
+    "first_seen": "2026-04-29",
+    "stars": 32977,
+    "summary": "GitNexus transforms your codebase into a searchable knowledge graph that AI agents can actually understand, indexing every dependency and call chain so they catch bugs before shipping code. Whether you're using it as a CLI tool for Cursor and Claude or exploring code visually in the browser, it gives smaller models the architectural clarity they need to compete with the biggest ones—no more blind edits or missed dependencies.",
+    "image": "https://api.star-history.com/svg?repos=abhigyanpatwari/GitNexus&type=date&legend=top-left",
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-08-02T23:20:31Z"
   }
 }
