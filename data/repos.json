@@ -3171,5 +3171,23 @@
     "language": "TypeScript",
     "topics": [],
     "created_at": "2025-08-02T23:20:31Z"
+  },
+  "warpdotdev/warp": {
+    "first_seen": "2026-04-30",
+    "stars": 46866,
+    "summary": "Warp is an AI-powered agentic development environment that transforms your terminal into a collaborative workspace where you can use built-in coding agents or integrate your own (Claude, Gemini, etc.) to automate everything from triaging issues to implementing features. It's the terminal reimagined for the AI era—think of it as your personal developer team working directly in your CLI.",
+    "image": "https://github.com/user-attachments/assets/9976b2da-2edd-4604-a36c-8fd53719c6d4",
+    "language": "Rust",
+    "topics": [
+      "bash",
+      "linux",
+      "macos",
+      "rust",
+      "shell",
+      "terminal",
+      "wasm",
+      "zsh"
+    ],
+    "created_at": "2021-07-08T18:48:08Z"
   }
 }
