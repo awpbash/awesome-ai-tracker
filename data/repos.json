@@ -3189,5 +3189,26 @@
       "zsh"
     ],
     "created_at": "2021-07-08T18:48:08Z"
+  },
+  "safishamsi/graphify": {
+    "first_seen": "2026-05-02",
+    "stars": 40185,
+    "summary": "Graphify is an AI coding assistant that builds intelligent knowledge graphs from your entire codebase—including code, PDFs, screenshots, and videos—to help you understand complex projects faster and uncover hidden architectural patterns. Whether you're onboarding a new team member or diving into legacy code, it works seamlessly with Claude, Cursor, GitHub Copilot, and other AI tools to give you the structural insights you didn't know you needed.",
+    "image": "https://api.star-history.com/svg?repos=safishamsi/graphify&type=Date",
+    "language": "Python",
+    "topics": [
+      "antigravity",
+      "claude-code",
+      "codex",
+      "gemini",
+      "graphrag",
+      "knowledge-graph",
+      "leiden",
+      "openclaw",
+      "rag",
+      "skills",
+      "tree-sitter"
+    ],
+    "created_at": "2026-04-03T15:49:07Z"
   }
 }
