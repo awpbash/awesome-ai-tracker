@@ -3210,5 +3210,24 @@
       "tree-sitter"
     ],
     "created_at": "2026-04-03T15:49:07Z"
+  },
+  "ZhuLinsen/daily_stock_analysis": {
+    "first_seen": "2026-05-05",
+    "stars": 34032,
+    "summary": "This AI-powered stock analysis system automatically analyzes A-shares, Hong Kong stocks, and US stocks daily, delivering intelligent decision dashboards with buy/sell signals, risk alerts, and actionable insights to WeChat Work, Feishu, Telegram, Discord, Slack, or email. It combines multi-dimensional analysis—technical indicators, real-time quotes, news sentiment, fundamentals, and built-in strategies—with support for backtesting, web dashboards, and multiple deployment options including GitHub Actions and Docker.",
+    "image": "https://raw.githubusercontent.com/ZhuLinsen/daily_stock_analysis/main/sources/fastapi_server.png",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "aigc",
+      "gemini",
+      "llm",
+      "quant",
+      "quantitative-trading",
+      "rag",
+      "stock"
+    ],
+    "created_at": "2026-01-10T06:43:20Z"
   }
 }
