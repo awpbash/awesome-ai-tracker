@@ -3229,5 +3229,64 @@
       "stock"
     ],
     "created_at": "2026-01-10T06:43:20Z"
+  },
+  "D4Vinci/Scrapling": {
+    "first_seen": "2026-05-06",
+    "stars": 45620,
+    "summary": "Scrapling is a powerful Python web scraping framework that handles everything from simple data extraction to complex, JavaScript-heavy websites with built-in support for proxy rotation, multiple fetchers, and intelligent spider architecture. Whether you're scraping dynamic content or dealing with anti-bot protection, Scrapling makes it effortless with a clean, modern API that just works.",
+    "image": "https://raw.githubusercontent.com/D4Vinci/Scrapling/main/docs/assets/cover_light.svg?sanitize=true",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-scraping",
+      "automation",
+      "crawler",
+      "crawling",
+      "crawling-python",
+      "data",
+      "data-extraction",
+      "mcp",
+      "mcp-server",
+      "playwright",
+      "python",
+      "scraping",
+      "selectors",
+      "stealth",
+      "web-scraper",
+      "web-scraping",
+      "web-scraping-python",
+      "webscraping",
+      "xpath"
+    ],
+    "created_at": "2024-10-13T20:29:53Z"
+  },
+  "pingcap/tidb": {
+    "first_seen": "2026-05-06",
+    "stars": 40057,
+    "summary": "TiDB is an open-source, distributed SQL database that combines MySQL compatibility with cloud-native architecture, offering horizontal scalability, strong consistency through distributed transactions, and hybrid transactional/analytical processing capabilities all without sacrificing high availability. If you're building systems that need to scale beyond traditional databases while maintaining ACID guarantees and familiar SQL interfaces, TiDB gives you enterprise-grade reliability with the flexibility of modern cloud infrastructure.",
+    "image": "https://raw.githubusercontent.com/pingcap/tidb/main/./docs/tidb-architecture.png",
+    "language": "Go",
+    "topics": [
+      "agent",
+      "agent-context",
+      "agent-memory",
+      "agentic",
+      "ai",
+      "cloud-native",
+      "database",
+      "distributed-database",
+      "distributed-transactions",
+      "go",
+      "hacktoberfest",
+      "htap",
+      "memory",
+      "mysql",
+      "mysql-compatibility",
+      "scale",
+      "serverless",
+      "sql",
+      "tidb"
+    ],
+    "created_at": "2015-09-06T04:01:52Z"
   }
 }
