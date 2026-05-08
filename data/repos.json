@@ -3312,5 +3312,51 @@
       "webmin"
     ],
     "created_at": "2022-07-19T15:44:52Z"
+  },
+  "addyosmani/agent-skills": {
+    "first_seen": "2026-05-08",
+    "stars": 33670,
+    "summary": "Agent Skills packages the workflows and best practices of senior engineers into reusable rules for AI coding agents, ensuring consistent quality from planning through shipping. Works across Claude, Cursor, Gemini, and other AI tools with simple slash commands that guide agents through every phase of development—spec, plan, build, test, review, and ship.",
+    "image": "https://opengraph.githubassets.com/1/addyosmani/agent-skills",
+    "language": "Shell",
+    "topics": [
+      "agent-skills",
+      "antigravity",
+      "antigravity-ide",
+      "claude-code",
+      "cursor",
+      "skills"
+    ],
+    "created_at": "2026-02-15T20:20:26Z"
+  },
+  "nexu-io/open-design": {
+    "first_seen": "2026-05-08",
+    "stars": 33061,
+    "summary": "Open Design is the open-source, local-first design automation platform that auto-detects 16+ coding agents on your machine and transforms them into a powerful design engine with 31 composable skills and 72 production-ready design systems. Skip the cloud vendor lock-in and bring your own keys at every layer—design and deploy entirely on your own terms, no subscription required.",
+    "image": "https://raw.githubusercontent.com/nexu-io/open-design/main/docs/assets/banner.png",
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-design",
+      "byok",
+      "claude",
+      "claude-code-for-design",
+      "claude-design",
+      "coding-agents",
+      "design-systems",
+      "design-tools",
+      "desktop-app",
+      "figma-alternative",
+      "generative-ai",
+      "hermes-agent",
+      "local-first",
+      "nextjs",
+      "no-code",
+      "prototyping",
+      "ui-generator",
+      "vibe-coding"
+    ],
+    "created_at": "2026-04-28T04:25:20Z"
   }
 }
