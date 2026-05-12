@@ -6,7 +6,7 @@
       "company": "Qwen (Alibaba)",
       "last_modified": "2026-05-08T12:11:59.000Z",
       "downloads": 170,
-      "likes": 11,
+      "likes": 15,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -36,8 +36,8 @@
         "license:apache-2.0",
         "text-generation-inference",
         "endpoints_compatible",
-        "region:us",
-        "deploy:azure"
+        "deploy:azure",
+        "region:us"
       ],
       "capabilities": [
         "Text"
@@ -49,7 +49,7 @@
       "company": "Qwen (Alibaba)",
       "last_modified": "2026-05-08T12:11:35.000Z",
       "downloads": 191,
-      "likes": 24,
+      "likes": 32,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -79,8 +79,8 @@
         "license:apache-2.0",
         "text-generation-inference",
         "endpoints_compatible",
-        "region:us",
-        "deploy:azure"
+        "deploy:azure",
+        "region:us"
       ],
       "capabilities": [
         "Text"
@@ -92,7 +92,7 @@
       "company": "Qwen (Alibaba)",
       "last_modified": "2026-05-08T12:10:29.000Z",
       "downloads": 279,
-      "likes": 20,
+      "likes": 27,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -122,8 +122,8 @@
         "license:apache-2.0",
         "text-generation-inference",
         "endpoints_compatible",
-        "region:us",
-        "deploy:azure"
+        "deploy:azure",
+        "region:us"
       ],
       "capabilities": [
         "Text"
@@ -185,7 +185,7 @@
       "company": "OpenAI",
       "last_modified": "2026-04-22T16:50:17.000Z",
       "downloads": 190993,
-      "likes": 1405,
+      "likes": 1417,
       "pipeline_tag": "token-classification",
       "tags": [
         "transformers",
@@ -284,7 +284,7 @@
       "company": "OpenAI",
       "last_modified": "2025-08-26T17:25:47.000Z",
       "downloads": 7180986,
-      "likes": 4596,
+      "likes": 4600,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -314,7 +314,7 @@
       "company": "Google (Gemini)",
       "last_modified": "2026-05-11T07:51:55.000Z",
       "downloads": 7014,
-      "likes": 43,
+      "likes": 45,
       "pipeline_tag": "any-to-any",
       "tags": [
         "transformers",
@@ -334,7 +334,7 @@
       "company": "Google (Gemini)",
       "last_modified": "2026-05-11T07:51:37.000Z",
       "downloads": 66561,
-      "likes": 203,
+      "likes": 212,
       "pipeline_tag": "any-to-any",
       "tags": [
         "transformers",
@@ -354,7 +354,7 @@
       "company": "Google (Gemini)",
       "last_modified": "2026-05-11T07:50:40.000Z",
       "downloads": 51766,
-      "likes": 58,
+      "likes": 69,
       "pipeline_tag": "any-to-any",
       "tags": [
         "transformers",
@@ -374,7 +374,7 @@
       "company": "Google (Gemini)",
       "last_modified": "2026-05-11T07:50:08.000Z",
       "downloads": 47749,
-      "likes": 108,
+      "likes": 117,
       "pipeline_tag": "any-to-any",
       "tags": [
         "transformers",
@@ -394,7 +394,7 @@
       "company": "Google (Gemini)",
       "last_modified": "2026-05-07T07:39:49.000Z",
       "downloads": 3393332,
-      "likes": 598,
+      "likes": 602,
       "pipeline_tag": "any-to-any",
       "tags": [
         "transformers",
@@ -506,8 +506,8 @@
       "author": "meta-llama",
       "company": "Meta",
       "last_modified": "2025-11-12T21:27:00.000Z",
-      "downloads": 789146,
-      "likes": 326,
+      "downloads": 842427,
+      "likes": 327,
       "pipeline_tag": "text-classification",
       "tags": [
         "transformers",
@@ -534,7 +534,7 @@
       "author": "meta-llama",
       "company": "Meta",
       "last_modified": "2025-06-18T23:49:51.000Z",
-      "downloads": 1686123,
+      "downloads": 1689850,
       "likes": 4515,
       "pipeline_tag": "text-generation",
       "tags": [
@@ -563,7 +563,7 @@
       "author": "meta-llama",
       "company": "Meta",
       "last_modified": "2025-06-18T23:49:26.000Z",
-      "downloads": 103614,
+      "downloads": 105127,
       "likes": 1512,
       "pipeline_tag": "text-generation",
       "tags": [
@@ -687,7 +687,7 @@
       "company": "DeepSeek",
       "last_modified": "2026-05-06T04:18:44.000Z",
       "downloads": 2017835,
-      "likes": 3840,
+      "likes": 3873,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -712,7 +712,7 @@
       "company": "DeepSeek",
       "last_modified": "2026-05-06T04:18:09.000Z",
       "downloads": 1162290,
-      "likes": 1030,
+      "likes": 1052,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -737,7 +737,7 @@
       "company": "DeepSeek",
       "last_modified": "2026-04-27T06:51:43.000Z",
       "downloads": 10819,
-      "likes": 196,
+      "likes": 197,
       "pipeline_tag": "",
       "tags": [
         "safetensors",
@@ -755,7 +755,7 @@
       "company": "DeepSeek",
       "last_modified": "2026-04-27T06:51:19.000Z",
       "downloads": 11274,
-      "likes": 261,
+      "likes": 263,
       "pipeline_tag": "",
       "tags": [
         "safetensors",
@@ -773,7 +773,7 @@
       "company": "DeepSeek",
       "last_modified": "2026-02-03T00:33:19.000Z",
       "downloads": 1626386,
-      "likes": 948,
+      "likes": 950,
       "pipeline_tag": "image-text-to-text",
       "tags": [
         "transformers",
@@ -807,7 +807,7 @@
       "company": "Mistral",
       "last_modified": "2026-05-04T14:16:22.000Z",
       "downloads": 43141,
-      "likes": 313,
+      "likes": 315,
       "pipeline_tag": "",
       "tags": [
         "safetensors",
@@ -852,7 +852,7 @@
       "company": "Mistral",
       "last_modified": "2026-04-30T06:32:10.000Z",
       "downloads": 443,
-      "likes": 36,
+      "likes": 37,
       "pipeline_tag": "",
       "tags": [
         "vLLM",
@@ -972,8 +972,8 @@
         "license:apache-2.0",
         "eval-results",
         "fp8",
-        "region:us",
-        "deploy:azure"
+        "deploy:azure",
+        "region:us"
       ],
       "capabilities": [
         "Multilingual"
