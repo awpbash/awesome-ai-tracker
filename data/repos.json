@@ -3384,5 +3384,22 @@
       "web"
     ],
     "created_at": "2022-08-22T14:05:26Z"
+  },
+  "github/spec-kit": {
+    "first_seen": "2026-05-14",
+    "stars": 98887,
+    "summary": "Spec Kit is an open-source toolkit that flips traditional development on its head by making specifications executable—they directly generate working implementations rather than just guiding them. It helps you build high-quality software faster by focusing on product scenarios and predictable outcomes instead of building everything from scratch, with support for AI coding agents to accelerate your workflow.",
+    "image": "https://raw.githubusercontent.com/github/spec-kit/main/media/spec-kit-video-header.jpg",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "copilot",
+      "development",
+      "engineering",
+      "prd",
+      "spec",
+      "spec-driven"
+    ],
+    "created_at": "2025-08-21T22:54:31Z"
   }
 }
