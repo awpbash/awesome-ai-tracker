@@ -3401,5 +3401,36 @@
       "spec-driven"
     ],
     "created_at": "2025-08-21T22:54:31Z"
+  },
+  "garrytan/gstack": {
+    "first_seen": "2026-05-15",
+    "stars": 97253,
+    "summary": "Gstack is an open-source AI agent framework that supercharges your productivity by turning Claude Code into a virtual engineering team—complete with product, design, QA, and security roles—all triggered by simple slash commands. It's designed for founders, technical leaders, and solo builders who want to ship products at the speed of a large team, with structured workflows for planning, reviewing, testing, and releasing code.",
+    "image": "https://raw.githubusercontent.com/garrytan/gstack/main/docs/images/github-2026.png",
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2026-03-11T21:22:45Z"
+  },
+  "santifer/career-ops": {
+    "first_seen": "2026-05-15",
+    "stars": 44797,
+    "summary": "Career-Ops is an AI-powered job search system that automates the tedious parts of finding your next role—evaluating hundreds of job listings, generating tailored ATS-optimized resumes, and tracking everything in one place so you can focus on the opportunities that actually matter. If you're tired of manual applications and spreadsheet chaos, this multi-agent system turns the tables by letting AI help you choose companies instead of just getting filtered by them.",
+    "image": "https://raw.githubusercontent.com/santifer/career-ops/main/docs/hero-banner.jpg",
+    "language": "JavaScript",
+    "topics": [
+      "ai-agent",
+      "anthropic",
+      "automation",
+      "career",
+      "claude",
+      "claude-code",
+      "cli",
+      "golang",
+      "interview-prep",
+      "job-search",
+      "open-source",
+      "resume"
+    ],
+    "created_at": "2026-04-04T18:21:18Z"
   }
 }
