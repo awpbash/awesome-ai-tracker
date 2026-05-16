@@ -3432,5 +3432,16 @@
       "resume"
     ],
     "created_at": "2026-04-04T18:21:18Z"
+  },
+  "anthropics/skills": {
+    "first_seen": "2026-05-16",
+    "stars": 135507,
+    "summary": "Skills are reusable instruction packages that teach Claude how to master specialized tasks—from creating branded documents to automating workflows—letting you extend Claude's abilities with your organization's specific knowledge and processes. Browse Anthropic's collection of production-ready skills to get inspired for building your own, whether you're working in Claude Code, Claude.ai, or the API.",
+    "image": "https://skills.sh/b/anthropics/skills",
+    "language": "Python",
+    "topics": [
+      "agent-skills"
+    ],
+    "created_at": "2025-09-22T15:53:31Z"
   }
 }
