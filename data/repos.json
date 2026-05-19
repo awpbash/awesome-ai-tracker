@@ -3467,5 +3467,32 @@
       "workflows"
     ],
     "created_at": "2023-12-08T06:06:09Z"
+  },
+  "affaan-m/ECC": {
+    "first_seen": "2026-05-19",
+    "stars": 186919,
+    "summary": "ECC is a production-ready operator system that transforms AI agents (Claude, Copilot, Gemini, and others) into powerful development tools with built-in skills, memory optimization, security scanning, and continuous learning capabilities. Born from an Anthropic hackathon win and battle-tested through months of real-world use, it gives developers a complete framework to build, secure, and scale agentic workflows across multiple AI harnesses.",
+    "image": "https://raw.githubusercontent.com/affaan-m/ECC/main/assets/hero.png",
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "created_at": "2026-01-18T00:51:51Z"
+  },
+  "multica-ai/andrej-karpathy-skills": {
+    "first_seen": "2026-05-19",
+    "stars": 137014,
+    "summary": "**andrej-karpathy-skills** — A battle-tested prompt file that fixes how Claude AI actually codes by enforcing four core principles: think before coding, keep it simple, make only necessary changes, and define measurable success criteria drawn from real developer observations. Save yourself from overly complicated solutions and hidden assumptions by feeding Claude a single `CLAUDE.md` file that transforms it into a more thoughtful, precise coding partner.",
+    "image": "https://opengraph.githubassets.com/1/multica-ai/andrej-karpathy-skills",
+    "language": "",
+    "topics": [],
+    "created_at": "2026-01-27T03:53:13Z"
   }
 }
