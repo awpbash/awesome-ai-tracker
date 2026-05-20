@@ -3494,5 +3494,49 @@
     "language": "",
     "topics": [],
     "created_at": "2026-01-27T03:53:13Z"
+  },
+  "JuliusBrussee/caveman": {
+    "first_seen": "2026-05-20",
+    "stars": 62558,
+    "summary": "Caveman is a plugin that makes AI agents communicate in ultra-concise caveman-speak, cutting ~75% of output tokens while keeping full technical accuracy—so you get faster responses and massive cost savings without losing the expertise. Install in 30 seconds across Claude, Gemini, Cursor, Copilot, and 30+ other agents with a single command, then just type `/caveman` to flip the switch and start saving tokens forever.",
+    "image": "https://api.star-history.com/svg?repos=JuliusBrussee/caveman&type=Date",
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "created_at": "2026-04-04T10:03:00Z"
+  },
+  "agno-agi/agno": {
+    "first_seen": "2026-05-20",
+    "stars": 40244,
+    "summary": "Agno is a powerful SDK for building, deploying, and managing AI agents at scale with built-in production features like tracing, scheduling, RBAC, and a gorgeous control plane. Whether you're creating a Slack bot, a data agent, or a custom platform, Agno gives you complete ownership of your agent stack while handling all the operational complexity so you can focus on what makes your agents special.",
+    "image": "https://github.com/user-attachments/assets/6d21e6bc-111f-4b81-ba29-6550fead89b2",
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "developer-tools",
+      "python"
+    ],
+    "created_at": "2022-05-04T15:23:02Z"
+  },
+  "HKUDS/CLI-Anything": {
+    "first_seen": "2026-05-20",
+    "stars": 38182,
+    "summary": "CLI-Anything transforms any software into an AI-agent-ready interface by automatically generating standardized CLIs, enabling AI agents to control everything from design tools to 3D engines with a single command. With 38k+ stars and a thriving community hub, it's the bridge that makes your favorite tools accessible to the next generation of autonomous agents.",
+    "image": "https://raw.githubusercontent.com/HKUDS/CLI-Anything/main/assets/cli-typing.gif",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2026-03-08T13:52:57Z"
   }
 }
