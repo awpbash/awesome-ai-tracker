@@ -3538,5 +3538,14 @@
     "language": "Python",
     "topics": [],
     "created_at": "2026-03-08T13:52:57Z"
+  },
+  "earendil-works/pi": {
+    "first_seen": "2026-05-23",
+    "stars": 53177,
+    "summary": "Pi is a self-extensible coding agent framework that brings AI-assisted development to your terminal with unified multi-provider LLM support and powerful tool-calling capabilities. Whether you're automating repetitive coding tasks or collaborating with AI on complex projects, pi gives you an interactive agent that learns and adapts to your workflow—plus a thriving community sharing real-world session data to make coding agents smarter.",
+    "image": "https://raw.githubusercontent.com/earendil-works/pi/main/packages/coding-agent/docs/images/exy.png",
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-08-09T14:03:50Z"
   }
 }
