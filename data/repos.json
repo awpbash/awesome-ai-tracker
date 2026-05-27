@@ -3547,5 +3547,32 @@
     "language": "TypeScript",
     "topics": [],
     "created_at": "2025-08-09T14:03:50Z"
+  },
+  "twentyhq/twenty": {
+    "first_seen": "2026-05-27",
+    "stars": 47088,
+    "summary": "Twenty is an open-source CRM that lets you build, customize, and version your customer relationship management system like code—perfect for technical teams that need flexibility without the constraints of traditional platforms. It comes with all the core CRM building blocks (objects, views, workflows, and agents) plus a developer-friendly SDK, so you can deploy it to the cloud, self-host it, or extend it with custom apps that grow with your business.",
+    "image": "https://raw.githubusercontent.com/twentyhq/twenty/main/./packages/twenty-website/public/images/readme/github-cover-light.webp",
+    "language": "TypeScript",
+    "topics": [
+      "crm",
+      "crm-system",
+      "customer",
+      "good-first-issue",
+      "graphql",
+      "hacktoberfest",
+      "javascript",
+      "marketing",
+      "monorepo",
+      "nestjs",
+      "open-source",
+      "postgresql",
+      "react",
+      "reactjs",
+      "sales",
+      "typescript",
+      "web"
+    ],
+    "created_at": "2022-12-01T13:04:40Z"
   }
 }
