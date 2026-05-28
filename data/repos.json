@@ -3574,5 +3574,41 @@
       "web"
     ],
     "created_at": "2022-12-01T13:04:40Z"
+  },
+  "unclecode/crawl4ai": {
+    "first_seen": "2026-05-28",
+    "stars": 66678,
+    "summary": "Crawl4AI transforms messy web pages into clean, LLM-ready Markdown perfect for RAG systems and AI agents—no API keys or subscriptions needed. With battle-tested features like anti-bot detection, Shadow DOM support, and crash recovery, it's the go-to crawler for developers who want reliable web extraction without the headaches or costs.",
+    "image": "https://api.star-history.com/svg?repos=unclecode/crawl4ai&type=Date",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2024-05-09T09:48:50Z"
+  },
+  "Lum1104/Understand-Anything": {
+    "first_seen": "2026-05-28",
+    "stars": 41896,
+    "summary": "Understand Anything transforms complex codebases into interactive knowledge graphs you can explore and query visually, making it dramatically faster to onboard, understand unfamiliar projects, and navigate massive codebases. It works seamlessly with your favorite AI coding tools like Claude Code, Copilot, and Cursor, turning code comprehension from a frustrating grind into an intuitive, exploratory experience.",
+    "image": "https://raw.githubusercontent.com/Lum1104/Understand-Anything/main/assets/hero.png",
+    "language": "TypeScript",
+    "topics": [
+      "antigravity-skills",
+      "business-knowledge",
+      "claude-code",
+      "claude-skills",
+      "codebase-analysis",
+      "codex",
+      "codex-skills",
+      "developer-tools-ai-agent",
+      "gemini-cli-skills",
+      "karpathy-llm-wiki",
+      "knowledge-base",
+      "knowledge-graph",
+      "memory",
+      "opencode-skills",
+      "pi-agent",
+      "understandcode",
+      "vibe-coding"
+    ],
+    "created_at": "2026-03-15T02:30:51Z"
   }
 }
