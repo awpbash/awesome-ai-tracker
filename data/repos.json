@@ -3610,5 +3610,21 @@
       "vibe-coding"
     ],
     "created_at": "2026-03-15T02:30:51Z"
+  },
+  "Hmbown/CodeWhale": {
+    "first_seen": "2026-05-31",
+    "stars": 36168,
+    "summary": "CodeWhale is a terminal-based AI coding agent powered by DeepSeek V4 that intelligently edits your local code with built-in approval gates and adaptive reasoning, turning AI from a chatbot into an actual task-completing assistant. Install it once with npm, Cargo, Homebrew, or Docker, then use `codewhale` to get an AI pair programmer that actually respects your workspace and shows its thinking along the way.",
+    "image": "https://raw.githubusercontent.com/Hmbown/CodeWhale/main/assets/screenshot.png",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "deepseek",
+      "llm",
+      "rust",
+      "terminal",
+      "tui"
+    ],
+    "created_at": "2026-01-19T18:21:01Z"
   }
 }
