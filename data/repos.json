@@ -3626,5 +3626,30 @@
       "tui"
     ],
     "created_at": "2026-01-19T18:21:01Z"
+  },
+  "thedaviddias/Front-End-Checklist": {
+    "first_seen": "2026-06-01",
+    "stars": 72771,
+    "summary": "Front-End Checklist transforms front-end best practices into a practical, actionable review workflow with 385+ rules across 11 categories—browse it online, integrate it into your AI tools via MCP, or work through it directly in your projects. Whether you're auditing code quality, ensuring accessibility and performance, or catching security issues before they ship, this community-driven resource helps you catch what matters most, from critical site-breaking bugs to valuable best-practice improvements.",
+    "image": "https://contrib.rocks/image?repo=thedaviddias/Front-End-Checklist",
+    "language": "MDX",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "checklist",
+      "css",
+      "front-end-developer-tool",
+      "front-end-development",
+      "frontend",
+      "guidelines",
+      "html",
+      "javascript",
+      "lists",
+      "reference",
+      "resources",
+      "rules",
+      "web-development"
+    ],
+    "created_at": "2017-10-16T10:12:36Z"
   }
 }
