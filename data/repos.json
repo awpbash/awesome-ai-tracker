@@ -3683,5 +3683,35 @@
       "yolov5"
     ],
     "created_at": "2020-05-18T03:45:11Z"
+  },
+  "mvanhorn/last30days-skill": {
+    "first_seen": "2026-06-10",
+    "stars": 38614,
+    "summary": "This is an AI-powered search engine that aggregates the last 30 days of real engagement across Reddit, X, YouTube, TikTok, GitHub, and more—scoring results by actual upvotes, likes, and real money instead of editorial algorithms, giving you what people genuinely care about right now. Perfect for staying ahead in fast-moving spaces like AI, finding what's actually trending in communities, or getting the real story on people and products before important meetings.",
+    "image": "https://api.star-history.com/svg?repos=mvanhorn/last30days-skill&type=Date",
+    "language": "Python",
+    "topics": [
+      "ai-prompts",
+      "ai-skill",
+      "bluesky",
+      "claude",
+      "claude-code",
+      "clawhub",
+      "deep-research",
+      "hackernews",
+      "instagram",
+      "openclaw",
+      "polymarket",
+      "recency",
+      "reddit",
+      "research",
+      "social-media",
+      "tiktok",
+      "trends",
+      "twitter",
+      "web-search",
+      "youtube"
+    ],
+    "created_at": "2026-01-23T20:37:37Z"
   }
 }

@@ -6,7 +6,7 @@
       "company": "Qwen (Alibaba)",
       "last_modified": "2026-05-28T08:07:27.000Z",
       "downloads": 11122,
-      "likes": 54,
+      "likes": 55,
       "pipeline_tag": "image-text-to-text",
       "tags": [
         "transformers",
@@ -146,7 +146,7 @@
       "company": "OpenAI",
       "last_modified": "2026-04-22T16:50:17.000Z",
       "downloads": 300155,
-      "likes": 1625,
+      "likes": 1627,
       "pipeline_tag": "token-classification",
       "tags": [
         "transformers",
@@ -166,7 +166,7 @@
       "company": "OpenAI",
       "last_modified": "2026-01-14T18:38:05.000Z",
       "downloads": 37265,
-      "likes": 230,
+      "likes": 233,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -276,7 +276,7 @@
       "company": "Google (Gemini)",
       "last_modified": "2026-06-06T15:57:01.000Z",
       "downloads": 16610,
-      "likes": 32,
+      "likes": 38,
       "pipeline_tag": "any-to-any",
       "tags": [
         "gguf",
@@ -296,7 +296,7 @@
       "company": "Google (Gemini)",
       "last_modified": "2026-06-05T20:34:27.000Z",
       "downloads": 1161,
-      "likes": 10,
+      "likes": 11,
       "pipeline_tag": "any-to-any",
       "tags": [
         "transformers",
@@ -319,7 +319,7 @@
       "company": "Google (Gemini)",
       "last_modified": "2026-06-05T20:33:30.000Z",
       "downloads": 1374,
-      "likes": 12,
+      "likes": 13,
       "pipeline_tag": "any-to-any",
       "tags": [
         "transformers",
@@ -342,7 +342,7 @@
       "company": "Google (Gemini)",
       "last_modified": "2026-06-05T20:32:13.000Z",
       "downloads": 451,
-      "likes": 12,
+      "likes": 14,
       "pipeline_tag": "any-to-any",
       "tags": [
         "transformers",
@@ -365,7 +365,7 @@
       "company": "Google (Gemini)",
       "last_modified": "2026-06-05T20:31:18.000Z",
       "downloads": 1083,
-      "likes": 18,
+      "likes": 23,
       "pipeline_tag": "any-to-any",
       "tags": [
         "transformers",
@@ -390,7 +390,7 @@
       "company": "ByteDance",
       "last_modified": "2026-06-08T04:28:35.000Z",
       "downloads": 0,
-      "likes": 19,
+      "likes": 21,
       "pipeline_tag": "",
       "tags": [
         "arxiv:2604.13030",
@@ -407,7 +407,7 @@
       "company": "ByteDance",
       "last_modified": "2026-05-28T06:25:28.000Z",
       "downloads": 3201,
-      "likes": 1032,
+      "likes": 1035,
       "pipeline_tag": "any-to-any",
       "tags": [
         "Lance",
@@ -494,7 +494,7 @@
       "company": "Meta",
       "last_modified": "2025-11-12T21:27:00.000Z",
       "downloads": 500045,
-      "likes": 337,
+      "likes": 338,
       "pipeline_tag": "text-classification",
       "tags": [
         "transformers",
@@ -522,7 +522,7 @@
       "company": "Meta",
       "last_modified": "2025-06-18T23:49:51.000Z",
       "downloads": 1362807,
-      "likes": 4581,
+      "likes": 4587,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -677,7 +677,7 @@
       "company": "DeepSeek",
       "last_modified": "2026-06-08T06:03:43.000Z",
       "downloads": 2831325,
-      "likes": 1452,
+      "likes": 1457,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -702,7 +702,7 @@
       "company": "DeepSeek",
       "last_modified": "2026-06-08T06:02:44.000Z",
       "downloads": 4302553,
-      "likes": 4726,
+      "likes": 4750,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -727,7 +727,7 @@
       "company": "DeepSeek",
       "last_modified": "2026-04-27T06:51:43.000Z",
       "downloads": 66514,
-      "likes": 241,
+      "likes": 242,
       "pipeline_tag": "",
       "tags": [
         "safetensors",
@@ -763,13 +763,13 @@
       "company": "DeepSeek",
       "last_modified": "2026-02-03T00:33:19.000Z",
       "downloads": 1801027,
-      "likes": 978,
+      "likes": 981,
       "pipeline_tag": "image-text-to-text",
       "tags": [
         "transformers",
         "safetensors",
         "deepseek_vl_v2",
-        "feature-extraction",
+        "image-feature-extraction",
         "deepseek",
         "vision-language",
         "ocr",
@@ -898,7 +898,7 @@
       "company": "Mistral",
       "last_modified": "2026-05-31T13:57:57.000Z",
       "downloads": 46603,
-      "likes": 387,
+      "likes": 388,
       "pipeline_tag": "",
       "tags": [
         "safetensors",
