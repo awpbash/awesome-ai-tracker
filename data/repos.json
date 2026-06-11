@@ -3713,5 +3713,34 @@
       "youtube"
     ],
     "created_at": "2026-01-23T20:37:37Z"
+  },
+  "siyuan-note/siyuan": {
+    "first_seen": "2026-06-11",
+    "stars": 44388,
+    "summary": "SiYuan is a privacy-first, open-source note-taking app that transforms how you organize and connect your thoughts through a powerful block-based architecture and bidirectional linking. Whether you're building a personal knowledge base, managing research, or just thinking more clearly, SiYuan gives you complete control over your data with local-first storage and cross-platform support.",
+    "image": "https://b3logfile.com/file/2025/11/feature0-GfbhEqf.png",
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "digital-garden",
+      "electron",
+      "knowledge-base",
+      "knowledge-graph",
+      "local-first",
+      "markdown",
+      "note-taking",
+      "notebook",
+      "notes-app",
+      "pdf",
+      "personal-knowledge-base",
+      "personal-knowledge-management",
+      "pkm",
+      "s3",
+      "self-hosted",
+      "siyuan",
+      "webdav",
+      "wiki"
+    ],
+    "created_at": "2020-08-30T09:21:35Z"
   }
 }
