@@ -3742,5 +3742,24 @@
       "wiki"
     ],
     "created_at": "2020-08-30T09:21:35Z"
+  },
+  "GorvGoyl/Clone-Wars": {
+    "first_seen": "2026-06-14",
+    "stars": 35039,
+    "summary": "Clone Wars is a curated collection of 100+ open-source clones and tutorials for building versions of popular apps like Airbnb, Netflix, Instagram, and Spotify—perfect for learning full-stack development by studying real implementations with source code, demos, and tech stacks included. Whether you want to understand how major platforms work or build portfolio projects that actually teach you something, this repo gives you a structured learning path with tutorials, code, and working examples to follow along with.",
+    "image": "https://raw.githubusercontent.com/GorvGoyl/Clone-Wars/main/img/og.png",
+    "language": "",
+    "topics": [
+      "airbnb",
+      "clone",
+      "instagram",
+      "netflix",
+      "reddit",
+      "spotify",
+      "tiktok",
+      "twitter",
+      "whatsapp"
+    ],
+    "created_at": "2020-12-02T11:10:16Z"
   }
 }
