@@ -4,7 +4,7 @@
 
 **A daily-updated, auto-curated awesome list of the hottest AI/ML repos on GitHub.**
 
-![Last Update](https://img.shields.io/badge/last_update-2026--06--14-brightgreen?style=flat-square)
+![Last Update](https://img.shields.io/badge/last_update-2026--06--15-brightgreen?style=flat-square)
 ![AI Powered](https://img.shields.io/badge/summaries-Claude_Haiku-blueviolet?style=flat-square)
 ![Automation](https://img.shields.io/badge/updates-daily_via_Actions-orange?style=flat-square)
 
@@ -28,15 +28,6 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 ---
 
-## 🔥 Today's Top Picks (2026-06-14)
-
-- <a href="https://github.com/GorvGoyl/Clone-Wars"><img src="https://raw.githubusercontent.com/GorvGoyl/Clone-Wars/main/img/og.png" width="70" align="left" alt="GorvGoyl/Clone-Wars" /></a> **[GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)** ⭐ 35.0k · 📅 2020-12-02<br/>Clone Wars is a curated collection of 100+ open-source clones and tutorials for building versions of popular apps like Airbnb, Netflix, Instagram, and Spotify—perfect for learning full-stack development by studying real implementations with source code, demos, and tech stacks included. Whether you want to understand how major platforms work or build portfolio projects that actually teach you something, this repo gives you a structured learning path with tutorials, code, and working examples to follow along with.
-
-
-> **[See all 1 repos →](daily/2026-06-14.md)**
-
----
-
 <details>
 <summary><strong>🏢 Latest Model Releases</strong> (click to expand)</summary>
 
@@ -44,88 +35,19 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 > Tracked daily from Hugging Face · 5 latest models per company
 
-### Qwen (Alibaba)
-> Latest: **Qwen-Image-Bench**, **SAE-Res-Qwen3**, **SAE-Res-Qwen3.5**
-
-| Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
-|-------|-------------|---------|--------------|
-| [Qwen-Image-Bench](https://huggingface.co/Qwen/Qwen-Image-Bench) | 8,814 | 58 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [SAE-Res-Qwen3-8B-Base-W64K-L0_50](https://huggingface.co/Qwen/SAE-Res-Qwen3-8B-Base-W64K-L0_50) | 132 | 6 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
-| [SAE-Res-Qwen3-8B-Base-W64K-L0_100](https://huggingface.co/Qwen/SAE-Res-Qwen3-8B-Base-W64K-L0_100) | 82 | 6 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
-| [SAE-Res-Qwen3.5-9B-Base-W64K-L0_50](https://huggingface.co/Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_50) | 79 | 8 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
-| [SAE-Res-Qwen3.5-9B-Base-W64K-L0_100](https://huggingface.co/Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100) | 114 | 7 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
-
-### OpenAI
-> Latest: **privacy-filter**, **gpt-oss-safeguard**, **circuit-sparsity**
-
-| Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
-|-------|-------------|---------|--------------|
-| [privacy-filter](https://huggingface.co/openai/privacy-filter) | 205,244 | 1639 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-safeguard-20b](https://huggingface.co/openai/gpt-oss-safeguard-20b) | 31,811 | 233 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [circuit-sparsity](https://huggingface.co/openai/circuit-sparsity) | 314 | 209 | ✅ Text ✅ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-safeguard-120b](https://huggingface.co/openai/gpt-oss-safeguard-120b) | 17,044 | 98 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) | 4.9M | 4706 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-
-### Google (Gemini)
-> Latest: **gemma-4**, **diffusiongemma**, **gemma-4-E4B**
-
-| Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
-|-------|-------------|---------|--------------|
-| [gemma-4-12B-it-qat-w4a16-ct](https://huggingface.co/google/gemma-4-12B-it-qat-w4a16-ct) | 639,980 | 23 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) | 198,912 | 737 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [gemma-4-E4B-it-qat-q4_0-gguf](https://huggingface.co/google/gemma-4-E4B-it-qat-q4_0-gguf) | 103,030 | 51 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gemma-4-E4B-it-qat-mobile-ct](https://huggingface.co/google/gemma-4-E4B-it-qat-mobile-ct) | 2,125 | 15 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gemma-4-E2B-it-qat-mobile-ct](https://huggingface.co/google/gemma-4-E2B-it-qat-mobile-ct) | 2,542 | 14 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-
-### ByteDance
-> Latest: **GRN**, **Lance**, **Valley3**
-
-| Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
-|-------|-------------|---------|--------------|
-| [GRN](https://huggingface.co/bytedance-research/GRN) | 0 | 21 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Lance](https://huggingface.co/bytedance-research/Lance) | 2,955 | 1043 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Video · Image Gen |
-| [Valley3-8B-Think](https://huggingface.co/bytedance-research/Valley3-8B-Think) | 85 | 8 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Valley3-32B-Think](https://huggingface.co/bytedance-research/Valley3-32B-Think) | 53 | 2 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Valley3-8B-Instruct](https://huggingface.co/bytedance-research/Valley3-8B-Instruct) | 57 | 4 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-
-### Meta
-> Latest: **Prompt-Guard**, **Meta-Llama-3**, **Llama-4-Maverick**
-
-| Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
-|-------|-------------|---------|--------------|
-| [Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M) | 517,734 | 342 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | 1.0M | 4596 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) | 30,698 | 1520 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Llama-4-Maverick-17B-128E-Instruct](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) | 17,543 | 494 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
-| [Llama-4-Maverick-17B-128E-Instruct-FP8](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) | 60,711 | 171 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
-
-### DeepSeek
-> Latest: **DeepSeek-V4-Flash**, **DeepSeek-V4-Pro**, **DeepSeek-OCR-2**
-
-| Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
-|-------|-------------|---------|--------------|
-| [DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash) | 2.1M | 1483 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | 3.1M | 4818 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [DeepSeek-V4-Flash-Base](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Base) | 49,896 | 244 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [DeepSeek-V4-Pro-Base](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-Base) | 7,466 | 293 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [DeepSeek-OCR-2](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2) | 1.3M | 983 | ✅ Text ✅ Code ✅ Vision ✅ Multilingual |
-
-### Mistral
-> Latest: **Pixtral-Large**, **Pixtral**, **Mistral-Small-4**
-
-| Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
-|-------|-------------|---------|--------------|
-| [Pixtral-Large-Instruct-2411](https://huggingface.co/mistralai/Pixtral-Large-Instruct-2411) | 22 | 432 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
-| [Pixtral-12B-2409](https://huggingface.co/mistralai/Pixtral-12B-2409) | 3,054 | 688 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
-| [Mistral-Small-4-119B-2603-NVFP4](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603-NVFP4) | 882 | 94 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
-| [Mistral-Small-4-119B-2603](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603) | 28,755 | 391 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
-| [Mistral-Medium-3.5-128B](https://huggingface.co/mistralai/Mistral-Medium-3.5-128B) | 325,439 | 351 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
-
 </details>
 
 ---
 
 <!-- CHANGELOG -->
+<details>
+<summary><strong>📜 Full Changelog</strong> (click to expand)</summary>
+
+## 🔥 2026-06-15 — 0 new repos
+
+No new repos today.
+
+> [Full details →](daily/2026-06-15.md)
 <details>
 <summary><strong>📜 Full Changelog</strong> (click to expand)</summary>
 
@@ -1395,6 +1317,17 @@ No new repos today.
 **How it works:** GitHub Actions runs daily → discovers trending + new repos → Claude Haiku writes summaries → auto-commits
 
 Made with ❤️ and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)
+
+</div>
+
+</details>
+---
+
+<div align="center">
+
+**How it works:** GitHub Actions runs daily → discovers trending + new repos → Claude Haiku writes summaries → auto-commits
+
+Made with Github Actions and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)
 
 </div>
 
