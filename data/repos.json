@@ -3761,5 +3761,22 @@
       "whatsapp"
     ],
     "created_at": "2020-12-02T11:10:16Z"
+  },
+  "tesseract-ocr/tesseract": {
+    "first_seen": "2026-06-18",
+    "stars": 74795,
+    "summary": "Tesseract is a powerful open-source OCR engine that extracts text from images with support for over 100 languages and multiple output formats, powered by advanced neural networks. Whether you're building document scanning, automated data entry, or accessibility features, Tesseract gives you a battle-tested, production-ready solution that's been refined for decades by HP and Google.",
+    "image": "https://opengraph.githubassets.com/1/tesseract-ocr/tesseract",
+    "language": "C++",
+    "topics": [
+      "hacktoberfest",
+      "lstm",
+      "machine-learning",
+      "ocr",
+      "ocr-engine",
+      "tesseract",
+      "tesseract-ocr"
+    ],
+    "created_at": "2014-08-12T18:04:59Z"
   }
 }
