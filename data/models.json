@@ -1,9 +1,994 @@
 {
-  "Qwen (Alibaba)": [],
-  "OpenAI": [],
-  "Google (Gemini)": [],
-  "ByteDance": [],
-  "Meta": [],
-  "DeepSeek": [],
-  "Mistral": []
+  "Qwen (Alibaba)": [
+    {
+      "model_id": "Qwen/Qwen-Image-Bench",
+      "author": "Qwen",
+      "company": "Qwen (Alibaba)",
+      "last_modified": "2026-05-28T08:07:27.000Z",
+      "downloads": 28152,
+      "likes": 64,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5",
+        "image-text-to-text",
+        "judge-model",
+        "text-to-image",
+        "evaluation",
+        "benchmark",
+        "qwen",
+        "conversational",
+        "en",
+        "zh",
+        "arxiv:2605.28091",
+        "base_model:Qwen/Qwen3.6-27B",
+        "base_model:finetune:Qwen/Qwen3.6-27B",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "deploy:azure",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision"
+      ]
+    },
+    {
+      "model_id": "Qwen/SAE-Res-Qwen3-8B-Base-W64K-L0_50",
+      "author": "Qwen",
+      "company": "Qwen (Alibaba)",
+      "last_modified": "2026-05-13T12:19:26.000Z",
+      "downloads": 159,
+      "likes": 6,
+      "pipeline_tag": "",
+      "tags": [
+        "topk_sae",
+        "sparse-autoencoder",
+        "sae",
+        "mechanistic-interpretability",
+        "interpretability",
+        "qwen-scope",
+        "arxiv:2605.11887",
+        "en",
+        "base_model:Qwen/Qwen3-8B-Base",
+        "base_model:finetune:Qwen/Qwen3-8B-Base",
+        "license:other",
+        "region:us"
+      ],
+      "capabilities": [
+        "Code"
+      ]
+    },
+    {
+      "model_id": "Qwen/SAE-Res-Qwen3-8B-Base-W64K-L0_100",
+      "author": "Qwen",
+      "company": "Qwen (Alibaba)",
+      "last_modified": "2026-05-13T12:19:23.000Z",
+      "downloads": 100,
+      "likes": 6,
+      "pipeline_tag": "",
+      "tags": [
+        "topk_sae",
+        "sparse-autoencoder",
+        "sae",
+        "mechanistic-interpretability",
+        "interpretability",
+        "qwen-scope",
+        "arxiv:2605.11887",
+        "en",
+        "base_model:Qwen/Qwen3-8B-Base",
+        "base_model:finetune:Qwen/Qwen3-8B-Base",
+        "license:other",
+        "region:us"
+      ],
+      "capabilities": [
+        "Code"
+      ]
+    },
+    {
+      "model_id": "Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_50",
+      "author": "Qwen",
+      "company": "Qwen (Alibaba)",
+      "last_modified": "2026-05-13T12:19:20.000Z",
+      "downloads": 113,
+      "likes": 8,
+      "pipeline_tag": "",
+      "tags": [
+        "topk_sae",
+        "sparse-autoencoder",
+        "sae",
+        "mechanistic-interpretability",
+        "interpretability",
+        "qwen-scope",
+        "arxiv:2605.11887",
+        "en",
+        "base_model:Qwen/Qwen3.5-9B-Base",
+        "base_model:finetune:Qwen/Qwen3.5-9B-Base",
+        "license:other",
+        "region:us"
+      ],
+      "capabilities": [
+        "Code"
+      ]
+    },
+    {
+      "model_id": "Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100",
+      "author": "Qwen",
+      "company": "Qwen (Alibaba)",
+      "last_modified": "2026-05-13T12:19:17.000Z",
+      "downloads": 107,
+      "likes": 7,
+      "pipeline_tag": "",
+      "tags": [
+        "topk_sae",
+        "sparse-autoencoder",
+        "sae",
+        "mechanistic-interpretability",
+        "interpretability",
+        "qwen-scope",
+        "arxiv:2605.11887",
+        "en",
+        "base_model:Qwen/Qwen3.5-9B-Base",
+        "base_model:finetune:Qwen/Qwen3.5-9B-Base",
+        "license:other",
+        "region:us"
+      ],
+      "capabilities": [
+        "Code"
+      ]
+    }
+  ],
+  "OpenAI": [
+    {
+      "model_id": "openai/privacy-filter",
+      "author": "openai",
+      "company": "OpenAI",
+      "last_modified": "2026-04-22T16:50:17.000Z",
+      "downloads": 286079,
+      "likes": 1655,
+      "pipeline_tag": "token-classification",
+      "tags": [
+        "transformers",
+        "onnx",
+        "safetensors",
+        "transformers.js",
+        "token-classification",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "region:us"
+      ],
+      "capabilities": []
+    },
+    {
+      "model_id": "openai/gpt-oss-safeguard-20b",
+      "author": "openai",
+      "company": "OpenAI",
+      "last_modified": "2026-01-14T18:38:05.000Z",
+      "downloads": 63180,
+      "likes": 233,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gpt_oss",
+        "text-generation",
+        "vllm",
+        "conversational",
+        "arxiv:2508.10925",
+        "base_model:openai/gpt-oss-20b",
+        "base_model:finetune:openai/gpt-oss-20b",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "8-bit",
+        "mxfp4",
+        "deploy:azure",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "openai/circuit-sparsity",
+      "author": "openai",
+      "company": "OpenAI",
+      "last_modified": "2025-12-12T07:36:26.000Z",
+      "downloads": 191,
+      "likes": 208,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "circuitgpt",
+        "text-generation",
+        "custom_code",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Code"
+      ]
+    },
+    {
+      "model_id": "openai/gpt-oss-safeguard-120b",
+      "author": "openai",
+      "company": "OpenAI",
+      "last_modified": "2025-10-29T11:13:59.000Z",
+      "downloads": 13541,
+      "likes": 98,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gpt_oss",
+        "text-generation",
+        "vllm",
+        "conversational",
+        "arxiv:2508.10925",
+        "base_model:openai/gpt-oss-120b",
+        "base_model:finetune:openai/gpt-oss-120b",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "8-bit",
+        "mxfp4",
+        "deploy:azure",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "openai/gpt-oss-20b",
+      "author": "openai",
+      "company": "OpenAI",
+      "last_modified": "2025-08-26T17:25:47.000Z",
+      "downloads": 6827013,
+      "likes": 4714,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gpt_oss",
+        "text-generation",
+        "vllm",
+        "conversational",
+        "arxiv:2508.10925",
+        "license:apache-2.0",
+        "eval-results",
+        "endpoints_compatible",
+        "8-bit",
+        "mxfp4",
+        "deploy:azure",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    }
+  ],
+  "Google (Gemini)": [
+    {
+      "model_id": "google/gemma-4-26B-A4B-it-qat-q4_0-unquantized-assistant",
+      "author": "google",
+      "company": "Google (Gemini)",
+      "last_modified": "2026-06-19T11:22:55.000Z",
+      "downloads": 1208,
+      "likes": 10,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gemma4_assistant",
+        "text-generation",
+        "image-text-to-text",
+        "conversational",
+        "base_model:google/gemma-4-26B-A4B-it-assistant",
+        "base_model:finetune:google/gemma-4-26B-A4B-it-assistant",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision"
+      ]
+    },
+    {
+      "model_id": "google/gemma-4-31B-it-qat-q4_0-unquantized-assistant",
+      "author": "google",
+      "company": "Google (Gemini)",
+      "last_modified": "2026-06-18T12:30:50.000Z",
+      "downloads": 140082,
+      "likes": 16,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gemma4_assistant",
+        "text-generation",
+        "image-text-to-text",
+        "conversational",
+        "base_model:google/gemma-4-31B-it-assistant",
+        "base_model:finetune:google/gemma-4-31B-it-assistant",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision"
+      ]
+    },
+    {
+      "model_id": "google/gemma-4-12B-it-qat-w4a16-ct",
+      "author": "google",
+      "company": "Google (Gemini)",
+      "last_modified": "2026-06-12T17:06:06.000Z",
+      "downloads": 1185286,
+      "likes": 28,
+      "pipeline_tag": "any-to-any",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gemma4_unified",
+        "image-text-to-text",
+        "any-to-any",
+        "base_model:google/gemma-4-12B-it-qat-q4_0-unquantized",
+        "base_model:quantized:google/gemma-4-12B-it-qat-q4_0-unquantized",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "compressed-tensors",
+        "region:us"
+      ],
+      "capabilities": []
+    },
+    {
+      "model_id": "google/diffusiongemma-26B-A4B-it",
+      "author": "google",
+      "company": "Google (Gemini)",
+      "last_modified": "2026-06-10T13:45:13.000Z",
+      "downloads": 601208,
+      "likes": 1007,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "diffusion_gemma",
+        "image-text-to-text",
+        "conversational",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision"
+      ]
+    },
+    {
+      "model_id": "google/gemma-4-E4B-it-qat-q4_0-gguf",
+      "author": "google",
+      "company": "Google (Gemini)",
+      "last_modified": "2026-06-06T15:57:01.000Z",
+      "downloads": 226487,
+      "likes": 63,
+      "pipeline_tag": "any-to-any",
+      "tags": [
+        "gguf",
+        "any-to-any",
+        "base_model:google/gemma-4-E4B-it-qat-q4_0-unquantized",
+        "base_model:quantized:google/gemma-4-E4B-it-qat-q4_0-unquantized",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "region:us",
+        "conversational"
+      ],
+      "capabilities": []
+    }
+  ],
+  "ByteDance": [
+    {
+      "model_id": "bytedance-research/GRN",
+      "author": "bytedance-research",
+      "company": "ByteDance",
+      "last_modified": "2026-06-17T17:43:12.000Z",
+      "downloads": 0,
+      "likes": 22,
+      "pipeline_tag": "",
+      "tags": [
+        "arxiv:2604.13030",
+        "license:mit",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "bytedance-research/Lance",
+      "author": "bytedance-research",
+      "company": "ByteDance",
+      "last_modified": "2026-05-28T06:25:28.000Z",
+      "downloads": 3130,
+      "likes": 1047,
+      "pipeline_tag": "any-to-any",
+      "tags": [
+        "Lance",
+        "safetensors",
+        "multimodal",
+        "image-generation",
+        "video-generation",
+        "image-editing",
+        "video-understanding",
+        "any-to-any",
+        "arxiv:2605.18678",
+        "base_model:Qwen/Qwen2.5-VL-3B-Instruct",
+        "base_model:finetune:Qwen/Qwen2.5-VL-3B-Instruct",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "capabilities": [
+        "Video",
+        "Image Gen"
+      ]
+    },
+    {
+      "model_id": "bytedance-research/Valley3-8B-Think",
+      "author": "bytedance-research",
+      "company": "ByteDance",
+      "last_modified": "2026-05-25T07:50:42.000Z",
+      "downloads": 112,
+      "likes": 8,
+      "pipeline_tag": "",
+      "tags": [
+        "safetensors",
+        "valley_omni",
+        "arxiv:2605.01278",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "bytedance-research/Valley3-32B-Think",
+      "author": "bytedance-research",
+      "company": "ByteDance",
+      "last_modified": "2026-05-25T07:50:01.000Z",
+      "downloads": 79,
+      "likes": 2,
+      "pipeline_tag": "",
+      "tags": [
+        "safetensors",
+        "valley_omni",
+        "arxiv:2605.01278",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "bytedance-research/Valley3-8B-Instruct",
+      "author": "bytedance-research",
+      "company": "ByteDance",
+      "last_modified": "2026-05-25T07:49:09.000Z",
+      "downloads": 86,
+      "likes": 4,
+      "pipeline_tag": "",
+      "tags": [
+        "safetensors",
+        "valley_omni",
+        "arxiv:2605.01278",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    }
+  ],
+  "Meta": [
+    {
+      "model_id": "meta-llama/Prompt-Guard-86M",
+      "author": "meta-llama",
+      "company": "Meta",
+      "last_modified": "2025-11-12T21:27:00.000Z",
+      "downloads": 1215118,
+      "likes": 346,
+      "pipeline_tag": "text-classification",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deberta-v2",
+        "text-classification",
+        "facebook",
+        "meta",
+        "pytorch",
+        "llama",
+        "llama-3",
+        "en",
+        "license:llama3.1",
+        "text-embeddings-inference",
+        "endpoints_compatible",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "author": "meta-llama",
+      "company": "Meta",
+      "last_modified": "2025-06-18T23:49:51.000Z",
+      "downloads": 1434477,
+      "likes": 4615,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta",
+        "pytorch",
+        "llama-3",
+        "conversational",
+        "en",
+        "license:llama3",
+        "eval-results",
+        "text-generation-inference",
+        "endpoints_compatible",
+        "deploy:azure",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "meta-llama/Meta-Llama-3-70B-Instruct",
+      "author": "meta-llama",
+      "company": "Meta",
+      "last_modified": "2025-06-18T23:49:26.000Z",
+      "downloads": 37222,
+      "likes": 1520,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta",
+        "pytorch",
+        "llama-3",
+        "conversational",
+        "en",
+        "base_model:meta-llama/Meta-Llama-3-70B",
+        "base_model:finetune:meta-llama/Meta-Llama-3-70B",
+        "license:llama3",
+        "eval-results",
+        "text-generation-inference",
+        "endpoints_compatible",
+        "deploy:azure",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "meta-llama/Llama-4-Maverick-17B-128E-Instruct",
+      "author": "meta-llama",
+      "company": "Meta",
+      "last_modified": "2025-05-22T23:46:12.000Z",
+      "downloads": 35897,
+      "likes": 495,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama4",
+        "image-text-to-text",
+        "facebook",
+        "meta",
+        "pytorch",
+        "llama",
+        "conversational",
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "id",
+        "it",
+        "pt",
+        "th",
+        "tl",
+        "vi",
+        "arxiv:2204.05149",
+        "base_model:meta-llama/Llama-4-Maverick-17B-128E",
+        "base_model:finetune:meta-llama/Llama-4-Maverick-17B-128E",
+        "license:other",
+        "eval-results",
+        "text-generation-inference",
+        "endpoints_compatible",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision",
+        "Multilingual"
+      ]
+    },
+    {
+      "model_id": "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8",
+      "author": "meta-llama",
+      "company": "Meta",
+      "last_modified": "2025-05-22T23:46:03.000Z",
+      "downloads": 94131,
+      "likes": 171,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama4",
+        "image-text-to-text",
+        "facebook",
+        "meta",
+        "pytorch",
+        "llama",
+        "conversational",
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "id",
+        "it",
+        "pt",
+        "th",
+        "tl",
+        "vi",
+        "arxiv:2204.05149",
+        "base_model:meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "base_model:quantized:meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "license:other",
+        "eval-results",
+        "text-generation-inference",
+        "endpoints_compatible",
+        "compressed-tensors",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Vision",
+        "Multilingual"
+      ]
+    }
+  ],
+  "DeepSeek": [
+    {
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "author": "deepseek-ai",
+      "company": "DeepSeek",
+      "last_modified": "2026-06-08T06:03:43.000Z",
+      "downloads": 2548735,
+      "likes": 1534,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_v4",
+        "text-generation",
+        "conversational",
+        "license:mit",
+        "eval-results",
+        "endpoints_compatible",
+        "8-bit",
+        "fp8",
+        "region:us",
+        "deploy:azure"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "deepseek-ai/DeepSeek-V4-Pro",
+      "author": "deepseek-ai",
+      "company": "DeepSeek",
+      "last_modified": "2026-06-08T06:02:44.000Z",
+      "downloads": 3015772,
+      "likes": 4960,
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_v4",
+        "text-generation",
+        "conversational",
+        "license:mit",
+        "eval-results",
+        "endpoints_compatible",
+        "8-bit",
+        "fp8",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash-Base",
+      "author": "deepseek-ai",
+      "company": "DeepSeek",
+      "last_modified": "2026-04-27T06:51:43.000Z",
+      "downloads": 90617,
+      "likes": 247,
+      "pipeline_tag": "",
+      "tags": [
+        "safetensors",
+        "deepseek_v4",
+        "fp8",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "deepseek-ai/DeepSeek-V4-Pro-Base",
+      "author": "deepseek-ai",
+      "company": "DeepSeek",
+      "last_modified": "2026-04-27T06:51:19.000Z",
+      "downloads": 20290,
+      "likes": 298,
+      "pipeline_tag": "",
+      "tags": [
+        "safetensors",
+        "deepseek_v4",
+        "fp8",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text"
+      ]
+    },
+    {
+      "model_id": "deepseek-ai/DeepSeek-OCR-2",
+      "author": "deepseek-ai",
+      "company": "DeepSeek",
+      "last_modified": "2026-02-03T00:33:19.000Z",
+      "downloads": 2546895,
+      "likes": 989,
+      "pipeline_tag": "image-text-to-text",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_vl_v2",
+        "image-feature-extraction",
+        "deepseek",
+        "vision-language",
+        "ocr",
+        "custom_code",
+        "image-text-to-text",
+        "multilingual",
+        "arxiv:2601.20552",
+        "arxiv:2510.18234",
+        "license:apache-2.0",
+        "eval-results",
+        "region:us"
+      ],
+      "capabilities": [
+        "Text",
+        "Code",
+        "Vision",
+        "Multilingual"
+      ]
+    }
+  ],
+  "Mistral": [
+    {
+      "model_id": "mistralai/Pixtral-Large-Instruct-2411",
+      "author": "mistralai",
+      "company": "Mistral",
+      "last_modified": "2026-06-02T04:46:39.000Z",
+      "downloads": 87,
+      "likes": 432,
+      "pipeline_tag": "",
+      "tags": [
+        "vllm",
+        "mistral-common",
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "zh",
+        "ja",
+        "ru",
+        "ko",
+        "license:other",
+        "region:us"
+      ],
+      "capabilities": [
+        "Multilingual"
+      ]
+    },
+    {
+      "model_id": "mistralai/Pixtral-12B-2409",
+      "author": "mistralai",
+      "company": "Mistral",
+      "last_modified": "2026-06-02T04:44:58.000Z",
+      "downloads": 5223,
+      "likes": 688,
+      "pipeline_tag": "",
+      "tags": [
+        "vllm",
+        "mistral-common",
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "ru",
+        "zh",
+        "ja",
+        "base_model:mistralai/Pixtral-12B-Base-2409",
+        "base_model:finetune:mistralai/Pixtral-12B-Base-2409",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "capabilities": [
+        "Multilingual"
+      ]
+    },
+    {
+      "model_id": "mistralai/Mistral-Small-4-119B-2603-NVFP4",
+      "author": "mistralai",
+      "company": "Mistral",
+      "last_modified": "2026-05-31T13:58:33.000Z",
+      "downloads": 1408,
+      "likes": 100,
+      "pipeline_tag": "",
+      "tags": [
+        "vLLM",
+        "compressed-tensors",
+        "en",
+        "fr",
+        "de",
+        "es",
+        "pt",
+        "it",
+        "ja",
+        "ko",
+        "ru",
+        "zh",
+        "ar",
+        "fa",
+        "id",
+        "ms",
+        "ne",
+        "pl",
+        "ro",
+        "sr",
+        "sv",
+        "tr",
+        "uk",
+        "vi",
+        "hi",
+        "bn",
+        "base_model:mistralai/Mistral-Small-4-119B-2603",
+        "base_model:finetune:mistralai/Mistral-Small-4-119B-2603",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "capabilities": [
+        "Multilingual"
+      ]
+    },
+    {
+      "model_id": "mistralai/Mistral-Small-4-119B-2603",
+      "author": "mistralai",
+      "company": "Mistral",
+      "last_modified": "2026-05-31T13:57:57.000Z",
+      "downloads": 73541,
+      "likes": 395,
+      "pipeline_tag": "",
+      "tags": [
+        "safetensors",
+        "mistral3",
+        "vLLM",
+        "en",
+        "fr",
+        "de",
+        "es",
+        "pt",
+        "it",
+        "ja",
+        "ko",
+        "ru",
+        "zh",
+        "ar",
+        "fa",
+        "id",
+        "ms",
+        "ne",
+        "pl",
+        "ro",
+        "sr",
+        "sv",
+        "tr",
+        "uk",
+        "vi",
+        "hi",
+        "bn",
+        "license:apache-2.0",
+        "eval-results",
+        "fp8",
+        "deploy:azure",
+        "region:us"
+      ],
+      "capabilities": [
+        "Multilingual"
+      ]
+    },
+    {
+      "model_id": "mistralai/Mistral-Medium-3.5-128B",
+      "author": "mistralai",
+      "company": "Mistral",
+      "last_modified": "2026-05-04T14:16:22.000Z",
+      "downloads": 443806,
+      "likes": 366,
+      "pipeline_tag": "",
+      "tags": [
+        "safetensors",
+        "mistral3",
+        "vLLM",
+        "en",
+        "fr",
+        "de",
+        "es",
+        "pt",
+        "it",
+        "ja",
+        "ko",
+        "ru",
+        "zh",
+        "ar",
+        "fa",
+        "id",
+        "ms",
+        "ne",
+        "pl",
+        "ro",
+        "sr",
+        "sv",
+        "tr",
+        "uk",
+        "vi",
+        "hi",
+        "bn",
+        "license:other",
+        "eval-results",
+        "fp8",
+        "region:us"
+      ],
+      "capabilities": [
+        "Multilingual"
+      ]
+    }
+  ]
 }

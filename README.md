@@ -4,7 +4,7 @@
 
 **A daily-updated, auto-curated awesome list of the hottest AI/ML repos on GitHub.**
 
-![Last Update](https://img.shields.io/badge/last_update-2026--06--18-brightgreen?style=flat-square)
+![Last Update](https://img.shields.io/badge/last_update-2026--06--19-brightgreen?style=flat-square)
 ![AI Powered](https://img.shields.io/badge/summaries-Claude_Haiku-blueviolet?style=flat-square)
 ![Automation](https://img.shields.io/badge/updates-daily_via_Actions-orange?style=flat-square)
 
@@ -28,12 +28,12 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 ---
 
-## 🔥 Today's Top Picks (2026-06-18)
+## 🔥 Today's Top Picks (2026-06-19)
 
-- <a href="https://github.com/tesseract-ocr/tesseract"><img src="https://opengraph.githubassets.com/1/tesseract-ocr/tesseract" width="70" align="left" alt="tesseract-ocr/tesseract" /></a> **[tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)** ⭐ 74.8k `C++` · 📅 2014-08-12<br/>Tesseract is a powerful open-source OCR engine that extracts text from images with support for over 100 languages and multiple output formats, powered by advanced neural networks. Whether you're building document scanning, automated data entry, or accessibility features, Tesseract gives you a battle-tested, production-ready solution that's been refined for decades by HP and Google.
+- <a href="https://github.com/chopratejas/headroom"><img src="https://raw.githubusercontent.com/chopratejas/headroom/main/HeadroomDemo-Fast.gif" width="70" align="left" alt="chopratejas/headroom" /></a> **[chopratejas/headroom](https://github.com/chopratejas/headroom)** ⭐ 36.6k `Python` · 📅 2026-01-07<br/>Headroom is a context compression layer that reduces tokens by 60–95% while keeping AI agent responses accurate. It works as a library, proxy, or agent wrapper, and offers reversible compression so you can retrieve the original data if needed.
 
 
-> **[See all 1 repos →](daily/2026-06-18.md)**
+> **[See all 1 repos →](daily/2026-06-19.md)**
 
 ---
 
@@ -44,11 +44,99 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 > Tracked daily from Hugging Face · 5 latest models per company
 
+### Qwen (Alibaba)
+> Latest: **Qwen-Image-Bench**, **SAE-Res-Qwen3**, **SAE-Res-Qwen3.5**
+
+| Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
+|-------|-------------|---------|--------------|
+| [Qwen-Image-Bench](https://huggingface.co/Qwen/Qwen-Image-Bench) | 28,152 | 64 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [SAE-Res-Qwen3-8B-Base-W64K-L0_50](https://huggingface.co/Qwen/SAE-Res-Qwen3-8B-Base-W64K-L0_50) | 159 | 6 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
+| [SAE-Res-Qwen3-8B-Base-W64K-L0_100](https://huggingface.co/Qwen/SAE-Res-Qwen3-8B-Base-W64K-L0_100) | 100 | 6 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
+| [SAE-Res-Qwen3.5-9B-Base-W64K-L0_50](https://huggingface.co/Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_50) | 113 | 8 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
+| [SAE-Res-Qwen3.5-9B-Base-W64K-L0_100](https://huggingface.co/Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100) | 107 | 7 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
+
+### OpenAI
+> Latest: **privacy-filter**, **gpt-oss-safeguard**, **circuit-sparsity**
+
+| Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
+|-------|-------------|---------|--------------|
+| [privacy-filter](https://huggingface.co/openai/privacy-filter) | 286,079 | 1655 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-safeguard-20b](https://huggingface.co/openai/gpt-oss-safeguard-20b) | 63,180 | 233 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [circuit-sparsity](https://huggingface.co/openai/circuit-sparsity) | 191 | 208 | ✅ Text ✅ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-safeguard-120b](https://huggingface.co/openai/gpt-oss-safeguard-120b) | 13,541 | 98 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) | 6.8M | 4714 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+
+### Google (Gemini)
+> Latest: **gemma-4**, **diffusiongemma**, **gemma-4-E4B**
+
+| Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
+|-------|-------------|---------|--------------|
+| [gemma-4-26B-A4B-it-qat-q4_0-unquantized-assistant](https://huggingface.co/google/gemma-4-26B-A4B-it-qat-q4_0-unquantized-assistant) | 1,208 | 10 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [gemma-4-31B-it-qat-q4_0-unquantized-assistant](https://huggingface.co/google/gemma-4-31B-it-qat-q4_0-unquantized-assistant) | 140,082 | 16 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [gemma-4-12B-it-qat-w4a16-ct](https://huggingface.co/google/gemma-4-12B-it-qat-w4a16-ct) | 1.2M | 28 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) | 601,208 | 1007 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [gemma-4-E4B-it-qat-q4_0-gguf](https://huggingface.co/google/gemma-4-E4B-it-qat-q4_0-gguf) | 226,487 | 63 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+
+### ByteDance
+> Latest: **GRN**, **Lance**, **Valley3**
+
+| Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
+|-------|-------------|---------|--------------|
+| [GRN](https://huggingface.co/bytedance-research/GRN) | 0 | 22 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Lance](https://huggingface.co/bytedance-research/Lance) | 3,130 | 1047 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Video · Image Gen |
+| [Valley3-8B-Think](https://huggingface.co/bytedance-research/Valley3-8B-Think) | 112 | 8 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Valley3-32B-Think](https://huggingface.co/bytedance-research/Valley3-32B-Think) | 79 | 2 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Valley3-8B-Instruct](https://huggingface.co/bytedance-research/Valley3-8B-Instruct) | 86 | 4 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+
+### Meta
+> Latest: **Prompt-Guard**, **Meta-Llama-3**, **Llama-4-Maverick**
+
+| Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
+|-------|-------------|---------|--------------|
+| [Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M) | 1.2M | 346 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | 1.4M | 4615 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) | 37,222 | 1520 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Llama-4-Maverick-17B-128E-Instruct](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) | 35,897 | 495 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
+| [Llama-4-Maverick-17B-128E-Instruct-FP8](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) | 94,131 | 171 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
+
+### DeepSeek
+> Latest: **DeepSeek-V4-Flash**, **DeepSeek-V4-Pro**, **DeepSeek-OCR-2**
+
+| Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
+|-------|-------------|---------|--------------|
+| [DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash) | 2.5M | 1534 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | 3.0M | 4960 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-V4-Flash-Base](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Base) | 90,617 | 247 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-V4-Pro-Base](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-Base) | 20,290 | 298 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-OCR-2](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2) | 2.5M | 989 | ✅ Text ✅ Code ✅ Vision ✅ Multilingual |
+
+### Mistral
+> Latest: **Pixtral-Large**, **Pixtral**, **Mistral-Small-4**
+
+| Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
+|-------|-------------|---------|--------------|
+| [Pixtral-Large-Instruct-2411](https://huggingface.co/mistralai/Pixtral-Large-Instruct-2411) | 87 | 432 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
+| [Pixtral-12B-2409](https://huggingface.co/mistralai/Pixtral-12B-2409) | 5,223 | 688 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
+| [Mistral-Small-4-119B-2603-NVFP4](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603-NVFP4) | 1,408 | 100 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
+| [Mistral-Small-4-119B-2603](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603) | 73,541 | 395 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
+| [Mistral-Medium-3.5-128B](https://huggingface.co/mistralai/Mistral-Medium-3.5-128B) | 443,806 | 366 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
+
 </details>
 
 ---
 
 <!-- CHANGELOG -->
+<details>
+<summary><strong>📜 Full Changelog</strong> (click to expand)</summary>
+
+## 🔥 2026-06-19 — 1 new repos
+
+**📈 Trending Today**
+
+**🔌 Agent Skills & Plugins**
+- **[chopratejas/headroom](https://github.com/chopratejas/headroom)** ⭐ 36.6k · 📅 2026-01-07 — Headroom is a context compression layer that reduces tokens by 60–95% while keeping AI agent responses accurate.
+
+> [Full details →](daily/2026-06-19.md)
 <details>
 <summary><strong>📜 Full Changelog</strong> (click to expand)</summary>
 
@@ -1353,6 +1441,17 @@ No new repos today.
 **How it works:** GitHub Actions runs daily → discovers trending + new repos → Claude Haiku writes summaries → auto-commits
 
 Made with ❤️ and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)
+
+</div>
+
+</details>
+---
+
+<div align="center">
+
+**How it works:** GitHub Actions runs daily → discovers trending + new repos → Claude Haiku writes summaries → auto-commits
+
+Made with Github Actions and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)
 
 </div>
 

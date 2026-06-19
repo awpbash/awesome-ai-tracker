@@ -3778,5 +3778,35 @@
       "tesseract-ocr"
     ],
     "created_at": "2014-08-12T18:04:59Z"
+  },
+  "chopratejas/headroom": {
+    "first_seen": "2026-06-19",
+    "stars": 36554,
+    "summary": "Headroom is a context compression layer that reduces tokens by 60–95% while keeping AI agent responses accurate. It works as a library, proxy, or agent wrapper, and offers reversible compression so you can retrieve the original data if needed.",
+    "image": "https://raw.githubusercontent.com/chopratejas/headroom/main/HeadroomDemo-Fast.gif",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "claude-code",
+      "compression",
+      "context-engineering",
+      "context-window",
+      "cursor",
+      "fastapi",
+      "langchain",
+      "llm",
+      "mcp",
+      "openai",
+      "prompt-engineering",
+      "proxy",
+      "python",
+      "rag",
+      "token-optimization",
+      "tokens",
+      "typescript"
+    ],
+    "created_at": "2026-01-07T19:58:51Z"
   }
 }
