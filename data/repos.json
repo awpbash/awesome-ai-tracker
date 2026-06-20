@@ -3808,5 +3808,27 @@
       "typescript"
     ],
     "created_at": "2026-01-07T19:58:51Z"
+  },
+  "VectifyAI/PageIndex": {
+    "first_seen": "2026-06-20",
+    "stars": 33227,
+    "summary": "PageIndex revolutionizes document retrieval by ditching vector databases entirely in favor of reasoning-based RAG that builds intelligent tree indexes and lets LLMs think their way to truly relevant content. If you're tired of semantic similarity missing the mark on complex professional documents, this approach treats retrieval like human experts do—through intelligent navigation and multi-step reasoning instead of vector matching.",
+    "image": "https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d",
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "context-engineering",
+      "information-retrieval",
+      "llm",
+      "rag",
+      "reasoning",
+      "retrieval",
+      "retrieval-augmented-generation",
+      "vector-database"
+    ],
+    "created_at": "2025-04-01T10:53:54Z"
   }
 }
