@@ -3830,5 +3830,33 @@
       "vector-database"
     ],
     "created_at": "2025-04-01T10:53:54Z"
+  },
+  "Developer-Y/cs-video-courses": {
+    "first_seen": "2026-06-21",
+    "stars": 81881,
+    "summary": "This curated collection gathers hundreds of free, university-level computer science video courses spanning everything from algorithms and systems to AI, machine learning, and emerging fields like quantum computing and blockchain. Whether you're self-teaching, filling knowledge gaps, or exploring new areas of CS, you'll find high-quality lectures from top institutions all in one organized place.",
+    "image": "https://opengraph.githubassets.com/1/Developer-Y/cs-video-courses",
+    "language": "",
+    "topics": [
+      "algorithms",
+      "bioinformatics",
+      "computational-biology",
+      "computational-physics",
+      "computer-architecture",
+      "computer-science",
+      "computer-vision",
+      "database-systems",
+      "databases",
+      "deep-learning",
+      "embedded-systems",
+      "machine-learning",
+      "quantum-computing",
+      "reinforcement-learning",
+      "robotics",
+      "security",
+      "systems",
+      "web-development"
+    ],
+    "created_at": "2016-10-21T17:02:11Z"
   }
 }
