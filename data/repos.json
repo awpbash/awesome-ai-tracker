@@ -3858,5 +3858,35 @@
       "web-development"
     ],
     "created_at": "2016-10-21T17:02:11Z"
+  },
+  "headroomlabs-ai/headroom": {
+    "first_seen": "2026-06-22",
+    "stars": 46257,
+    "summary": "Headroom is a context compression layer for AI agents that shrinks token usage by 60–95% while preserving accuracy, working seamlessly as a Python/TypeScript library, proxy, or MCP server. If you're building with Claude, Cursor, or any LLM and tired of hitting token limits and budget creep, Headroom compresses everything your agent reads—tool outputs, logs, files, you name it—so you get the same answers for a fraction of the cost.",
+    "image": "https://raw.githubusercontent.com/headroomlabs-ai/headroom/main/HeadroomDemo-Fast.gif",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "claude-code",
+      "compression",
+      "context-engineering",
+      "context-window",
+      "cursor",
+      "fastapi",
+      "langchain",
+      "llm",
+      "mcp",
+      "openai",
+      "prompt-engineering",
+      "proxy",
+      "python",
+      "rag",
+      "token-optimization",
+      "tokens",
+      "typescript"
+    ],
+    "created_at": "2026-01-07T19:58:51Z"
   }
 }
