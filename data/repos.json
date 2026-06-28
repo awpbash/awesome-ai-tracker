@@ -3915,5 +3915,47 @@
       "youtube-transcript"
     ],
     "created_at": "2026-02-24T02:10:24Z"
+  },
+  "anomalyco/opencode": {
+    "first_seen": "2026-06-28",
+    "stars": 180025,
+    "summary": "OpenCode is an open source AI coding agent that automates writing and debugging code for you, eliminating tedious manual development work. With seamless installation across all major platforms and a sleek desktop app, it's the perfect tool to supercharge your development workflow and ship features faster.",
+    "image": "https://raw.githubusercontent.com/anomalyco/opencode/main/packages/web/src/assets/lander/screenshot.png",
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-04-30T20:08:00Z"
+  },
+  "Fission-AI/OpenSpec": {
+    "first_seen": "2026-06-28",
+    "stars": 57320,
+    "summary": "OpenSpec is an AI-powered spec framework that transforms how you plan and build features—turning vague ideas into structured, implementable specs with just a command. It's built for real projects (brownfield and greenfield alike), scales from solo work to enterprises, and keeps your development fluid, iterative, and actually enjoyable instead of bogged down in rigid processes.",
+    "image": "https://raw.githubusercontent.com/Fission-AI/OpenSpec/main/assets/openspec_bg.png",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "context-engineering",
+      "engineering",
+      "planning",
+      "prd",
+      "sdd",
+      "sdlc",
+      "spec",
+      "spec-driven-development",
+      "specification"
+    ],
+    "created_at": "2025-08-05T10:37:45Z"
+  },
+  "luongnv89/claude-howto": {
+    "first_seen": "2026-06-28",
+    "stars": 38764,
+    "summary": "# Claude How To\n\nA comprehensive, example-driven guide that takes you from Claude Code basics to building production-ready agent systems with tutorials, copy-paste templates, and a clear learning roadmap. Master slash commands, hooks, skills, MCP servers, and subagents in a weekend instead of getting lost in scattered documentation.",
+    "image": "https://api.star-history.com/svg?repos=luongnv89/claude-howto&type=Date",
+    "language": "Python",
+    "topics": [
+      "claude-code",
+      "guide",
+      "tutorial"
+    ],
+    "created_at": "2025-11-07T22:59:34Z"
   }
 }
