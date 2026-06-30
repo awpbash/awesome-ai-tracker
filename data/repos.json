@@ -3957,5 +3957,25 @@
       "tutorial"
     ],
     "created_at": "2025-11-07T22:59:34Z"
+  },
+  "microsoft/AI-For-Beginners": {
+    "first_seen": "2026-06-30",
+    "stars": 48831,
+    "summary": "Learn AI from the ground up with Microsoft's 12-week curriculum that breaks down artificial intelligence into digestible lessons, hands-on labs, and practical projects using tools like TensorFlow and PyTorch. Whether you're brand new to the field or looking to build a solid foundation, this comprehensive guide covers everything from core concepts to ethics, all available in 40+ languages so learners worldwide can dive in.",
+    "image": "https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "gan",
+      "machine-learning",
+      "microsoft-for-beginners",
+      "nlp",
+      "rnn"
+    ],
+    "created_at": "2021-03-03T16:27:36Z"
   }
 }
