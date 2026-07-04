@@ -3977,5 +3977,76 @@
       "rnn"
     ],
     "created_at": "2021-03-03T16:27:36Z"
+  },
+  "supabase/supabase": {
+    "first_seen": "2026-07-04",
+    "stars": 105642,
+    "summary": "Supabase is an open-source Firebase alternative that gives you a hosted PostgreSQL database with auto-generated REST/GraphQL APIs, real-time subscriptions, authentication, and edge functions—all the backend tools you need without vendor lock-in. Get started instantly with a managed platform or self-host it yourself, and join a thriving community of developers building production apps on proven, enterprise-grade open-source tools.",
+    "image": "https://raw.githubusercontent.com/supabase/supabase/master/apps/www/public/images/github/supabase-dashboard.png",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "alternative",
+      "auth",
+      "database",
+      "deno",
+      "embeddings",
+      "example",
+      "firebase",
+      "nextjs",
+      "oauth2",
+      "pgvector",
+      "postgis",
+      "postgres",
+      "postgresql",
+      "postgrest",
+      "realtime",
+      "supabase",
+      "vectors",
+      "websockets"
+    ],
+    "created_at": "2019-10-12T05:56:49Z"
+  },
+  "ansible/ansible": {
+    "first_seen": "2026-07-04",
+    "stars": 69275,
+    "summary": "Ansible is a radically simple, agentless IT automation system that handles everything from configuration management and deployment to cloud provisioning and orchestration—all without requiring custom agents or complex setup. It's the easiest way to automate infrastructure at scale using human-friendly YAML playbooks and plain SSH, whether you're managing servers, applications, or networks.",
+    "image": "https://dev.azure.com/ansible/ansible/_apis/build/status/CI?branchName=devel",
+    "language": "Python",
+    "topics": [
+      "ansible",
+      "python"
+    ],
+    "created_at": "2012-03-06T14:58:02Z"
+  },
+  "usestrix/strix": {
+    "first_seen": "2026-07-04",
+    "stars": 35345,
+    "summary": "Strix is an open-source AI pentesting tool that deploys autonomous AI agents to dynamically test your applications, find real vulnerabilities with proof-of-concept exploits, and integrate seamlessly into your CI/CD pipeline. Skip the false positives of static analysis and the weeks-long wait for manual pentesting—get actionable security insights in hours with developer-friendly remediation guidance.",
+    "image": "https://github.com/usestrix/.github/raw/main/imgs/cover.png",
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai-hacking",
+      "ai-penetration-testing",
+      "ai-pentesting",
+      "ai-security",
+      "artificial-intelligence",
+      "bug-bounty",
+      "code-quality",
+      "ctf-tools",
+      "cybersecurity",
+      "cybersecurity-tools",
+      "ethical-hacking",
+      "hacking",
+      "llm-security",
+      "offensive-security",
+      "penetration-testing",
+      "pentesting-tools",
+      "red-teaming",
+      "security",
+      "security-automation"
+    ],
+    "created_at": "2025-08-05T21:28:30Z"
   }
 }
