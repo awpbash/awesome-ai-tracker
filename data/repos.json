@@ -4048,5 +4048,26 @@
       "security-automation"
     ],
     "created_at": "2025-08-05T21:28:30Z"
+  },
+  "Graphify-Labs/graphify": {
+    "first_seen": "2026-07-05",
+    "stars": 77835,
+    "summary": "Graphify transforms your entire codebase and documentation into an intelligent knowledge graph that AI coding assistants can query in seconds, eliminating the need to manually search through files or provide context. It works seamlessly across all major AI coding tools like Claude, Cursor, and GitHub Copilot, making it effortless to give your AI assistant complete project understanding with just `/graphify .`",
+    "image": "https://api.star-history.com/svg?repos=safishamsi/graphify&type=Date",
+    "language": "Python",
+    "topics": [
+      "antigravity",
+      "claude-code",
+      "codex",
+      "gemini",
+      "graphrag",
+      "knowledge-graph",
+      "leiden",
+      "openclaw",
+      "rag",
+      "skills",
+      "tree-sitter"
+    ],
+    "created_at": "2026-04-03T15:49:07Z"
   }
 }
