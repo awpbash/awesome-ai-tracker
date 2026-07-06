@@ -4069,5 +4069,28 @@
       "tree-sitter"
     ],
     "created_at": "2026-04-03T15:49:07Z"
+  },
+  "Leonxlnx/taste-skill": {
+    "first_seen": "2026-07-06",
+    "stars": 58310,
+    "summary": "Taste Skill is a framework that helps AI agents generate beautiful, thoughtfully-designed frontends instead of generic-looking UIs by providing portable design skills for layout, typography, motion, and spacing. It works seamlessly with your favorite AI coding tools like ChatGPT, Cursor, and Claude, making it easy to level up from AI-generated boilerplate to genuinely polished interfaces.",
+    "image": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/assets/readme-banner.webp",
+    "language": "JavaScript",
+    "topics": [
+      "agent",
+      "ai",
+      "claude",
+      "claude-code",
+      "codex",
+      "coding",
+      "design",
+      "frontend",
+      "lowcode",
+      "nocode",
+      "skill",
+      "skills",
+      "vibecoding"
+    ],
+    "created_at": "2026-02-19T21:44:05Z"
   }
 }
