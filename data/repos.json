@@ -4092,5 +4092,18 @@
       "vibecoding"
     ],
     "created_at": "2026-02-19T21:44:05Z"
+  },
+  "zylon-ai/private-gpt": {
+    "first_seen": "2026-07-08",
+    "stars": 57325,
+    "summary": "PrivateGPT is an open-source API layer that transforms local language models into production-ready AI applications with built-in support for RAG, file ingestion, tool use, and more—all while keeping your data private and offline. If you want to build powerful AI products without relying on cloud APIs or rebuilding backend infrastructure from scratch, PrivateGPT gives you a Claude API-compatible foundation that works with any OpenAI-compatible inference server.",
+    "image": "https://raw.githubusercontent.com/zylon-ai/private-gpt/main/./fern/docs/assets/privategpt_banner.png",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-tools",
+      "on-premise"
+    ],
+    "created_at": "2023-05-02T09:15:31Z"
   }
 }
