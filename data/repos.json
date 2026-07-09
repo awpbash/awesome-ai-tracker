@@ -4105,5 +4105,45 @@
       "on-premise"
     ],
     "created_at": "2023-05-02T09:15:31Z"
+  },
+  "VoltAgent/awesome-design-md": {
+    "first_seen": "2026-07-09",
+    "stars": 98923,
+    "summary": "This curated collection of DESIGN.md files gives you ready-to-use design systems extracted from real developer-focused websites, so you can instantly tell AI agents exactly how your UI should look and generate consistent, high-quality interfaces without manual design specs. It's the bridge between beautiful design and AI-powered development — just drop a markdown file into your project and let your coding agent handle the rest.",
+    "image": "https://cdn.voltagent.dev/awesome-repo/launchkit-banner-3.png",
+    "language": "",
+    "topics": [
+      "awesome-list",
+      "design-md",
+      "design-system",
+      "design-tokens",
+      "figma",
+      "google-stitch",
+      "landing-page",
+      "vibe-coding",
+      "vibe-design",
+      "vibecoding"
+    ],
+    "created_at": "2026-03-31T16:37:01Z"
+  },
+  "DietrichGebert/ponytail": {
+    "first_seen": "2026-07-09",
+    "stars": 78581,
+    "summary": "Ponytail is a skill that makes AI agents write dramatically less code—up to 94% fewer lines on overbuilt features—by teaching them to leverage built-in browser and framework capabilities instead of over-engineering solutions. It's 20% cheaper, 27% faster, and keeps all safety guardrails intact, letting your agent think like that lazy senior dev who always knows the simplest way to solve the problem.",
+    "image": "https://raw.githubusercontent.com/DietrichGebert/ponytail/main/assets/logo.png",
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ],
+    "created_at": "2026-06-12T00:52:37Z"
   }
 }
