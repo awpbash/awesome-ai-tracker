@@ -4145,5 +4145,35 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37Z"
+  },
+  "sickn33/agentic-awesome-skills": {
+    "first_seen": "2026-07-10",
+    "stars": 42769,
+    "summary": "Agentic Awesome Skills is a massive, searchable library of 1,943+ reusable skill playbooks designed to supercharge AI coding assistants like Claude Code, Cursor, and Gemini CLI with structured instructions, better context, and clearer outputs for everything from coding and debugging to security reviews and infrastructure tasks. Install it in seconds with npm and instantly unlock a curated catalog of workflows and bundles that help your AI agents work smarter on recurring tasks—no more hunting for the right prompt or starting from scratch every time.",
+    "image": "https://raw.githubusercontent.com/sickn33/agentic-awesome-skills/main/apps/web-app/public/social-card.png",
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "agentic-skills",
+      "ai-agent-skills",
+      "ai-agents",
+      "ai-coding",
+      "ai-workflows",
+      "antigravity",
+      "antigravity-skills",
+      "claude-code",
+      "claude-code-skills",
+      "codex-cli",
+      "codex-skills",
+      "cursor",
+      "cursor-skills",
+      "developer-tools",
+      "gemini-cli",
+      "gemini-skills",
+      "kiro",
+      "mcp",
+      "skill-library"
+    ],
+    "created_at": "2026-01-14T17:48:09Z"
   }
 }
