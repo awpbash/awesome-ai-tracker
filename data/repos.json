@@ -4175,5 +4175,14 @@
       "skill-library"
     ],
     "created_at": "2026-01-14T17:48:09Z"
+  },
+  "tinyhumansai/openhuman": {
+    "first_seen": "2026-07-11",
+    "stars": 34629,
+    "summary": "OpenHuman is a local-first AI assistant that acts as your personal super intelligence—remembering everything, orchestrating complex tasks, and conducting deep research all while keeping your data private on your machine. It's the perfect foundation for developers who want to build powerful AI applications without relying on external APIs or sacrificing user privacy.",
+    "image": "https://raw.githubusercontent.com/tinyhumansai/openhuman/main/./gitbooks/.gitbook/assets/demo.png",
+    "language": "Rust",
+    "topics": [],
+    "created_at": "2026-02-18T20:01:27Z"
   }
 }
