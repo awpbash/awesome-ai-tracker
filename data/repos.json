@@ -4204,5 +4204,18 @@
       "slides"
     ],
     "created_at": "2025-12-10T06:54:33Z"
+  },
+  "coreyhaines31/marketingskills": {
+    "first_seen": "2026-07-13",
+    "stars": 38054,
+    "summary": "If you're a technical marketer or founder who wants AI agents to handle conversion optimization, copywriting, SEO, and growth tasks without leaving your code editor, this is the plug-and-play skill library you've been waiting for. It works seamlessly with Claude, OpenAI, Cursor, and other AI agents, giving them the marketing frameworks and best practices they need to actually move the needle on your business.",
+    "image": "https://opengraph.githubassets.com/1/coreyhaines31/marketingskills",
+    "language": "JavaScript",
+    "topics": [
+      "claude",
+      "codex",
+      "marketing"
+    ],
+    "created_at": "2026-01-15T19:45:23Z"
   }
 }
