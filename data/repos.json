@@ -4217,5 +4217,21 @@
       "marketing"
     ],
     "created_at": "2026-01-15T19:45:23Z"
+  },
+  "openinterpreter/openinterpreter": {
+    "first_seen": "2026-07-16",
+    "stars": 65740,
+    "summary": "Open Interpreter is a coding agent that lets AI models execute commands and interact with your computer directly, optimized to work great with affordable models while keeping everything sandboxed locally for safety. Whether you need to automate tasks, test web apps, or give AI real-world capabilities, it's a powerful tool that runs right in your terminal with support for multiple AI providers and models.",
+    "image": "https://openinterpreter.com/blog/open-interpreter/blog-hero-1.jpg",
+    "language": "Rust",
+    "topics": [
+      "acp",
+      "coding-agent",
+      "deepseek",
+      "kimi",
+      "qwen",
+      "rust"
+    ],
+    "created_at": "2023-07-14T07:10:44Z"
   }
 }
