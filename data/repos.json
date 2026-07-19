@@ -4233,5 +4233,35 @@
       "rust"
     ],
     "created_at": "2023-07-14T07:10:44Z"
+  },
+  "rohitg00/ai-engineering-from-scratch": {
+    "first_seen": "2026-07-19",
+    "stars": 39298,
+    "summary": "This is a comprehensive, from-first-principles AI engineering curriculum with 503 lessons across 20 phases that teaches you to build AI systems from raw math through to production agents—no skipping steps, no magic boxes, just you and Python, TypeScript, Rust, or Julia. Whether you're drowning in scattered tutorials or tired of using AI tools you don't really understand, this free open-source program turns you into an engineer who can explain what's happening under the hood and ship production-ready code.",
+    "image": "https://api.star-history.com/svg?repos=rohitg00/ai-engineering-from-scratch&type=Date",
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "computer-vision",
+      "course",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "nlp",
+      "python",
+      "reinforcement-learning",
+      "rust",
+      "swarm-intelligence",
+      "transformers",
+      "tutorial",
+      "typescript"
+    ],
+    "created_at": "2026-03-18T18:38:02Z"
   }
 }
