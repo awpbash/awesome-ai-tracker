@@ -4263,5 +4263,23 @@
       "typescript"
     ],
     "created_at": "2026-03-18T18:38:02Z"
+  },
+  "jamiepine/voicebox": {
+    "first_seen": "2026-07-20",
+    "stars": 43776,
+    "summary": "Voicebox is a powerful open-source AI voice studio that lets you clone voices, generate speech in 23 languages, and dictate into any app—all running locally on your machine for complete privacy. Whether you're building AI agents, creating podcasts, or just want control over your voice I/O without relying on cloud services, Voicebox gives you the full toolkit in one beautifully designed app.",
+    "image": "https://raw.githubusercontent.com/jamiepine/voicebox/main/landing/public/assets/app-screenshot-1.webp",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "cuda",
+      "mlx",
+      "qwen3-tts",
+      "qwen3-tts-ui",
+      "voice-ai",
+      "voice-clone",
+      "whisper"
+    ],
+    "created_at": "2026-01-25T12:27:03Z"
   }
 }
