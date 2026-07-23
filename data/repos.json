@@ -4281,5 +4281,32 @@
       "whisper"
     ],
     "created_at": "2026-01-25T12:27:03Z"
+  },
+  "ComposioHQ/awesome-claude-skills": {
+    "first_seen": "2026-07-23",
+    "stars": 69072,
+    "summary": "Discover 1000+ production-ready Claude Skills that transform Claude from a text generator into an action-taker—sending emails, creating issues, posting to Slack, and automating tasks across 500+ apps. Whether you're building with Claude, Cursor, or other coding agents, this curated collection helps you unlock real-world productivity gains beyond conversation.",
+    "image": "https://github.com/user-attachments/assets/e91255af-e4ba-4d71-b1a8-bd081e8a234a",
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "antigravity",
+      "automation",
+      "claude",
+      "claude-code",
+      "codex",
+      "composio",
+      "cursor",
+      "developer-tools",
+      "gemini-cli",
+      "mcp",
+      "openai-codex",
+      "rube",
+      "saas",
+      "skill",
+      "workflow-automation"
+    ],
+    "created_at": "2025-10-17T07:15:01Z"
   }
 }
