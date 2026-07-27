@@ -4308,5 +4308,14 @@
       "workflow-automation"
     ],
     "created_at": "2025-10-17T07:15:01Z"
+  },
+  "pbakaus/impeccable": {
+    "first_seen": "2026-07-27",
+    "stars": 51075,
+    "summary": "Impeccable is a comprehensive design skill for AI coding agents that solves the problem of AI-generated frontends looking generic and formulaic by providing 23 purpose-built commands, deterministic quality rules, and design context management. It's perfect for developers working with AI tools who want consistent, polished, distinctive designs without the repetitive purple gradients and cookie-cutter layouts that plague AI-generated UIs.",
+    "image": "https://opengraph.githubassets.com/1/pbakaus/impeccable",
+    "language": "JavaScript",
+    "topics": [],
+    "created_at": "2025-11-16T01:52:04Z"
   }
 }
