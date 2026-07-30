@@ -4317,5 +4317,26 @@
     "language": "JavaScript",
     "topics": [],
     "created_at": "2025-11-16T01:52:04Z"
+  },
+  "heygen-com/hyperframes": {
+    "first_seen": "2026-07-30",
+    "stars": 38735,
+    "summary": "HyperFrames transforms HTML, CSS, and animations into production-ready MP4 videos with a framework built specifically for AI agents to generate dynamic video content programmatically. Whether you're building with Claude, Cursor, or other coding agents, it eliminates the complexity of video rendering by letting you describe what you want and get deterministic, seekable videos back instantly.",
+    "image": "https://raw.githubusercontent.com/heygen-com/hyperframes/main/docs/public/images/hyperframes-logo-motion-1280-trimmed.webp",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "animation",
+      "ffmpeg",
+      "framework",
+      "gsap",
+      "html",
+      "mcp",
+      "puppeteer",
+      "rendering",
+      "typescript",
+      "video"
+    ],
+    "created_at": "2026-03-10T01:51:06Z"
   }
 }
