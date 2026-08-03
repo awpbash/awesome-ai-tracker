@@ -4338,5 +4338,14 @@
       "video"
     ],
     "created_at": "2026-03-10T01:51:06Z"
+  },
+  "Alishahryar1/free-claude-code": {
+    "first_seen": "2026-08-03",
+    "stars": 43819,
+    "summary": "Use Claude Code, Codex, Pi, and other coding agents through a local proxy that lets you freely switch between 31+ cloud and local AI providers from one intuitive admin UI. It's the ultimate gateway for developers who want flexibility, cost control, and the power to route different coding tasks to the best available model without vendor lock-in.",
+    "image": "https://raw.githubusercontent.com/Alishahryar1/free-claude-code/main/assets/pic.png",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2026-01-28T19:02:30Z"
   }
 }
