@@ -4347,5 +4347,35 @@
     "language": "Python",
     "topics": [],
     "created_at": "2026-01-28T19:02:30Z"
+  },
+  "DeusData/codebase-memory-mcp": {
+    "first_seen": "2026-08-05",
+    "stars": 37553,
+    "summary": "Tired of AI agents stumbling through your codebase file-by-file and burning tokens? Codebase-Memory is a lightning-fast code intelligence engine that indexes even massive repositories in minutes, then answers structural queries about functions, classes, and call chains in under 1ms — all locally, all in a single static binary. Plug it into your favorite AI coding agent and watch it understand your codebase 10× faster with 83% better answer quality.",
+    "image": "https://raw.githubusercontent.com/DeusData/codebase-memory-mcp/main/docs/graph-ui-screenshot.png",
+    "language": "C",
+    "topics": [
+      "aider",
+      "ast",
+      "claude-code",
+      "code-analysis",
+      "code-intelligence",
+      "codex",
+      "cursor",
+      "cypher",
+      "developer-tools",
+      "gemini-cli",
+      "graph-visualization",
+      "kilocode",
+      "knowledge-graph",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "opencode",
+      "sqlite",
+      "tree-sitter",
+      "windsurf"
+    ],
+    "created_at": "2026-02-24T22:01:00Z"
   }
 }

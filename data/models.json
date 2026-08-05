@@ -6,7 +6,7 @@
       "company": "Qwen (Alibaba)",
       "last_modified": "2026-07-22T11:58:47.000Z",
       "downloads": 158717,
-      "likes": 50,
+      "likes": 51,
       "pipeline_tag": "automatic-speech-recognition",
       "tags": [
         "transformers",
@@ -60,7 +60,7 @@
       "company": "Qwen (Alibaba)",
       "last_modified": "2026-07-22T11:58:31.000Z",
       "downloads": 92671,
-      "likes": 49,
+      "likes": 51,
       "pipeline_tag": "automatic-speech-recognition",
       "tags": [
         "transformers",
@@ -146,7 +146,7 @@
       "company": "Qwen (Alibaba)",
       "last_modified": "2026-06-25T07:24:16.000Z",
       "downloads": 86761,
-      "likes": 659,
+      "likes": 664,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -225,8 +225,8 @@
         "transformers.js",
         "license:apache-2.0",
         "endpoints_compatible",
-        "region:us",
-        "deploy:sagemaker"
+        "deploy:sagemaker",
+        "region:us"
       ],
       "capabilities": []
     },
@@ -236,7 +236,7 @@
       "company": "OpenAI",
       "last_modified": "2026-01-14T18:38:05.000Z",
       "downloads": 102568,
-      "likes": 244,
+      "likes": 245,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -316,7 +316,7 @@
       "company": "OpenAI",
       "last_modified": "2025-08-26T17:25:47.000Z",
       "downloads": 8616555,
-      "likes": 4873,
+      "likes": 4878,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -347,7 +347,7 @@
       "company": "Google (Gemini)",
       "last_modified": "2026-07-28T03:38:30.000Z",
       "downloads": 1824,
-      "likes": 25,
+      "likes": 26,
       "pipeline_tag": "zero-shot-image-classification",
       "tags": [
         "transformers",
@@ -618,7 +618,7 @@
       "company": "Meta",
       "last_modified": "2025-06-18T23:49:51.000Z",
       "downloads": 1805965,
-      "likes": 4785,
+      "likes": 4793,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -777,7 +777,7 @@
       "company": "DeepSeek",
       "last_modified": "2026-08-01T03:07:41.000Z",
       "downloads": 433284,
-      "likes": 2172,
+      "likes": 2403,
       "pipeline_tag": "text-generation",
       "tags": [
         "transformers",
@@ -791,6 +791,7 @@
         "endpoints_compatible",
         "8-bit",
         "fp8",
+        "deploy:azure",
         "region:us"
       ],
       "capabilities": [
@@ -881,6 +882,41 @@
     }
   ],
   "Mistral": [
+    {
+      "model_id": "mistralai/Shieldstral-1.0-3B",
+      "author": "mistralai",
+      "company": "Mistral",
+      "last_modified": "2026-08-05T10:06:52.000Z",
+      "downloads": 166,
+      "likes": 86,
+      "pipeline_tag": "",
+      "tags": [
+        "vllm",
+        "safetensors",
+        "mistral3",
+        "mistral-common",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "pt",
+        "nl",
+        "zh",
+        "ja",
+        "ko",
+        "ar",
+        "ru",
+        "arxiv:2607.25857",
+        "base_model:mistralai/Ministral-3-3B-Base-2512",
+        "base_model:finetune:mistralai/Ministral-3-3B-Base-2512",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "capabilities": [
+        "Multilingual"
+      ]
+    },
     {
       "model_id": "mistralai/Leanstral-1.5-119B-A6B",
       "author": "mistralai",
@@ -1028,51 +1064,6 @@
         "fp8",
         "region:us",
         "deploy:azure"
-      ],
-      "capabilities": [
-        "Multilingual"
-      ]
-    },
-    {
-      "model_id": "mistralai/Mistral-Medium-3.5-128B",
-      "author": "mistralai",
-      "company": "Mistral",
-      "last_modified": "2026-07-15T12:23:17.000Z",
-      "downloads": 107147,
-      "likes": 416,
-      "pipeline_tag": "",
-      "tags": [
-        "safetensors",
-        "mistral3",
-        "vLLM",
-        "en",
-        "fr",
-        "de",
-        "es",
-        "pt",
-        "it",
-        "ja",
-        "ko",
-        "ru",
-        "zh",
-        "ar",
-        "fa",
-        "id",
-        "ms",
-        "ne",
-        "pl",
-        "ro",
-        "sr",
-        "sv",
-        "tr",
-        "uk",
-        "vi",
-        "hi",
-        "bn",
-        "license:other",
-        "eval-results",
-        "fp8",
-        "region:us"
       ],
       "capabilities": [
         "Multilingual"
