@@ -4407,5 +4407,28 @@
       "token-saver"
     ],
     "created_at": "2026-02-13T12:38:31Z"
+  },
+  "bojieli/ai-agent-book": {
+    "first_seen": "2026-08-08",
+    "stars": 34489,
+    "summary": "# Summary for Awesome List\n\nThis comprehensive open-source book demystifies AI Agents through the core formula \"Agent = LLM + Context + Tools,\" delivering 10 chapters of theory and practical engineering guidance with 95 hands-on experiments you can run yourself. Whether you're building intelligent systems or want to understand how modern AI agents work under the hood, this resource cuts through the hype and gives you the knowledge and code to ship production-ready agents.",
+    "image": "https://raw.githubusercontent.com/bojieli/ai-agent-book/main/assets/star-history-light.png",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agent-memory",
+      "ai-agent",
+      "book",
+      "coding-agent",
+      "context-engineering",
+      "large-language-models",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "multimodal",
+      "rag",
+      "reinforcement-learning"
+    ],
+    "created_at": "2025-09-09T02:41:44Z"
   }
 }
