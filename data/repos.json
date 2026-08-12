@@ -4439,5 +4439,62 @@
     "language": "TypeScript",
     "topics": [],
     "created_at": "2026-03-02T15:01:51Z"
+  },
+  "calesthio/OpenMontage": {
+    "first_seen": "2026-08-12",
+    "stars": 47626,
+    "summary": "OpenMontage is the first open-source AI agent built for end-to-end video production—just describe what you want and watch it handle research, scripting, asset generation, editing, and composition automatically. Whether you're a creator tired of manual editing or a developer wanting to build video workflows, this gives you a powerful, hackable foundation to turn ideas into polished videos with a single prompt.",
+    "image": "https://raw.githubusercontent.com/calesthio/OpenMontage/main/assets/sponsors/bloome.png",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "claude",
+      "copilot",
+      "cursor",
+      "elevenlabs",
+      "ffmpeg",
+      "flux",
+      "image-generation",
+      "open-source",
+      "openai",
+      "python",
+      "remotion",
+      "stable-diffusion",
+      "text-to-speech",
+      "text-to-video",
+      "video-generation",
+      "video-production"
+    ],
+    "created_at": "2026-03-29T15:23:22Z"
+  },
+  "stablyai/orca": {
+    "first_seen": "2026-08-12",
+    "stars": 43228,
+    "summary": "Orca is an AI orchestrator that lets you run multiple AI agents (like Claude, GPT, and others) side-by-side in isolated git worktrees, compare their outputs, and control everything from a sleek desktop app or mobile companion. Perfect for developers who want to 10x their productivity by letting different AI models collaborate on the same problem while you pick the best solution.",
+    "image": "https://raw.githubusercontent.com/stablyai/orca/main/docs/assets/readme-hero.jpg",
+    "language": "TypeScript",
+    "topics": [
+      "ade",
+      "agent-ide",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "cursor-agent",
+      "devtools",
+      "ghostty",
+      "ide",
+      "mobile-app",
+      "opencode",
+      "orchestration",
+      "parallel-agents",
+      "pi",
+      "terminal",
+      "worktrees",
+      "yc-backed"
+    ],
+    "created_at": "2026-03-17T03:28:57Z"
   }
 }

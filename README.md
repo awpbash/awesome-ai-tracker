@@ -4,7 +4,7 @@
 
 **A daily-updated, auto-curated awesome list of the hottest AI/ML repos on GitHub.**
 
-![Last Update](https://img.shields.io/badge/last_update-2026--08--11-brightgreen?style=flat-square)
+![Last Update](https://img.shields.io/badge/last_update-2026--08--12-brightgreen?style=flat-square)
 ![AI Powered](https://img.shields.io/badge/summaries-Claude_Haiku-blueviolet?style=flat-square)
 ![Automation](https://img.shields.io/badge/updates-daily_via_Actions-orange?style=flat-square)
 
@@ -28,12 +28,14 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 ---
 
-## 🔥 Today's Top Picks (2026-08-11)
+## 🔥 Today's Top Picks (2026-08-12)
 
-- <a href="https://github.com/paperclipai/paperclip"><img src="https://raw.githubusercontent.com/paperclipai/paperclip/main/doc/assets/banner.jpg" width="70" align="left" alt="paperclipai/paperclip" /></a> **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⭐ 76.8k `TypeScript` · 📅 2026-03-02<br/>Paperclip is an open-source orchestration platform that turns multiple AI agents into a coordinated team working toward shared business goals, complete with budgets, governance, and real-time dashboards to manage your autonomous workforce. If you're juggling multiple AI agents (Claude, OpenClaw, Cursor, etc.) and need a unified way to assign tasks, monitor costs, and track progress without losing your mind, this is the management layer you've been looking for.
+- <a href="https://github.com/calesthio/OpenMontage"><img src="https://raw.githubusercontent.com/calesthio/OpenMontage/main/assets/sponsors/bloome.png" width="70" align="left" alt="calesthio/OpenMontage" /></a> **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** ⭐ 47.6k `Python` · 📅 2026-03-29<br/>OpenMontage is the first open-source AI agent built for end-to-end video production—just describe what you want and watch it handle research, scripting, asset generation, editing, and composition automatically. Whether you're a creator tired of manual editing or a developer wanting to build video workflows, this gives you a powerful, hackable foundation to turn ideas into polished videos with a single prompt.
+
+- <a href="https://github.com/stablyai/orca"><img src="https://raw.githubusercontent.com/stablyai/orca/main/docs/assets/readme-hero.jpg" width="70" align="left" alt="stablyai/orca" /></a> **[stablyai/orca](https://github.com/stablyai/orca)** ⭐ 43.2k `TypeScript` · 📅 2026-03-17<br/>Orca is an AI orchestrator that lets you run multiple AI agents (like Claude, GPT, and others) side-by-side in isolated git worktrees, compare their outputs, and control everything from a sleek desktop app or mobile companion. Perfect for developers who want to 10x their productivity by letting different AI models collaborate on the same problem while you pick the best solution.
 
 
-> **[See all 1 repos →](daily/2026-08-11.md)**
+> **[See all 2 repos →](daily/2026-08-12.md)**
 
 ---
 
@@ -52,7 +54,7 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 | [Qwen3-ASR-0.6B-hf](https://huggingface.co/Qwen/Qwen3-ASR-0.6B-hf) | 146,706 | 54 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual · Audio |
 | [Qwen3-ASR-1.7B-hf](https://huggingface.co/Qwen/Qwen3-ASR-1.7B-hf) | 99,631 | 54 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual · Audio |
 | [Qwen3-ForcedAligner-0.6B-hf](https://huggingface.co/Qwen/Qwen3-ForcedAligner-0.6B-hf) | 65,217 | 19 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
-| [Qwen-AgentWorld-35B-A3B](https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B) | 66,831 | 667 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Qwen-AgentWorld-35B-A3B](https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B) | 66,831 | 670 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [Qwen-Image-Bench](https://huggingface.co/Qwen/Qwen-Image-Bench) | 21,639 | 85 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
 
 ### OpenAI
@@ -60,18 +62,18 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [privacy-filter](https://huggingface.co/openai/privacy-filter) | 448,927 | 1721 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [privacy-filter](https://huggingface.co/openai/privacy-filter) | 448,927 | 1722 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [gpt-oss-safeguard-20b](https://huggingface.co/openai/gpt-oss-safeguard-20b) | 100,632 | 248 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [circuit-sparsity](https://huggingface.co/openai/circuit-sparsity) | 273 | 208 | ✅ Text ✅ Code ➖ Vision ➖ Multilingual |
 | [gpt-oss-safeguard-120b](https://huggingface.co/openai/gpt-oss-safeguard-120b) | 5,873 | 100 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) | 7.9M | 4900 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) | 7.9M | 4905 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### Google (Gemini)
 > Latest: **tipsv2-g14**, **tipsv2-l14**, **tipsv2-b14**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [tipsv2-g14](https://huggingface.co/google/tipsv2-g14) | 1,408 | 26 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
+| [tipsv2-g14](https://huggingface.co/google/tipsv2-g14) | 1,408 | 27 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
 | [tipsv2-l14](https://huggingface.co/google/tipsv2-l14) | 8,648 | 20 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
 | [tipsv2-b14](https://huggingface.co/google/tipsv2-b14) | 161,650 | 117 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
 | [tipsv2-so400m14](https://huggingface.co/google/tipsv2-so400m14) | 242,236 | 18 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
@@ -93,20 +95,20 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M) | 4.1M | 387 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | 1.8M | 4808 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M) | 4.1M | 388 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | 1.8M | 4813 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) | 109,006 | 1522 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [Llama-4-Maverick-17B-128E-Instruct](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) | 28,396 | 504 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
-| [Llama-4-Maverick-17B-128E-Instruct-FP8](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) | 104,572 | 174 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
+| [Llama-4-Maverick-17B-128E-Instruct-FP8](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) | 104,572 | 175 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
 
 ### DeepSeek
 > Latest: **DeepSeek-V4-Flash-0731**, **DeepSeek-V4-Flash-DSpark**, **DeepSeek-V4-Pro-DSpark**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) | 1.0M | 3096 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [DeepSeek-V4-Flash-DSpark](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-DSpark) | 481,630 | 247 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [DeepSeek-V4-Pro-DSpark](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark) | 25,090 | 537 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) | 1.0M | 3188 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-V4-Flash-DSpark](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-DSpark) | 481,630 | 249 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-V4-Pro-DSpark](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark) | 25,090 | 538 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [eagle3_gemma4_12b_ttt7](https://huggingface.co/deepseek-ai/eagle3_gemma4_12b_ttt7) | 365 | 11 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [eagle3_qwen3_14b_ttt7](https://huggingface.co/deepseek-ai/eagle3_qwen3_14b_ttt7) | 256 | 2 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
@@ -115,7 +117,7 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Shieldstral-1.0-3B](https://huggingface.co/mistralai/Shieldstral-1.0-3B) | 6,769 | 225 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
+| [Shieldstral-1.0-3B](https://huggingface.co/mistralai/Shieldstral-1.0-3B) | 6,769 | 233 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
 | [Leanstral-1.5-119B-A6B](https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B) | 291 | 212 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [Mistral-Small-4-119B-2603-eagle](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603-eagle) | 3,065 | 57 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
 | [Mistral-Small-4-119B-2603-NVFP4](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603-NVFP4) | 3,971 | 111 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
@@ -126,6 +128,20 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 ---
 
 <!-- CHANGELOG -->
+<details>
+<summary><strong>📜 Full Changelog</strong> (click to expand)</summary>
+
+## 🔥 2026-08-12 — 2 new repos
+
+**📈 Trending Today**
+
+**🔌 Agent Skills & Plugins**
+- **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** ⭐ 47.6k · 📅 2026-03-29 — OpenMontage is the first open-source AI agent built for end-to-end video production—just describe what you want and...
+
+**🤝 Multi-Agent Orchestration**
+- **[stablyai/orca](https://github.com/stablyai/orca)** ⭐ 43.2k · 📅 2026-03-17 — Orca is an AI orchestrator that lets you run multiple AI agents (like Claude, GPT, and others) side-by-side in...
+
+> [Full details →](daily/2026-08-12.md)
 <details>
 <summary><strong>📜 Full Changelog</strong> (click to expand)</summary>
 
@@ -1960,6 +1976,17 @@ No new repos today.
 **How it works:** GitHub Actions runs daily → discovers trending + new repos → Claude Haiku writes summaries → auto-commits
 
 Made with ❤️ and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)
+
+</div>
+
+</details>
+---
+
+<div align="center">
+
+**How it works:** GitHub Actions runs daily → discovers trending + new repos → Claude Haiku writes summaries → auto-commits
+
+Made with Github Actions and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)
 
 </div>
 
