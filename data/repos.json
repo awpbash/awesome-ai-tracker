@@ -4496,5 +4496,19 @@
       "yc-backed"
     ],
     "created_at": "2026-03-17T03:28:57Z"
+  },
+  "localsend/localsend": {
+    "first_seen": "2026-08-13",
+    "stars": 88089,
+    "summary": "LocalSend is a fast, secure peer-to-peer file and message sharing app that works over local networks without requiring internet or cloud servers. It's perfect for developers and users who need a private, no-strings-attached way to transfer files between devices instantly.",
+    "image": "https://localsend.org/img/screenshot-iphone.webp",
+    "language": "Dart",
+    "topics": [
+      "dart",
+      "file-sharing",
+      "flutter",
+      "flutter-apps"
+    ],
+    "created_at": "2022-12-16T00:46:07Z"
   }
 }
