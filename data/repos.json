@@ -4549,5 +4549,24 @@
       "skills"
     ],
     "created_at": "2026-01-02T21:45:11Z"
+  },
+  "Wei-Shaw/sub2api": {
+    "first_seen": "2026-08-23",
+    "stars": 38906,
+    "summary": "Sub2API is an AI API gateway platform that lets you distribute subscription quotas across multiple AI providers, solving the headache of managing limits and costs when juggling Claude, OpenAI, and other APIs. Built with Go, Vue, and PostgreSQL, it's a production-ready solution that helps developers maximize efficiency and flexibility in their AI integrations—though be sure to review provider terms of service before use.",
+    "image": "https://raw.githubusercontent.com/Wei-Shaw/sub2api/main/assets/partners/logos/cctk.jpg",
+    "language": "Go",
+    "topics": [
+      "2api",
+      "antigravity2api",
+      "cc2api",
+      "claude",
+      "claude-code",
+      "codex",
+      "crs",
+      "crs2",
+      "gemini"
+    ],
+    "created_at": "2025-12-18T02:26:18Z"
   }
 }
