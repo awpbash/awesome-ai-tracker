@@ -4568,5 +4568,20 @@
       "gemini"
     ],
     "created_at": "2025-12-18T02:26:18Z"
+  },
+  "colinhacks/zod": {
+    "first_seen": "2026-08-30",
+    "stars": 43589,
+    "summary": "Zod is a TypeScript-first schema validation library that gives you rock-solid runtime type safety with zero dependencies and a tiny 2kb footprint. Stop worrying about untrusted data slipping through the cracks — define your schemas once and get automatic type inference plus bulletproof validation across your entire app!",
+    "image": "https://opengraph.githubassets.com/1/colinhacks/zod",
+    "language": "TypeScript",
+    "topics": [
+      "runtime-validation",
+      "schema-validation",
+      "static-types",
+      "type-inference",
+      "typescript"
+    ],
+    "created_at": "2020-03-07T20:59:08Z"
   }
 }
