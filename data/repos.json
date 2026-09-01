@@ -4583,5 +4583,80 @@
       "typescript"
     ],
     "created_at": "2020-03-07T20:59:08Z"
+  },
+  "Imbad0202/academic-research-skills": {
+    "first_seen": "2026-09-01",
+    "stars": 44597,
+    "summary": "# Summary\n\nAcademic Research Skills for Claude Code is your AI copilot for the entire research pipeline—from literature discovery and citation verification to manuscript structuring and logical consistency checks—letting you focus on the creative thinking that actually matters. It's built around human-in-the-loop integrity gates and citation auditing to catch hallucinations and methodological shortcuts, so you write better papers without compromising your credibility.",
+    "image": "https://opengraph.githubassets.com/1/Imbad0202/academic-research-skills",
+    "language": "Python",
+    "topics": [
+      "academic-pipeline",
+      "academic-writing",
+      "ai-research",
+      "claude",
+      "claude-code",
+      "literature-review",
+      "peer-review",
+      "prompt-engineering"
+    ],
+    "created_at": "2026-02-26T06:31:01Z"
+  },
+  "K-Dense-AI/scientific-agent-skills": {
+    "first_seen": "2026-09-01",
+    "stars": 41280,
+    "summary": "Scientific Agent Skills gives AI agents access to 163 specialized research capabilities and 100+ scientific databases, from genomics and drug discovery to literature retrieval and molecular modeling, letting you build intelligent research assistants that actually understand domain-specific science. Whether you're working with Claude, any open-source model, or other AI platforms, this standardized toolkit eliminates the friction of connecting agents to real scientific tools and data.",
+    "image": "https://opengraph.githubassets.com/1/K-Dense-AI/scientific-agent-skills",
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ],
+    "created_at": "2025-10-19T20:54:15Z"
+  },
+  "tt-a1i/archify": {
+    "first_seen": "2026-09-01",
+    "stars": 40993,
+    "summary": "Archify transforms AI-generated architecture descriptions into beautiful, interactive system diagrams that you can present, compare, and share—all in one self-contained HTML file with zero setup. It's built for agents like Claude and Cursor, letting you visualize your codebase or system design instantly while staying grounded in exact topology and revision history.",
+    "image": "https://raw.githubusercontent.com/tt-a1i/archify/main/docs/assets/archify-readme-hero.png",
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "architecture-as-code",
+      "architecture-diagram",
+      "claude-skill",
+      "code-visualization",
+      "codex",
+      "coding-agents",
+      "data-flow-diagram",
+      "deepseek-harness",
+      "developer-tools",
+      "diagram-as-code",
+      "diagrams",
+      "diagrams-as-code",
+      "dsh-plugin",
+      "mermaid-alternative",
+      "opencode",
+      "sequence-diagram",
+      "software-architecture",
+      "system-design",
+      "text-to-diagram"
+    ],
+    "created_at": "2026-04-15T05:27:37Z"
   }
 }
