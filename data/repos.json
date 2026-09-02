@@ -4658,5 +4658,35 @@
       "text-to-diagram"
     ],
     "created_at": "2026-04-15T05:27:37Z"
+  },
+  "career-ops-hq/career-ops": {
+    "first_seen": "2026-09-02",
+    "stars": 69847,
+    "summary": "Career-ops is an AI-powered multi-agent job search system that automates the grueling process of applying to jobs by intelligently filtering opportunities and generating personalized applications at scale. Born from the creator's own months-long job hunt, it flips the script on how job searching works—giving candidates AI superpowers to find their perfect role instead of hoping to survive company screening filters.",
+    "image": "https://raw.githubusercontent.com/career-ops-hq/career-ops/main/docs/hero-banner.jpg",
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "anthropic",
+      "ats",
+      "automation",
+      "beginner-friendly",
+      "career",
+      "careerops",
+      "claude",
+      "claude-code",
+      "cli",
+      "first-timers-only",
+      "golang",
+      "good-first-issue",
+      "interview-prep",
+      "job-application",
+      "job-hunting",
+      "job-search",
+      "open-source",
+      "resume"
+    ],
+    "created_at": "2026-04-04T18:21:18Z"
   }
 }

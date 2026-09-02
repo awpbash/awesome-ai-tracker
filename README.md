@@ -4,7 +4,7 @@
 
 **A daily-updated, auto-curated awesome list of the hottest AI/ML repos on GitHub.**
 
-![Last Update](https://img.shields.io/badge/last_update-2026--09--01-brightgreen?style=flat-square)
+![Last Update](https://img.shields.io/badge/last_update-2026--09--02-brightgreen?style=flat-square)
 ![AI Powered](https://img.shields.io/badge/summaries-Claude_Haiku-blueviolet?style=flat-square)
 ![Automation](https://img.shields.io/badge/updates-daily_via_Actions-orange?style=flat-square)
 
@@ -28,16 +28,12 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 ---
 
-## 🔥 Today's Top Picks (2026-09-01)
+## 🔥 Today's Top Picks (2026-09-02)
 
-- <a href="https://github.com/Imbad0202/academic-research-skills"><img src="https://opengraph.githubassets.com/1/Imbad0202/academic-research-skills" width="70" align="left" alt="Imbad0202/academic-research-skills" /></a> **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** ⭐ 44.6k `Python` · 📅 2026-02-26<br/># Summary  Academic Research Skills for Claude Code is your AI copilot for the entire research pipeline—from literature discovery and citation verification to manuscript structuring and logical consistency checks—letting you focus on the creative thinking that actually matters. It's built around human-in-the-loop integrity gates and citation auditing to catch hallucinations and methodological shortcuts, so you write better papers without compromising your credibility.
-
-- <a href="https://github.com/K-Dense-AI/scientific-agent-skills"><img src="https://opengraph.githubassets.com/1/K-Dense-AI/scientific-agent-skills" width="70" align="left" alt="K-Dense-AI/scientific-agent-skills" /></a> **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** ⭐ 41.3k `Python` · 📅 2025-10-19<br/>Scientific Agent Skills gives AI agents access to 163 specialized research capabilities and 100+ scientific databases, from genomics and drug discovery to literature retrieval and molecular modeling, letting you build intelligent research assistants that actually understand domain-specific science. Whether you're working with Claude, any open-source model, or other AI platforms, this standardized toolkit eliminates the friction of connecting agents to real scientific tools and data.
-
-- <a href="https://github.com/tt-a1i/archify"><img src="https://raw.githubusercontent.com/tt-a1i/archify/main/docs/assets/archify-readme-hero.png" width="70" align="left" alt="tt-a1i/archify" /></a> **[tt-a1i/archify](https://github.com/tt-a1i/archify)** ⭐ 41.0k `JavaScript` · 📅 2026-04-15<br/>Archify transforms AI-generated architecture descriptions into beautiful, interactive system diagrams that you can present, compare, and share—all in one self-contained HTML file with zero setup. It's built for agents like Claude and Cursor, letting you visualize your codebase or system design instantly while staying grounded in exact topology and revision history.
+- <a href="https://github.com/career-ops-hq/career-ops"><img src="https://raw.githubusercontent.com/career-ops-hq/career-ops/main/docs/hero-banner.jpg" width="70" align="left" alt="career-ops-hq/career-ops" /></a> **[career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)** ⭐ 69.8k `JavaScript` · 📅 2026-04-04<br/>Career-ops is an AI-powered multi-agent job search system that automates the grueling process of applying to jobs by intelligently filtering opportunities and generating personalized applications at scale. Born from the creator's own months-long job hunt, it flips the script on how job searching works—giving candidates AI superpowers to find their perfect role instead of hoping to survive company screening filters.
 
 
-> **[See all 3 repos →](daily/2026-09-01.md)**
+> **[See all 1 repos →](daily/2026-09-02.md)**
 
 ---
 
@@ -53,10 +49,10 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Qwen3.8-Flash-Next-FP8](https://huggingface.co/Qwen/Qwen3.8-Flash-Next-FP8) | 130,451 | 178 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) | 207,941 | 4580 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | 5.0M | 13526 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) | 5.5M | 742 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [Qwen3.8-Flash-Next-FP8](https://huggingface.co/Qwen/Qwen3.8-Flash-Next-FP8) | 130,451 | 183 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) | 207,941 | 4697 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | 5.0M | 13640 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) | 5.5M | 750 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
 | [Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) | 38,782 | 1189 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### OpenAI
@@ -64,22 +60,22 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [privacy-filter](https://huggingface.co/openai/privacy-filter) | 364,053 | 1738 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [privacy-filter](https://huggingface.co/openai/privacy-filter) | 364,053 | 1739 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [gpt-oss-safeguard-20b](https://huggingface.co/openai/gpt-oss-safeguard-20b) | 82,503 | 255 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [circuit-sparsity](https://huggingface.co/openai/circuit-sparsity) | 492 | 209 | ✅ Text ✅ Code ➖ Vision ➖ Multilingual |
 | [gpt-oss-safeguard-120b](https://huggingface.co/openai/gpt-oss-safeguard-120b) | 6,442 | 104 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) | 6.5M | 4974 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) | 6.5M | 4977 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### Google (Gemini)
 > Latest: **timesfm-3.0-pytorch**, **gemma-4**, **tipsv1-g14**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch) | 0 | 135 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gemma-4-12B-it-assistant](https://huggingface.co/google/gemma-4-12B-it-assistant) | 30,622 | 120 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch) | 0 | 259 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gemma-4-12B-it-assistant](https://huggingface.co/google/gemma-4-12B-it-assistant) | 30,622 | 121 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [tipsv1-g14](https://huggingface.co/google/tipsv1-g14) | 242 | 8 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
 | [tipsv1-g14-lowres](https://huggingface.co/google/tipsv1-g14-lowres) | 350 | 4 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
-| [tipsv1-l14](https://huggingface.co/google/tipsv1-l14) | 192 | 1 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
+| [tipsv1-l14](https://huggingface.co/google/tipsv1-l14) | 192 | 2 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
 
 ### ByteDance
 > Latest: **GRN**, **Lance**, **Valley3**
@@ -87,7 +83,7 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
 | [GRN](https://huggingface.co/bytedance-research/GRN) | 0 | 26 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Lance](https://huggingface.co/bytedance-research/Lance) | 385 | 1058 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Video · Image Gen |
+| [Lance](https://huggingface.co/bytedance-research/Lance) | 385 | 1059 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Video · Image Gen |
 | [Valley3-8B-Think](https://huggingface.co/bytedance-research/Valley3-8B-Think) | 417 | 8 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [Valley3-32B-Think](https://huggingface.co/bytedance-research/Valley3-32B-Think) | 31 | 2 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [Valley3-8B-Instruct](https://huggingface.co/bytedance-research/Valley3-8B-Instruct) | 19 | 4 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
@@ -97,9 +93,9 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M) | 4.5M | 395 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | 1.6M | 4881 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) | 69,575 | 1525 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M) | 4.4M | 395 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | 1.6M | 4888 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) | 66,694 | 1525 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [Llama-4-Maverick-17B-128E-Instruct](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) | 11,820 | 505 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
 | [Llama-4-Maverick-17B-128E-Instruct-FP8](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) | 75,210 | 176 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
 
@@ -108,10 +104,10 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) | 17,893 | 423 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [DeepSeek-V4-Pro-0813](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813) | 138,833 | 793 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) | 4.7M | 3846 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [DeepSeek-V4-Flash-DSpark](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-DSpark) | 440,953 | 267 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) | 17,893 | 478 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [DeepSeek-V4-Pro-0813](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813) | 138,833 | 794 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) | 4.7M | 3859 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-V4-Flash-DSpark](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-DSpark) | 440,953 | 268 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [DeepSeek-V4-Pro-DSpark](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark) | 4,075 | 541 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### Mistral
@@ -122,7 +118,7 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 | [Shieldstral-1.0-3B](https://huggingface.co/mistralai/Shieldstral-1.0-3B) | 21,235 | 264 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
 | [Leanstral-1.5-119B-A6B](https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B) | 212 | 216 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [Mistral-Small-4-119B-2603-eagle](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603-eagle) | 953 | 58 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
-| [Mistral-Small-4-119B-2603-NVFP4](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603-NVFP4) | 2,035 | 115 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
+| [Mistral-Small-4-119B-2603-NVFP4](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603-NVFP4) | 2,035 | 116 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
 | [Mistral-Small-4-119B-2603](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603) | 56,513 | 421 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
 
 </details>
@@ -130,6 +126,17 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 ---
 
 <!-- CHANGELOG -->
+<details>
+<summary><strong>📜 Full Changelog</strong> (click to expand)</summary>
+
+## 🔥 2026-09-02 — 1 new repos
+
+**📈 Trending Today**
+
+**🤝 Multi-Agent Orchestration**
+- **[career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)** ⭐ 69.8k · 📅 2026-04-04 — Career-ops is an AI-powered multi-agent job search system that automates the grueling process of applying to jobs by...
+
+> [Full details →](daily/2026-09-02.md)
 <details>
 <summary><strong>📜 Full Changelog</strong> (click to expand)</summary>
 
@@ -2162,6 +2169,17 @@ No new repos today.
 **How it works:** GitHub Actions runs daily → discovers trending + new repos → Claude Haiku writes summaries → auto-commits
 
 Made with ❤️ and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)
+
+</div>
+
+</details>
+---
+
+<div align="center">
+
+**How it works:** GitHub Actions runs daily → discovers trending + new repos → Claude Haiku writes summaries → auto-commits
+
+Made with Github Actions and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)
 
 </div>
 
