@@ -4688,5 +4688,22 @@
       "resume"
     ],
     "created_at": "2026-04-04T18:21:18Z"
+  },
+  "blader/humanizer": {
+    "first_seen": "2026-09-05",
+    "stars": 43093,
+    "summary": "Humanizer strips the telltale patterns of AI-generated text—like overused phrases, inflated language, and awkward constructions—while preserving your original meaning and facts, so your writing feels authentically human. It works as a Markdown skill with any agent, shows you its work step-by-step, and can even match your personal voice if you provide a writing sample.",
+    "image": "https://skills.sh/b/blader/humanizer",
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "claude-code",
+      "codex",
+      "cursor",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "created_at": "2026-01-18T05:30:15Z"
   }
 }
