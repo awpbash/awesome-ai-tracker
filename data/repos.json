@@ -4705,5 +4705,26 @@
       "writing-tools"
     ],
     "created_at": "2026-01-18T05:30:15Z"
+  },
+  "Hmbown/Codewhale": {
+    "first_seen": "2026-09-07",
+    "stars": 40920,
+    "summary": "Codewhale is a powerful AI coding agent that runs in your terminal, letting you chat with an intelligent assistant that can read your code, edit files, run commands, and work toward goals—all while staying in complete control. Built in Rust and designed to work with any AI model (local or hosted), it's the perfect companion for developers who want AI assistance without sacrificing autonomy or workflow.",
+    "image": "https://raw.githubusercontent.com/Hmbown/Codewhale/main/assets/screenshot.webp",
+    "language": "Rust",
+    "topics": [
+      "agent-orchestration",
+      "ai-agent",
+      "cli",
+      "coding-agent",
+      "local-first",
+      "mcp",
+      "multi-agent",
+      "multi-model",
+      "open-source",
+      "rust",
+      "tui"
+    ],
+    "created_at": "2026-01-19T18:21:01Z"
   }
 }
