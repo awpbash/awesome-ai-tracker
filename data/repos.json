@@ -4770,5 +4770,33 @@
       "workspace-manager"
     ],
     "created_at": "2026-03-27T17:54:33Z"
+  },
+  "sgl-project/sglang": {
+    "first_seen": "2026-09-12",
+    "stars": 35845,
+    "summary": "SGLang is a fast and extensible LLM inference framework that dramatically speeds up language model serving through innovative techniques like RadixAttention and speculative decoding, making it perfect for building production-ready AI applications. Whether you're deploying cutting-edge models or building complex agentic workflows, SGLang gives you the performance and flexibility to handle real-world demands efficiently.",
+    "image": "https://raw.githubusercontent.com/sgl-project/sglang/main/assets/logo.png",
+    "language": "Python",
+    "topics": [
+      "attention",
+      "blackwell",
+      "cuda",
+      "deepseek",
+      "diffusion",
+      "glm",
+      "gpt-oss",
+      "inference",
+      "llama",
+      "llm",
+      "minimax",
+      "moe",
+      "qwen",
+      "qwen-image",
+      "reinforcement-learning",
+      "transformer",
+      "vlm",
+      "wan"
+    ],
+    "created_at": "2024-01-08T04:15:52Z"
   }
 }
