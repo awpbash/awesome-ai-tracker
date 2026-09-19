@@ -4798,5 +4798,30 @@
       "wan"
     ],
     "created_at": "2024-01-08T04:15:52Z"
+  },
+  "docling-project/docling": {
+    "first_seen": "2026-09-19",
+    "stars": 66744,
+    "summary": "Docling is a powerful document processing library that handles PDFs, Word docs, images, audio, and 20+ other formats with advanced AI-powered understanding of layout, tables, formulas, and more. It's perfect for developers building RAG systems or AI agents who need reliable document parsing with seamless integrations into LangChain, LlamaIndex, and other popular frameworks.",
+    "image": "https://github.com/docling-project/docling/raw/main/docs/assets/docling_processing.png",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "convert",
+      "document-parser",
+      "document-parsing",
+      "documents",
+      "docx",
+      "html",
+      "markdown",
+      "pdf",
+      "pdf-converter",
+      "pdf-to-json",
+      "pdf-to-text",
+      "pptx",
+      "tables",
+      "xlsx"
+    ],
+    "created_at": "2024-07-09T07:50:26Z"
   }
 }
