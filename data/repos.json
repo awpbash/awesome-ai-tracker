@@ -4823,5 +4823,14 @@
       "xlsx"
     ],
     "created_at": "2024-07-09T07:50:26Z"
+  },
+  "anthropics/financial-services": {
+    "first_seen": "2026-09-24",
+    "stars": 37219,
+    "summary": "This repository brings Claude AI to the entire financial-services workflow—from pitch decks and equity research to fund administration and compliance—with pre-built agents you can deploy as a plugin or behind your own API in minutes. Whether you're building M&A models, preparing earnings reviews, or reconciling ledgers, these reference agents handle the heavy analytical lifting while keeping humans in control for the decisions that matter.",
+    "image": "https://opengraph.githubassets.com/1/anthropics/financial-services",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2026-02-23T19:24:50Z"
   }
 }
