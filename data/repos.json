@@ -4832,5 +4832,14 @@
     "language": "Python",
     "topics": [],
     "created_at": "2026-02-23T19:24:50Z"
+  },
+  "zhaoxuya520/reverse-skill": {
+    "first_seen": "2026-09-26",
+    "stars": 37734,
+    "summary": "reverse-skill is a structured routing system that guides AI agents and security professionals through complex reverse-engineering, pentesting, and CTF tasks by automatically selecting the right tools and methodologies instead of guessing. With 44+ routing rules, 45+ skill modules, and support for APKs, binaries, web encryption, and more, it transforms scattered tools and repeatable workflows into a reliable, reproducible process that learns from experience.",
+    "image": "https://raw.githubusercontent.com/zhaoxuya520/reverse-skill/main/reverse-skill.png",
+    "language": "PowerShell",
+    "topics": [],
+    "created_at": "2026-05-13T14:37:57Z"
   }
 }
