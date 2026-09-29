@@ -4914,5 +4914,19 @@
       "tutorial"
     ],
     "created_at": "2017-05-30T07:18:52Z"
+  },
+  "vectorize-io/hindsight": {
+    "first_seen": "2026-09-29",
+    "stars": 42218,
+    "summary": "# Hindsight\n\nHindsight is an agent memory system that helps AI agents learn and improve over time, not just recall conversation history, delivering state-of-the-art performance on long-term memory tasks with proven benchmark results that outperform RAG and knowledge graph approaches. Whether you're building conversational AI, coding agents, or autonomous systems, Hindsight makes it easy to add intelligent persistent memory with just a few lines of code and support for Python, JavaScript, and multiple integration platforms.",
+    "image": "https://raw.githubusercontent.com/vectorize-io/hindsight/main/./hindsight-docs/static/img/hindsight-github-banner.png",
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai-memory",
+      "memory"
+    ],
+    "created_at": "2025-10-30T11:49:48Z"
   }
 }
