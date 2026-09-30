@@ -4928,5 +4928,14 @@
       "memory"
     ],
     "created_at": "2025-10-30T11:49:48Z"
+  },
+  "colbymchenry/codegraph": {
+    "first_seen": "2026-09-30",
+    "stars": 72479,
+    "summary": "CodeGraph supercharges AI coding assistants like Claude, Cursor, and Copilot by building a complete semantic code graph in your local environment, giving agents surgical precision to understand dependencies, impacts, and context across your entire codebase. Built with Rust for speed and designed specifically for how modern AI agents actually work, it's the intelligent backbone that transforms your AI coding partner from helpful to genuinely powerful.",
+    "image": "https://github.com/user-attachments/assets/f168182f-4d9a-44e0-94d7-08d018cc8a3a",
+    "language": "C",
+    "topics": [],
+    "created_at": "2026-01-18T21:45:37Z"
   }
 }
