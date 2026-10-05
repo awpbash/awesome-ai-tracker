@@ -4956,5 +4956,32 @@
       "rag"
     ],
     "created_at": "2025-12-28T15:35:54Z"
+  },
+  "shadcn-ui/ui": {
+    "first_seen": "2026-10-05",
+    "stars": 125144,
+    "summary": "shadcn/ui gives you a collection of beautifully crafted, copy-paste React components built with Radix UI and Tailwind CSS that you can fully customize and make your own without being locked into a design system. It's perfect if you want production-ready components with complete control over the code, letting you build a truly personalized component library instead of fighting against constraints.",
+    "image": "https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/v4/public/opengraph-image.png",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "base-ui",
+      "components",
+      "gen-ui",
+      "generative-ai",
+      "generative-ui",
+      "laravel",
+      "nextjs",
+      "radix-ui",
+      "react",
+      "react-aria",
+      "react-aria-components",
+      "shadcn",
+      "tailwindcss",
+      "tanstack",
+      "ui",
+      "vite"
+    ],
+    "created_at": "2023-01-04T12:43:27Z"
   }
 }
