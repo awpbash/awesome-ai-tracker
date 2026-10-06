@@ -4983,5 +4983,53 @@
       "vite"
     ],
     "created_at": "2023-01-04T12:43:27Z"
+  },
+  "cathrynlavery/diagram-design": {
+    "first_seen": "2026-10-06",
+    "stars": 43726,
+    "summary": "# Summary\n\nDiagram Design is a Claude Code skill that generates beautifully designed, editorial-quality diagrams (architecture, flowcharts, sequences, and more) in self-contained HTML+SVG without the typical generic rounded-box look or Figma headaches. It reads your website's style in seconds and produces publication-ready visuals across 15+ diagram types with zero build steps or dependencies—perfect for developers who want professional diagrams without sacrificing hours to design tools.",
+    "image": "https://raw.githubusercontent.com/cathrynlavery/diagram-design/main/docs/screenshots/thumbs/architecture.webp",
+    "language": "HTML",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "diagrams",
+      "drawio",
+      "mermaid",
+      "svg"
+    ],
+    "created_at": "2026-04-16T18:01:16Z"
+  },
+  "The-Vibe-Company/quivr": {
+    "first_seen": "2026-10-06",
+    "stars": 39581,
+    "summary": "Quivr is an open-source platform that transforms continuous content streams into instantly searchable, enriched data with built-in durability and idempotency—perfect for building RAG systems, monitoring pipelines, or domain-specific search without losing a single piece of information. Its plugin-based architecture lets you adapt formats, AI models, and business logic to your needs while PostgreSQL and S3 keep your data safe and auditable, making it ideal for developers who need reliable, production-ready content ingestion at scale.",
+    "image": "https://opengraph.githubassets.com/1/The-Vibe-Company/quivr",
+    "language": "Go",
+    "topics": [
+      "ai",
+      "api",
+      "chatbot",
+      "chatgpt",
+      "database",
+      "docker",
+      "framework",
+      "frontend",
+      "groq",
+      "html",
+      "javascript",
+      "llm",
+      "openai",
+      "postgresql",
+      "privacy",
+      "rag",
+      "react",
+      "security",
+      "typescript",
+      "vector"
+    ],
+    "created_at": "2023-05-12T23:53:30Z"
   }
 }
