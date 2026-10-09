@@ -5031,5 +5031,21 @@
       "vector"
     ],
     "created_at": "2023-05-12T23:53:30Z"
+  },
+  "alibaba/open-code-review": {
+    "first_seen": "2026-10-09",
+    "stars": 44908,
+    "summary": "OpenCodeReview is an AI-powered CLI that automatically reviews your code changes with precision and depth, leveraging large language models to catch defects and issues that surface-level tools miss. Born from Alibaba's internal AI assistant that's already helped thousands of developers fix millions of bugs, it brings enterprise-grade code review automation to your workflow with minimal setup.",
+    "image": "https://raw.githubusercontent.com/alibaba/open-code-review/main/imgs/highlights-en.png",
+    "language": "Go",
+    "topics": [
+      "agent",
+      "agent-skills",
+      "code-review",
+      "code-review-assistant",
+      "harness",
+      "repository-level-context"
+    ],
+    "created_at": "2026-05-18T02:16:36Z"
   }
 }
