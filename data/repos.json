@@ -5047,5 +5047,35 @@
       "repository-level-context"
     ],
     "created_at": "2026-05-18T02:16:36Z"
+  },
+  "morluto/rea": {
+    "first_seen": "2026-10-10",
+    "stars": 63023,
+    "summary": "REA is a powerful reverse engineering tool that lets you inspect binaries, applications, and websites to understand how features work—perfect for developers who want to learn from existing code or recreate functionality in their own projects. It works as an MCP server that integrates with your AI agent, supports multiple formats (native binaries, JavaScript, .NET, and more), and runs analysis locally so you keep full control and transparency over your findings.",
+    "image": "https://skills.sh/b/morluto/rea?style=flat-square",
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "binary-analysis",
+      "claude-code",
+      "cli",
+      "codex",
+      "cordis",
+      "ctf",
+      "decompiler",
+      "developer-tools",
+      "disassembler",
+      "dsh",
+      "dsh-plugin",
+      "ghidra",
+      "hopper",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "reverse-engineering",
+      "static-analysis"
+    ],
+    "created_at": "2026-04-14T00:51:32Z"
   }
 }
