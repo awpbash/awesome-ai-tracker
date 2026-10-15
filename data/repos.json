@@ -5077,5 +5077,35 @@
       "static-analysis"
     ],
     "created_at": "2026-04-14T00:51:32Z"
+  },
+  "pathwaycom/serviette": {
+    "first_seen": "2026-10-15",
+    "stars": 58792,
+    "summary": "serviette is a no-code RAG server that keeps your document-based Q&A system automatically up-to-date, reflecting any file changes within seconds without manual re-indexing. Get a live chat interface and REST API running in four commands with just a YAML config, keeping your data local by default while staying powered by the battle-tested Pathway framework.",
+    "image": "https://raw.githubusercontent.com/pathwaycom/serviette/main/docs/assets/demo.gif",
+    "language": "Python",
+    "topics": [
+      "chromadb",
+      "document-qa",
+      "document-search",
+      "duckdb",
+      "live-data",
+      "llm",
+      "milvus",
+      "mongodb",
+      "no-code",
+      "pathway",
+      "pgvector",
+      "pinecone",
+      "qdrant",
+      "rag",
+      "real-time",
+      "retrieval-augmented-generation",
+      "self-hosted",
+      "semantic-search",
+      "vector-database",
+      "weaviate"
+    ],
+    "created_at": "2023-07-19T08:43:37Z"
   }
 }
