@@ -5129,5 +5129,42 @@
       "resume"
     ],
     "created_at": "2026-03-18T14:33:04Z"
+  },
+  "anthropics/claude-plugins-official": {
+    "first_seen": "2026-10-18",
+    "stars": 42289,
+    "summary": "This is the official marketplace for Claude Code plugins, offering a curated collection of vetted extensions that enhance Claude's capabilities with custom commands, skills, and integrations. Whether you're building internal tools or exploring community-contributed plugins, this directory makes it easy to discover, install, and manage powerful extensions to supercharge your Claude Code workflow.",
+    "image": "https://opengraph.githubassets.com/1/anthropics/claude-plugins-official",
+    "language": "Python",
+    "topics": [
+      "claude-code",
+      "mcp",
+      "skills"
+    ],
+    "created_at": "2025-11-20T18:36:20Z"
+  },
+  "codewhale-hq/Codewhale": {
+    "first_seen": "2026-10-18",
+    "stars": 41102,
+    "summary": "Codewhale is an open-source AI coding agent that reads your codebase, edits files, runs commands, and debugs itself—all from your terminal using any model you choose (hosted or local). It gives you an autonomous pair programmer that actually understands your project and can tackle real tasks without lock-in to any single AI provider.",
+    "image": "https://raw.githubusercontent.com/codewhale-hq/Codewhale/main/docs/assets/contributors.png",
+    "language": "Rust",
+    "topics": [
+      "agent-orchestration",
+      "ai-agent",
+      "cli",
+      "codewhale",
+      "coding-agent",
+      "developer-tools",
+      "local-first",
+      "mcp",
+      "multi-agent",
+      "multi-model",
+      "open-source",
+      "rust",
+      "terminal",
+      "tui"
+    ],
+    "created_at": "2026-01-19T18:21:01Z"
   }
 }
