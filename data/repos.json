@@ -5166,5 +5166,14 @@
       "tui"
     ],
     "created_at": "2026-01-19T18:21:01Z"
+  },
+  "cloudflare/security-audit-skill": {
+    "first_seen": "2026-10-23",
+    "stars": 40914,
+    "summary": "This repo gives you a battle-tested blueprint for building AI-powered security auditors that systematically hunt vulnerabilities through six structured phases—reconnaissance, coverage-led hunting, validation, and independent verification—so you can catch real issues your code reviewers might miss. It's the exact foundation Cloudflare used to seed their vulnerability discovery system, now open-sourced as a reusable skill that gets smarter with every run by learning from prior audits.",
+    "image": "https://opengraph.githubassets.com/1/cloudflare/security-audit-skill",
+    "language": "JavaScript",
+    "topics": [],
+    "created_at": "2026-06-18T14:08:44Z"
   }
 }
