@@ -5327,5 +5327,23 @@
       "coding"
     ],
     "created_at": "2026-04-01T03:15:49Z"
+  },
+  "multica-ai/multica": {
+    "first_seen": "2026-10-31",
+    "stars": 54431,
+    "summary": "Multica is a workspace that lets you manage multiple AI coding agents like teammates—assign them issues, track their progress in real-time, and review their work before shipping, all without lock-in or context loss. It solves the chaos of juggling separate agent terminals by keeping intent, runs, decisions, and diffs connected in one collaborative board where humans stay in control.",
+    "image": "https://raw.githubusercontent.com/multica-ai/multica/main/apps/docs/public/images/docs/workspace-overview.webp",
+    "language": "Go",
+    "topics": [],
+    "created_at": "2026-01-13T17:59:46Z"
+  },
+  "THU-MAIC/OpenMAIC": {
+    "first_seen": "2026-10-31",
+    "stars": 42035,
+    "summary": "OpenMAIC is a one-click platform that lets you build and run immersive multi-agent systems with built-in tools for web research, knowledge management, and local AI capabilities. Whether you're experimenting with agent interactions, building production applications, or teaching AI concepts, it handles the complexity so you can focus on what your agents should do.",
+    "image": "https://api.star-history.com/svg?repos=THU-MAIC/OpenMAIC&type=Date",
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2026-03-11T10:13:16Z"
   }
 }

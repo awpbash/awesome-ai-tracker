@@ -4,7 +4,7 @@
 
 **A daily-updated, auto-curated awesome list of the hottest AI/ML repos on GitHub.**
 
-![Last Update](https://img.shields.io/badge/last_update-2026--10--30-brightgreen?style=flat-square)
+![Last Update](https://img.shields.io/badge/last_update-2026--10--31-brightgreen?style=flat-square)
 ![AI Powered](https://img.shields.io/badge/summaries-Claude_Haiku-blueviolet?style=flat-square)
 ![Automation](https://img.shields.io/badge/updates-daily_via_Actions-orange?style=flat-square)
 
@@ -28,6 +28,17 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 ---
 
+## 🔥 Today's Top Picks (2026-10-31)
+
+- <a href="https://github.com/multica-ai/multica"><img src="https://raw.githubusercontent.com/multica-ai/multica/main/apps/docs/public/images/docs/workspace-overview.webp" width="70" align="left" alt="multica-ai/multica" /></a> **[multica-ai/multica](https://github.com/multica-ai/multica)** ⭐ 54.4k `Go` · 📅 2026-01-13<br/>Multica is a workspace that lets you manage multiple AI coding agents like teammates—assign them issues, track their progress in real-time, and review their work before shipping, all without lock-in or context loss. It solves the chaos of juggling separate agent terminals by keeping intent, runs, decisions, and diffs connected in one collaborative board where humans stay in control.
+
+- <a href="https://github.com/THU-MAIC/OpenMAIC"><img src="https://api.star-history.com/svg?repos=THU-MAIC/OpenMAIC&type=Date" width="70" align="left" alt="THU-MAIC/OpenMAIC" /></a> **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 42.0k `TypeScript` · 📅 2026-03-11<br/>OpenMAIC is a one-click platform that lets you build and run immersive multi-agent systems with built-in tools for web research, knowledge management, and local AI capabilities. Whether you're experimenting with agent interactions, building production applications, or teaching AI concepts, it handles the complexity so you can focus on what your agents should do.
+
+
+> **[See all 2 repos →](daily/2026-10-31.md)**
+
+---
+
 <details>
 <summary><strong>🏢 Latest Model Releases</strong> (click to expand)</summary>
 
@@ -40,33 +51,33 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) | 38,769 | 1085 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Image Gen |
-| [Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) | 206,320 | 3500 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Image Gen |
-| [Qwen3Guard-Stream-4B](https://huggingface.co/Qwen/Qwen3Guard-Stream-4B) | 999 | 39 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
-| [Qwen3Guard-Stream-0.6B](https://huggingface.co/Qwen/Qwen3Guard-Stream-0.6B) | 4,945 | 52 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
-| [Qwen3Guard-Stream-8B](https://huggingface.co/Qwen/Qwen3Guard-Stream-8B) | 695 | 53 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
+| [Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) | 39,718 | 1087 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Image Gen |
+| [Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) | 212,670 | 3503 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Image Gen |
+| [Qwen3Guard-Stream-4B](https://huggingface.co/Qwen/Qwen3Guard-Stream-4B) | 1,015 | 39 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
+| [Qwen3Guard-Stream-0.6B](https://huggingface.co/Qwen/Qwen3Guard-Stream-0.6B) | 4,924 | 52 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
+| [Qwen3Guard-Stream-8B](https://huggingface.co/Qwen/Qwen3Guard-Stream-8B) | 737 | 53 | ➖ Text ✅ Code ➖ Vision ➖ Multilingual |
 
 ### OpenAI
 > Latest: **privacy-filter**, **gpt-oss-safeguard**, **circuit-sparsity**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [privacy-filter](https://huggingface.co/openai/privacy-filter) | 111,916 | 1821 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-safeguard-20b](https://huggingface.co/openai/gpt-oss-safeguard-20b) | 19,902 | 286 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [circuit-sparsity](https://huggingface.co/openai/circuit-sparsity) | 1,621 | 221 | ✅ Text ✅ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-safeguard-120b](https://huggingface.co/openai/gpt-oss-safeguard-120b) | 11,495 | 122 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) | 6.1M | 5250 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [privacy-filter](https://huggingface.co/openai/privacy-filter) | 111,365 | 1822 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-safeguard-20b](https://huggingface.co/openai/gpt-oss-safeguard-20b) | 18,847 | 286 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [circuit-sparsity](https://huggingface.co/openai/circuit-sparsity) | 1,666 | 221 | ✅ Text ✅ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-safeguard-120b](https://huggingface.co/openai/gpt-oss-safeguard-120b) | 12,152 | 122 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) | 6.1M | 5255 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### Google (Gemini)
-> Latest: **embeddinggemma-2**, **gemma-4**, **timesfm-3.0-pytorch**
+> Latest: **gemma-4**, **embeddinggemma-2**, **timesfm-3.0-pytorch**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) | 338,269 | 3022 | ➖ Text ➖ Code ✅ Vision ✅ Multilingual · Audio · Video |
-| [gemma-4-12B-it-assistant](https://huggingface.co/google/gemma-4-12B-it-assistant) | 30,002 | 146 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch) | 782,728 | 999 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gnm-v3](https://huggingface.co/google/gnm-v3) | 0 | 30 | ➖ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [tipsv1-g14](https://huggingface.co/google/tipsv1-g14) | 326 | 17 | ➖ Text ✅ Code ✅ Vision ➖ Multilingual |
+| [gemma-4-12B-it](https://huggingface.co/google/gemma-4-12B-it) | 1.8M | 1705 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gemma-4-12B](https://huggingface.co/google/gemma-4-12B) | 52,436 | 826 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) | 365,603 | 3034 | ➖ Text ➖ Code ✅ Vision ✅ Multilingual · Audio · Video |
+| [gemma-4-12B-it-assistant](https://huggingface.co/google/gemma-4-12B-it-assistant) | 28,514 | 146 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch) | 738,941 | 1002 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### ByteDance
 > Latest: **GRN**, **Lance**, **Valley3**
@@ -74,49 +85,63 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
 | [GRN](https://huggingface.co/bytedance-research/GRN) | 0 | 27 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Lance](https://huggingface.co/bytedance-research/Lance) | 420 | 1071 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Video · Image Gen |
-| [Valley3-8B-Think](https://huggingface.co/bytedance-research/Valley3-8B-Think) | 52 | 8 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Valley3-32B-Think](https://huggingface.co/bytedance-research/Valley3-32B-Think) | 24 | 2 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Valley3-8B-Instruct](https://huggingface.co/bytedance-research/Valley3-8B-Instruct) | 41 | 4 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Lance](https://huggingface.co/bytedance-research/Lance) | 426 | 1071 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Video · Image Gen |
+| [Valley3-8B-Think](https://huggingface.co/bytedance-research/Valley3-8B-Think) | 55 | 8 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Valley3-32B-Think](https://huggingface.co/bytedance-research/Valley3-32B-Think) | 25 | 2 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Valley3-8B-Instruct](https://huggingface.co/bytedance-research/Valley3-8B-Instruct) | 46 | 4 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### Meta
 > Latest: **Prompt-Guard**, **Meta-Llama-3**, **Llama-4-Maverick**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M) | 2.5M | 433 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | 319,771 | 5639 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) | 33,144 | 1536 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Llama-4-Maverick-17B-128E-Instruct](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) | 10,622 | 517 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
-| [Llama-4-Maverick-17B-128E-Instruct-FP8](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) | 42,577 | 188 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
+| [Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M) | 2.4M | 433 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | 319,234 | 5649 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) | 34,540 | 1536 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Llama-4-Maverick-17B-128E-Instruct](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) | 10,975 | 519 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
+| [Llama-4-Maverick-17B-128E-Instruct-FP8](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) | 42,408 | 188 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
 
 ### DeepSeek
 > Latest: **DeepSeek-V4.1-Flash-1017**, **DeepSeek-V4.1-Flash**, **DeepSeek-V4-Flash-Vision-Exp**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | 145,869 | 3958 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) | 2.0M | 4801 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) | 241,523 | 960 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [DeepSeek-V4-Pro-0813](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813) | 150,475 | 905 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) | 3.4M | 4092 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | 156,373 | 4064 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) | 2.1M | 4817 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) | 227,041 | 961 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [DeepSeek-V4-Pro-0813](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813) | 151,375 | 906 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) | 3.3M | 4093 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### Mistral
 > Latest: **Mistral-Large-4-1T-A52B**, **Timestral**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Mistral-Large-4-1T-A52B-NVFP4](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B-NVFP4) | 315 | 51 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
-| [Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) | 1,239 | 1307 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
-| [Timestral-28M](https://huggingface.co/mistralai/Timestral-28M) | 10,462 | 47 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Timestral-5M](https://huggingface.co/mistralai/Timestral-5M) | 8,139 | 77 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Timestral-123M](https://huggingface.co/mistralai/Timestral-123M) | 4,875 | 44 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Mistral-Large-4-1T-A52B-NVFP4](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B-NVFP4) | 545 | 59 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
+| [Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) | 2,945 | 1380 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
+| [Timestral-28M](https://huggingface.co/mistralai/Timestral-28M) | 11,135 | 47 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Timestral-5M](https://huggingface.co/mistralai/Timestral-5M) | 8,780 | 77 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Timestral-123M](https://huggingface.co/mistralai/Timestral-123M) | 5,215 | 44 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 </details>
 
 ---
 
 <!-- CHANGELOG -->
+<details>
+<summary><strong>📜 Full Changelog</strong> (click to expand)</summary>
+
+## 🔥 2026-10-31 — 2 new repos
+
+**📈 Trending Today**
+
+**🤝 Multi-Agent Orchestration**
+- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ⭐ 42.0k · 📅 2026-03-11 — OpenMAIC is a one-click platform that lets you build and run immersive multi-agent systems with built-in tools for...
+
+**💻 Coding Agents & Dev Tools**
+- **[multica-ai/multica](https://github.com/multica-ai/multica)** ⭐ 54.4k · 📅 2026-01-13 — Multica is a workspace that lets you manage multiple AI coding agents like teammates—assign them issues, track their...
+
+> [Full details →](daily/2026-10-31.md)
 <details>
 <summary><strong>📜 Full Changelog</strong> (click to expand)</summary>
 
@@ -2697,6 +2722,17 @@ No new repos today.
 **How it works:** GitHub Actions runs daily → discovers trending + new repos → Claude Haiku writes summaries → auto-commits
 
 Made with ❤️ and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)
+
+</div>
+
+</details>
+---
+
+<div align="center">
+
+**How it works:** GitHub Actions runs daily → discovers trending + new repos → Claude Haiku writes summaries → auto-commits
+
+Made with Github Actions and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)
 
 </div>
 
