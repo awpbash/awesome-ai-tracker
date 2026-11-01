@@ -5345,5 +5345,39 @@
     "language": "TypeScript",
     "topics": [],
     "created_at": "2026-03-11T10:13:16Z"
+  },
+  "patchy631/ai-engineering-hub": {
+    "first_seen": "2026-11-01",
+    "stars": 39915,
+    "summary": "This comprehensive hub offers 93+ production-ready AI projects spanning LLMs, RAG, agents, and vision tasks, making it the go-to resource for engineers at any skill level to learn and build real-world AI applications. Whether you're starting from scratch or tackling advanced concepts, you'll find step-by-step tutorials, practical code examples, and everything you need to level up your AI engineering skills quickly.",
+    "image": "https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agents",
+      "ai",
+      "llms",
+      "machine-learning",
+      "mcp",
+      "rag"
+    ],
+    "created_at": "2024-10-21T10:43:24Z"
+  },
+  "lightpanda-io/browser": {
+    "first_seen": "2026-11-01",
+    "stars": 39747,
+    "summary": "Lightpanda is a blazingly fast headless browser built from scratch in Zig, delivering 16x lighter memory usage and 9x faster performance than Chromium—perfect for powering AI agents and web automation at scale. Skip the heavy lifting of traditional browsers and get a purpose-built tool that's actually designed for the job, with simple installation across Linux, macOS, and WSL.",
+    "image": "https://cdn.lightpanda.io/assets/images/logo/lpd-logo.png",
+    "language": "Zig",
+    "topics": [
+      "browser",
+      "browser-automation",
+      "cdp",
+      "headless",
+      "lightpanda",
+      "playwright",
+      "puppeteer",
+      "zig"
+    ],
+    "created_at": "2023-02-07T15:19:34Z"
   }
 }
