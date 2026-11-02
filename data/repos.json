@@ -5379,5 +5379,22 @@
       "zig"
     ],
     "created_at": "2023-02-07T15:19:34Z"
+  },
+  "p-e-w/heretic": {
+    "first_seen": "2026-11-02",
+    "stars": 37918,
+    "summary": "Heretic lets you modify language models without expensive training—remove censorship, reduce unwanted behaviors, and customize LLM outputs using mathematical steering techniques that run on consumer hardware. Whether you're suppressing refusals or tuning emotional alignment, you can transform any model you can run in just seconds, no deep learning expertise required.",
+    "image": "https://github.com/user-attachments/assets/c9b5a660-7ef9-43c7-991c-fd9d63ea8bd8",
+    "language": "Python",
+    "topics": [
+      "abliteration",
+      "anti-censorship",
+      "anticensorship",
+      "censorship",
+      "censorship-resistance",
+      "llm",
+      "transformer"
+    ],
+    "created_at": "2025-09-21T05:46:16Z"
   }
 }
