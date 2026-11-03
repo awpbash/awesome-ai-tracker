@@ -5396,5 +5396,14 @@
       "transformer"
     ],
     "created_at": "2025-09-21T05:46:16Z"
+  },
+  "JustVugg/colibri": {
+    "first_seen": "2026-11-03",
+    "stars": 47036,
+    "summary": "Colibri lets you run massive AI models (hundreds of billions of parameters) on your everyday machine by cleverly keeping only the active parts in RAM and loading the rest from disk—no GPU needed, pure C, blazingly fast. Whether you have a laptop with 8GB of RAM or a beefy workstation, colibri figures out the perfect model for your hardware and gets you chatting with state-of-the-art language models in seconds.",
+    "image": "https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=justvugg&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff",
+    "language": "C",
+    "topics": [],
+    "created_at": "2026-07-01T12:27:49Z"
   }
 }
