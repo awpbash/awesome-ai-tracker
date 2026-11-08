@@ -5414,5 +5414,34 @@
     "language": "Rust",
     "topics": [],
     "created_at": "2026-01-11T05:38:15Z"
+  },
+  "PDFMathTranslate/PDFMathTranslate": {
+    "first_seen": "2026-11-08",
+    "stars": 38289,
+    "summary": "PDFMathTranslate intelligently translates scientific PDFs while preserving formulas, charts, and layouts—perfect for researchers drowning in papers they can't read. It supports multiple languages and translation services with CLI, GUI, and Docker options, making it accessible whether you're a command-line power user or prefer a friendly interface.",
+    "image": "https://repobeats.axiom.co/api/embed/dfa7583da5332a11468d686fbd29b92320a6a869.svg \"Repobeats analytics image\"",
+    "language": "Python",
+    "topics": [
+      "chinese",
+      "document",
+      "edit",
+      "english",
+      "japanese",
+      "korean",
+      "latex",
+      "math",
+      "mcp",
+      "modify",
+      "obsidian",
+      "openai",
+      "pdf",
+      "pdf2zh",
+      "python",
+      "russian",
+      "translate",
+      "translation",
+      "zotero"
+    ],
+    "created_at": "2024-09-06T06:56:03Z"
   }
 }
