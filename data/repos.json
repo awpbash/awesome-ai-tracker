@@ -5443,5 +5443,26 @@
       "zotero"
     ],
     "created_at": "2024-09-06T06:56:03Z"
+  },
+  "volcengine/OpenViking": {
+    "first_seen": "2026-11-14",
+    "stars": 42227,
+    "summary": "OpenViking is a context database that organizes AI agent memory as a transparent, inspectable virtual filesystem where you can see exactly what your agent knows and edit it like regular files. If you're tired of black-box embeddings and want full control over agent context, this is the missing piece that makes memory actually understandable and manageable.",
+    "image": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/images/readme-logo-light.png",
+    "language": "Python",
+    "topics": [
+      "agent-context",
+      "agent-memory",
+      "agent-plugins",
+      "agentic-rag",
+      "context-database",
+      "dsh-plugin",
+      "knowledge-base",
+      "memory",
+      "memory-management",
+      "self-evolving",
+      "vector-database"
+    ],
+    "created_at": "2026-01-05T07:11:17Z"
   }
 }
