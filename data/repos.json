@@ -5464,5 +5464,27 @@
       "vector-database"
     ],
     "created_at": "2026-01-05T07:11:17Z"
+  },
+  "Donchitos/Claude-Code-Game-Studios": {
+    "first_seen": "2026-11-15",
+    "stars": 39476,
+    "summary": "Claude Code Game Studios turns your game idea into a playable browser game in minutes—just describe what you want and Claude asks smart questions, writes a design brief, and builds a fully functional prototype you can immediately play and iterate on. It's the fastest way from \"what if\" to \"wow, that actually works,\" letting you collaboratively grow your game one feature at a time with AI that understands your vision and checks its own work.",
+    "image": "https://opengraph.githubassets.com/1/Donchitos/Claude-Code-Game-Studios",
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-assisted-development",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "game-design",
+      "game-development",
+      "gamedev",
+      "godot",
+      "indie-game-dev",
+      "unity",
+      "unreal-engine"
+    ],
+    "created_at": "2026-02-12T05:21:38Z"
   }
 }
