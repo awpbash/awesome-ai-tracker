@@ -4,7 +4,7 @@
 
 **A daily-updated, auto-curated awesome list of the hottest AI/ML repos on GitHub.**
 
-![Last Update](https://img.shields.io/badge/last_update-2026--11--16-brightgreen?style=flat-square)
+![Last Update](https://img.shields.io/badge/last_update-2026--11--17-brightgreen?style=flat-square)
 ![AI Powered](https://img.shields.io/badge/summaries-Claude_Haiku-blueviolet?style=flat-square)
 ![Automation](https://img.shields.io/badge/updates-daily_via_Actions-orange?style=flat-square)
 
@@ -40,33 +40,33 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Qwen3.8-2.4T-A95B-FP8](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8) | 10,201 | 273 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) | 28,798 | 1398 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Qwen3.8-Flash-Next-FP8](https://huggingface.co/Qwen/Qwen3.8-Flash-Next-FP8) | 174,393 | 315 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) | 3.0M | 7186 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) | 5.9M | 990 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [Qwen3.8-2.4T-A95B-FP8](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8) | 10,432 | 274 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) | 29,059 | 1399 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Qwen3.8-Flash-Next-FP8](https://huggingface.co/Qwen/Qwen3.8-Flash-Next-FP8) | 206,228 | 317 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) | 3.0M | 7256 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) | 6.1M | 1003 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
 
 ### OpenAI
 > Latest: **privacy-filter**, **gpt-oss-safeguard**, **circuit-sparsity**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [privacy-filter](https://huggingface.co/openai/privacy-filter) | 98,988 | 1837 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-safeguard-20b](https://huggingface.co/openai/gpt-oss-safeguard-20b) | 28,476 | 293 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [circuit-sparsity](https://huggingface.co/openai/circuit-sparsity) | 1,777 | 221 | ✅ Text ✅ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-safeguard-120b](https://huggingface.co/openai/gpt-oss-safeguard-120b) | 18,355 | 128 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) | 5.6M | 5319 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [privacy-filter](https://huggingface.co/openai/privacy-filter) | 104,109 | 1839 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-safeguard-20b](https://huggingface.co/openai/gpt-oss-safeguard-20b) | 29,259 | 293 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [circuit-sparsity](https://huggingface.co/openai/circuit-sparsity) | 1,762 | 221 | ✅ Text ✅ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-safeguard-120b](https://huggingface.co/openai/gpt-oss-safeguard-120b) | 18,651 | 128 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) | 5.6M | 5322 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### Google (Gemini)
 > Latest: **diffusiongemma**, **gemma-4-E4B**, **gemma-4-E2B**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) | 648,032 | 1331 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [gemma-4-E4B-it](https://huggingface.co/google/gemma-4-E4B-it) | 4.3M | 1856 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gemma-4-E4B](https://huggingface.co/google/gemma-4-E4B) | 456,150 | 515 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gemma-4-E2B-it](https://huggingface.co/google/gemma-4-E2B-it) | 2.9M | 1138 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [gemma-4-E2B](https://huggingface.co/google/gemma-4-E2B) | 95,516 | 561 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) | 634,223 | 1334 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [gemma-4-E4B-it](https://huggingface.co/google/gemma-4-E4B-it) | 4.3M | 1862 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gemma-4-E4B](https://huggingface.co/google/gemma-4-E4B) | 458,439 | 517 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gemma-4-E2B-it](https://huggingface.co/google/gemma-4-E2B-it) | 2.8M | 1146 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [gemma-4-E2B](https://huggingface.co/google/gemma-4-E2B) | 95,733 | 564 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### ByteDance
 > Latest: **GRN**, **Lance**, **Valley3**
@@ -74,9 +74,9 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
 | [GRN](https://huggingface.co/bytedance-research/GRN) | 0 | 27 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Lance](https://huggingface.co/bytedance-research/Lance) | 404 | 1070 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Video · Image Gen |
+| [Lance](https://huggingface.co/bytedance-research/Lance) | 385 | 1070 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual · Video · Image Gen |
 | [Valley3-8B-Think](https://huggingface.co/bytedance-research/Valley3-8B-Think) | 57 | 8 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Valley3-32B-Think](https://huggingface.co/bytedance-research/Valley3-32B-Think) | 39 | 2 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Valley3-32B-Think](https://huggingface.co/bytedance-research/Valley3-32B-Think) | 40 | 2 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 | [Valley3-8B-Instruct](https://huggingface.co/bytedance-research/Valley3-8B-Instruct) | 55 | 4 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### Meta
@@ -84,39 +84,47 @@ An LLM reads each repo and writes a plain-English summary so you can decide what
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M) | 1.1M | 436 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | 425,523 | 6096 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) | 46,638 | 1537 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Llama-4-Maverick-17B-128E-Instruct](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) | 13,261 | 524 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
-| [Llama-4-Maverick-17B-128E-Instruct-FP8](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) | 29,901 | 189 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
+| [Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M) | 995,793 | 436 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | 426,936 | 6162 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) | 50,517 | 1537 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Llama-4-Maverick-17B-128E-Instruct](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) | 13,038 | 526 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
+| [Llama-4-Maverick-17B-128E-Instruct-FP8](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) | 28,518 | 189 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
 
 ### DeepSeek
 > Latest: **DeepSeek-V4.1-Flash-1017**, **DeepSeek-V4.1-Flash**, **DeepSeek-V4-Flash-Vision-Exp**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | 467,224 | 5774 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) | 1.7M | 4981 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) | 36,166 | 970 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
-| [DeepSeek-V4-Pro-0813](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813) | 50,410 | 917 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) | 2.2M | 4107 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | 479,986 | 5846 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) | 1.6M | 4993 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) | 34,164 | 970 | ✅ Text ➖ Code ✅ Vision ➖ Multilingual |
+| [DeepSeek-V4-Pro-0813](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813) | 46,938 | 918 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) | 2.0M | 4111 | ✅ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 ### Mistral
 > Latest: **Mistral-Large-4-1T-A52B**, **Timestral**
 
 | Model | ⬇️ Downloads | ❤️ Likes | Capabilities |
 |-------|-------------|---------|--------------|
-| [Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) | 15,432 | 1663 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
-| [Mistral-Large-4-1T-A52B-NVFP4](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B-NVFP4) | 1,567 | 75 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
-| [Timestral-28M](https://huggingface.co/mistralai/Timestral-28M) | 19,680 | 55 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Timestral-5M](https://huggingface.co/mistralai/Timestral-5M) | 13,623 | 88 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
-| [Timestral-123M](https://huggingface.co/mistralai/Timestral-123M) | 9,758 | 47 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) | 18,004 | 1667 | ✅ Text ➖ Code ✅ Vision ✅ Multilingual |
+| [Mistral-Large-4-1T-A52B-NVFP4](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B-NVFP4) | 1,627 | 75 | ➖ Text ➖ Code ➖ Vision ✅ Multilingual |
+| [Timestral-28M](https://huggingface.co/mistralai/Timestral-28M) | 19,850 | 55 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Timestral-5M](https://huggingface.co/mistralai/Timestral-5M) | 13,624 | 88 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
+| [Timestral-123M](https://huggingface.co/mistralai/Timestral-123M) | 9,756 | 47 | ➖ Text ➖ Code ➖ Vision ➖ Multilingual |
 
 </details>
 
 ---
 
 <!-- CHANGELOG -->
+<details>
+<summary><strong>📜 Full Changelog</strong> (click to expand)</summary>
+
+## 🔥 2026-11-17 — 0 new repos
+
+No new repos today.
+
+> [Full details →](daily/2026-11-17.md)
 <details>
 <summary><strong>📜 Full Changelog</strong> (click to expand)</summary>
 
@@ -2863,6 +2871,17 @@ No new repos today.
 **How it works:** GitHub Actions runs daily → discovers trending + new repos → Claude Haiku writes summaries → auto-commits
 
 Made with ❤️ and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)
+
+</div>
+
+</details>
+---
+
+<div align="center">
+
+**How it works:** GitHub Actions runs daily → discovers trending + new repos → Claude Haiku writes summaries → auto-commits
+
+Made with Github Actions and [Claude](https://claude.ai) | [How to set up your own](SETUP.md) | [Contributing](CONTRIBUTING.md)
 
 </div>
 
