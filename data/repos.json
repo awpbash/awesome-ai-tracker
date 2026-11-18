@@ -5486,5 +5486,58 @@
       "unreal-engine"
     ],
     "created_at": "2026-02-12T05:21:38Z"
+  },
+  "openbq-org/OpenBB": {
+    "first_seen": "2026-11-18",
+    "stars": 75526,
+    "summary": "OpenBB is an open-source data integration platform that consolidates financial data from multiple sources and exposes it everywhere—Python notebooks, Excel, AI agents, and REST APIs—so you can build once and use everywhere. Whether you're a quant building models, an analyst creating dashboards, or an AI developer building copilots, OpenBB handles the messy work of connecting to hundreds of data providers so you can focus on what matters.",
+    "image": "https://github.com/user-attachments/assets/75cffb4a-5e95-470a-b9d0-6ffd4067e069",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "crypto",
+      "derivatives",
+      "economics",
+      "equity",
+      "finance",
+      "fixed-income",
+      "machine-learning",
+      "openbb",
+      "options",
+      "python",
+      "quantitative-finance",
+      "stocks"
+    ],
+    "created_at": "2020-12-20T10:46:38Z"
+  },
+  "appwrite/appwrite": {
+    "first_seen": "2026-11-18",
+    "stars": 58154,
+    "summary": "Appwrite is an open-source backend-as-a-service platform that gives you authentication, databases, storage, functions, messaging, and hosting all in one place—perfect for building modern apps fast without reinventing the wheel. It's also agent-first with built-in MCP support, so AI coding assistants like Claude and Cursor can work directly with your project, whether you use their managed cloud or self-host it yourself.",
+    "image": "https://github.com/user-attachments/assets/55a81268-4ecc-46cd-bdf5-73f7e8662fee",
+    "language": "TypeScript",
+    "topics": [
+      "android",
+      "appwrite",
+      "backend",
+      "backend-as-a-service",
+      "docker",
+      "firebase",
+      "firewall",
+      "flutter",
+      "hosting",
+      "ios",
+      "javascript",
+      "nextjs",
+      "react",
+      "react-native",
+      "reactnative",
+      "self-hosted",
+      "selfhosted",
+      "supabase",
+      "swift",
+      "web"
+    ],
+    "created_at": "2019-04-08T16:36:25Z"
   }
 }
